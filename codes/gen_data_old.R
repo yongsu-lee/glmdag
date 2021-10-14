@@ -1,9 +1,9 @@
-gen_data_new = function(n_obs, A_true, graph_true, W_true, ordin_pred_as = "num",
-                        interv_info=NULL, seed=NULL, df = TRUE) {
+gen_data_old = function(n_obs, A_true, graph_true, W_true, ordin_pred_as = "num",
+                    interv_info=NULL, seed=NULL, df = TRUE) {
   
   if(FALSE){ # debugging input
     interv_info = matrix(FALSE, n_obs, ncol(A_true))
-    # for( j in 0:(n_nodes-1)){interv_info[(10*j + 1):(10*(j+1)),(j+1)] <- TRUE }
+    for( j in 0:(n_nodes-1)){interv_info[(10*j + 1):(10*(j+1)),(j+1)] <- TRUE }
     rev_interv_info = !interv_info
     interv_info = matrix(FALSE, n_obs, n_nodes)
     ordin_pred_as = "num"
@@ -59,8 +59,6 @@ gen_data_new = function(n_obs, A_true, graph_true, W_true, ordin_pred_as = "num"
   
   set.seed(seed)
   
-  # load("gen_data_new.RData")
-  
   for (j in 1:n_nodes){ # j = 1
     
     resp_node = topo_info[j]
@@ -84,32 +82,13 @@ gen_data_new = function(n_obs, A_true, graph_true, W_true, ordin_pred_as = "num"
       
       if (node_type == "m" | node_type == "o"){
         
-        intcpt = W_true["(Intcpt)", idx_resps_j, drop =F]
-        
-        if (node_type == "m"){
-          
-          etas0 = intcpt # here intcpt is etas0
-          probs_no_ref = exp(etas0)  / (1+sum(exp(etas0)))
-   
-          
-        } else {
-          
-          T_H = 1* lower.tri(matrix(1, n_resps_j, n_resps_j), diag = T)
-          etas0_tilde = intcpt %*% T_H
-          probs_no_ref = exp(etas0_tilde)  / (1+sum(exp(etas0_tilde)))
-          
-        }
-        
-        probs_temp = rbind(c(probs_no_ref, 1-sum(probs_no_ref)))
-        probs = probs_temp[rep(1,n_obs),]
-        
-        Z_j = try_gen_levels(q_j, n_obs, probs)
-        
+        Z_j = try_gen_levels(q_j, n_obs)
+
         ## .. Intervention processing is pointless for root nodes.
         interv_j = interv_info[,resp_node]
         n_obs_interv_j = sum(interv_j)
         n_obs_by_node[resp_node ] = n_obs - n_obs_interv_j
-        
+                
         Z[, resp_node] = Z_j
         X1_temp[, idx_expls_by_node[[resp_node]]] <- 
           gen_X1_temp(node_type, Z_j, q_j, ordin_pred_as)
@@ -121,17 +100,19 @@ gen_data_new = function(n_obs, A_true, graph_true, W_true, ordin_pred_as = "num"
         
       } else {
         
-        mu_j = W_true["(Intcpt)", idx_resps_j]
-        Z_j = matrix(rnorm(n_obs * n_resps_j, mean = mu_j), ncol = n_resps_j )
+        Z_j = matrix(rnorm(n_obs * n_resps_j), ncol = n_resps_j )
         
         ## .. Intervention processing is pointless for root nodes.
         interv_j = interv_info[,resp_node]
         n_obs_interv_j = sum(interv_j)
         n_obs_by_node[resp_node ] = n_obs - n_obs_interv_j
         # Z_j[interv_j,] <- rnorm(n_obs_interv_j)
+
         
         Z[, resp_node] = Z_j
         X1_temp[, idx_expls_by_node[[resp_node]]] = Z_j
+        
+        
         
       }
       
@@ -219,10 +200,6 @@ gen_data_new = function(n_obs, A_true, graph_true, W_true, ordin_pred_as = "num"
 
 
 try_gen_levels = function(q_j, n_obs, probs = NULL, trials = 100){
-  
-  if(F){
-    trials = 100
-  }
   
   k = 0;
   
