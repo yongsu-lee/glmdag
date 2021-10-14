@@ -1,4 +1,4 @@
-setwd("~/iCloud/paper_a/paper_a_submit/biom_j/biom_j_code_submit/")
+setwd("~/iCloud/glmdag")
 
 rm(list=ls())
 source("./codes/00_load_ftns.R")
