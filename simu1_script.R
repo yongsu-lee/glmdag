@@ -8,12 +8,6 @@ if (F){
   
 }
 
-# Generate the true graph and obtain corresponding adjacency matrix
-graph_set = gen_graph_adj_mat(n_nodes, graph_type, seed = seed_para)
-graph_true = graph_set$graph_true
-A_true = graph_set$A_true
-n_edge = sum(A_true) 
-
 # Set type of each nodes
 types_by_node = rep("m", n_nodes)
 

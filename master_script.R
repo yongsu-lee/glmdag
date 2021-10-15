@@ -20,7 +20,7 @@ if (sysname == "Linux"){ # for CHTC server
   iter = as.integer(queue_args[2])
   # ell = NULL
   
-  name_temp = paste(simu_case, size,"n", n_obs, graph_type, iter, sep = "_")
+  name_temp = paste(simu_case, size,"n", n_obs, graph_tlsype, iter, sep = "_")
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
   # Pull glmdag codes from github
@@ -51,8 +51,14 @@ if (sysname == "Linux"){ # for CHTC server
 ## Sourcing files
 source(paste0(init_dir,"codes/00_load_ftns.R"))
 
+## Generate the true graph and obtain corresponding adjacency matrix
+graph_set = gen_graph_adj_mat(n_nodes, graph_type, seed = seed_para)
+graph_true = graph_set$graph_true
+A_true = graph_set$A_true
+n_edge = sum(A_true) 
+
 ## Run simulation
-source(paste0(init_dir, simu_case,"_script.R"))
+source(paste0(init_dir, simu_case, "_script.R"))
 
 ## Save the result
 saveRDS(result, file = paste0(name_temp,".rds"))

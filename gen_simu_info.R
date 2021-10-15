@@ -1,10 +1,13 @@
 simu_info = list(
-  simu_case = "simu1",
+  simu_case = "simu2",
   size = "small",
-  method = NULL,
+  method = "mc",
   seed_para = 1,
   n_obs = 50,
-  n_nodes = 10,
+  n_multi = 4,
+  n_conti = 3,
+  n_ordin = 3,
+  n_nodes = n_multi + n_conti + n_ordin,
   n_lams = 3,
   eps_lam = 0.3
 )
