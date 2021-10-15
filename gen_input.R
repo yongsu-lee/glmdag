@@ -1,15 +1,15 @@
 ## Generate Simulation Information ####
 simu_info = list(
-  simu_case = "mmhc",
-  size = "small",
+  simu_case = "simu2",
+  size = "large",
   seed_para = 1,
-  n_obs = 50,
-  n_multi = 4,
-  n_conti = 3,
-  n_ordin = 3,
+  n_obs = 200,
+  n_multi = 15,
+  n_conti = 15,
+  n_ordin = 20,
   n_lams = 30,
-  eps_lam = 0.05,
-  path_par = FALSE
+  eps_lam = 0.3,
+  path_par = TRUE
 )
 saveRDS(simu_info, "simu_info.rds")
 
@@ -22,5 +22,5 @@ queue_list = function(args_list, file_name){
               quote = F, row.names = F, col.names = F)
 }
 
-args_list = list(c("bi", "rand", "sf", "sw", "tree" ), c("mc", "mo", "mm"), 1:100)
+args_list = list("rand", c("mc", "mo", "mm"), 1:50, 1:30)
 queue_list(args_list, "queue_list")

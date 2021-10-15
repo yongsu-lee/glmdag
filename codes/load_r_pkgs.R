@@ -29,11 +29,13 @@ if(!require(igraph)){
   library("igraph", quietly = T)
 }
 
+Sys.sleep(1)
 if(!require(Rcpp)){
   install.packages("Rcpp", quiet = T)
   library("Rcpp", quietly = T)
 }
 
+Sys.sleep(1)
 if(!require(RcppArmadillo)){
   install.packages("RcppArmadillo", quiet = T)
   library("RcppArmadillo", quietly = T)
