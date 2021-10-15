@@ -16,20 +16,20 @@ if (sysname == "Linux"){ # for CHTC server
   #!/usr/bin/env Rscript
   queue_args = commandArgs(trailingOnly=TRUE)
   graph_type = as.character(queue_args[1])
-  method = as.character(queue_args[2])
-  iter = as.integer(queue_args[3])
-  ell = NULL
+  # method = as.character(queue_args[2])
+  iter = as.integer(queue_args[2])
+  # ell = NULL
   
   name_temp = paste(simu_case, size,"n", n_obs, graph_type, iter, sep = "_")
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  
   # Pull glmdag codes from github
   url = "https://github.com/yongsu-lee/glmdag/archive/refs/heads/master.zip"
   download.file(url = url, destfile = "glmdag.zip")
   Sys.sleep(3)
   unzip("glmdag.zip")
   init_dir = "./glmdag-master/"
-
+  
 } else { # for local macOS
   
   setwd("~/iCloud/glmdag/")
@@ -45,16 +45,14 @@ if (sysname == "Linux"){ # for CHTC server
   
   name_temp = paste(simu_case, size,"n", n_obs, graph_type, iter, sep = "_")
   #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  
 }
-
-
 
 ## Sourcing files
 source(paste0(init_dir,"codes/00_load_ftns.R"))
 
 ## Run simulation
-source(paste0(simu_case,"_script.R"))
+source(paste0(init_dir, simu_case,"_script.R"))
 
 ## Save the result
 saveRDS(result, file = paste0(name_temp,".rds"))
