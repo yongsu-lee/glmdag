@@ -70,4 +70,5 @@ data_input =
          } )
 
 ## Run main functions
-result = glmdag(data_input, n_lams = n_lams, eps_lam = eps_lam,  verbose = T)
+result = glmdag(data_input, n_lams = n_lams, eps_lam = eps_lam,  
+                path_par = path_par, path_par_num = ell, verbose = T)

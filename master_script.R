@@ -18,7 +18,7 @@ if (sysname == "Linux"){ # for CHTC server
   graph_type = as.character(queue_args[1])
   # method = as.character(queue_args[2])
   iter = as.integer(queue_args[2])
-  # ell = NULL
+  ell = NULL
   
   name_temp = paste(simu_case, size,"n", n_obs, graph_tlsype, iter, sep = "_")
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
