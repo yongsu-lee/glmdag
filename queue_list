@@ -1,4500 +1,1500 @@
-tree, mc, 1, 1
-tree, mo, 1, 1
-tree, mm, 1, 1
-tree, mc, 2, 1
-tree, mo, 2, 1
-tree, mm, 2, 1
-tree, mc, 3, 1
-tree, mo, 3, 1
-tree, mm, 3, 1
-tree, mc, 4, 1
-tree, mo, 4, 1
-tree, mm, 4, 1
-tree, mc, 5, 1
-tree, mo, 5, 1
-tree, mm, 5, 1
-tree, mc, 6, 1
-tree, mo, 6, 1
-tree, mm, 6, 1
-tree, mc, 7, 1
-tree, mo, 7, 1
-tree, mm, 7, 1
-tree, mc, 8, 1
-tree, mo, 8, 1
-tree, mm, 8, 1
-tree, mc, 9, 1
-tree, mo, 9, 1
-tree, mm, 9, 1
-tree, mc, 10, 1
-tree, mo, 10, 1
-tree, mm, 10, 1
-tree, mc, 11, 1
-tree, mo, 11, 1
-tree, mm, 11, 1
-tree, mc, 12, 1
-tree, mo, 12, 1
-tree, mm, 12, 1
-tree, mc, 13, 1
-tree, mo, 13, 1
-tree, mm, 13, 1
-tree, mc, 14, 1
-tree, mo, 14, 1
-tree, mm, 14, 1
-tree, mc, 15, 1
-tree, mo, 15, 1
-tree, mm, 15, 1
-tree, mc, 16, 1
-tree, mo, 16, 1
-tree, mm, 16, 1
-tree, mc, 17, 1
-tree, mo, 17, 1
-tree, mm, 17, 1
-tree, mc, 18, 1
-tree, mo, 18, 1
-tree, mm, 18, 1
-tree, mc, 19, 1
-tree, mo, 19, 1
-tree, mm, 19, 1
-tree, mc, 20, 1
-tree, mo, 20, 1
-tree, mm, 20, 1
-tree, mc, 21, 1
-tree, mo, 21, 1
-tree, mm, 21, 1
-tree, mc, 22, 1
-tree, mo, 22, 1
-tree, mm, 22, 1
-tree, mc, 23, 1
-tree, mo, 23, 1
-tree, mm, 23, 1
-tree, mc, 24, 1
-tree, mo, 24, 1
-tree, mm, 24, 1
-tree, mc, 25, 1
-tree, mo, 25, 1
-tree, mm, 25, 1
-tree, mc, 26, 1
-tree, mo, 26, 1
-tree, mm, 26, 1
-tree, mc, 27, 1
-tree, mo, 27, 1
-tree, mm, 27, 1
-tree, mc, 28, 1
-tree, mo, 28, 1
-tree, mm, 28, 1
-tree, mc, 29, 1
-tree, mo, 29, 1
-tree, mm, 29, 1
-tree, mc, 30, 1
-tree, mo, 30, 1
-tree, mm, 30, 1
-tree, mc, 31, 1
-tree, mo, 31, 1
-tree, mm, 31, 1
-tree, mc, 32, 1
-tree, mo, 32, 1
-tree, mm, 32, 1
-tree, mc, 33, 1
-tree, mo, 33, 1
-tree, mm, 33, 1
-tree, mc, 34, 1
-tree, mo, 34, 1
-tree, mm, 34, 1
-tree, mc, 35, 1
-tree, mo, 35, 1
-tree, mm, 35, 1
-tree, mc, 36, 1
-tree, mo, 36, 1
-tree, mm, 36, 1
-tree, mc, 37, 1
-tree, mo, 37, 1
-tree, mm, 37, 1
-tree, mc, 38, 1
-tree, mo, 38, 1
-tree, mm, 38, 1
-tree, mc, 39, 1
-tree, mo, 39, 1
-tree, mm, 39, 1
-tree, mc, 40, 1
-tree, mo, 40, 1
-tree, mm, 40, 1
-tree, mc, 41, 1
-tree, mo, 41, 1
-tree, mm, 41, 1
-tree, mc, 42, 1
-tree, mo, 42, 1
-tree, mm, 42, 1
-tree, mc, 43, 1
-tree, mo, 43, 1
-tree, mm, 43, 1
-tree, mc, 44, 1
-tree, mo, 44, 1
-tree, mm, 44, 1
-tree, mc, 45, 1
-tree, mo, 45, 1
-tree, mm, 45, 1
-tree, mc, 46, 1
-tree, mo, 46, 1
-tree, mm, 46, 1
-tree, mc, 47, 1
-tree, mo, 47, 1
-tree, mm, 47, 1
-tree, mc, 48, 1
-tree, mo, 48, 1
-tree, mm, 48, 1
-tree, mc, 49, 1
-tree, mo, 49, 1
-tree, mm, 49, 1
-tree, mc, 50, 1
-tree, mo, 50, 1
-tree, mm, 50, 1
-tree, mc, 1, 2
-tree, mo, 1, 2
-tree, mm, 1, 2
-tree, mc, 2, 2
-tree, mo, 2, 2
-tree, mm, 2, 2
-tree, mc, 3, 2
-tree, mo, 3, 2
-tree, mm, 3, 2
-tree, mc, 4, 2
-tree, mo, 4, 2
-tree, mm, 4, 2
-tree, mc, 5, 2
-tree, mo, 5, 2
-tree, mm, 5, 2
-tree, mc, 6, 2
-tree, mo, 6, 2
-tree, mm, 6, 2
-tree, mc, 7, 2
-tree, mo, 7, 2
-tree, mm, 7, 2
-tree, mc, 8, 2
-tree, mo, 8, 2
-tree, mm, 8, 2
-tree, mc, 9, 2
-tree, mo, 9, 2
-tree, mm, 9, 2
-tree, mc, 10, 2
-tree, mo, 10, 2
-tree, mm, 10, 2
-tree, mc, 11, 2
-tree, mo, 11, 2
-tree, mm, 11, 2
-tree, mc, 12, 2
-tree, mo, 12, 2
-tree, mm, 12, 2
-tree, mc, 13, 2
-tree, mo, 13, 2
-tree, mm, 13, 2
-tree, mc, 14, 2
-tree, mo, 14, 2
-tree, mm, 14, 2
-tree, mc, 15, 2
-tree, mo, 15, 2
-tree, mm, 15, 2
-tree, mc, 16, 2
-tree, mo, 16, 2
-tree, mm, 16, 2
-tree, mc, 17, 2
-tree, mo, 17, 2
-tree, mm, 17, 2
-tree, mc, 18, 2
-tree, mo, 18, 2
-tree, mm, 18, 2
-tree, mc, 19, 2
-tree, mo, 19, 2
-tree, mm, 19, 2
-tree, mc, 20, 2
-tree, mo, 20, 2
-tree, mm, 20, 2
-tree, mc, 21, 2
-tree, mo, 21, 2
-tree, mm, 21, 2
-tree, mc, 22, 2
-tree, mo, 22, 2
-tree, mm, 22, 2
-tree, mc, 23, 2
-tree, mo, 23, 2
-tree, mm, 23, 2
-tree, mc, 24, 2
-tree, mo, 24, 2
-tree, mm, 24, 2
-tree, mc, 25, 2
-tree, mo, 25, 2
-tree, mm, 25, 2
-tree, mc, 26, 2
-tree, mo, 26, 2
-tree, mm, 26, 2
-tree, mc, 27, 2
-tree, mo, 27, 2
-tree, mm, 27, 2
-tree, mc, 28, 2
-tree, mo, 28, 2
-tree, mm, 28, 2
-tree, mc, 29, 2
-tree, mo, 29, 2
-tree, mm, 29, 2
-tree, mc, 30, 2
-tree, mo, 30, 2
-tree, mm, 30, 2
-tree, mc, 31, 2
-tree, mo, 31, 2
-tree, mm, 31, 2
-tree, mc, 32, 2
-tree, mo, 32, 2
-tree, mm, 32, 2
-tree, mc, 33, 2
-tree, mo, 33, 2
-tree, mm, 33, 2
-tree, mc, 34, 2
-tree, mo, 34, 2
-tree, mm, 34, 2
-tree, mc, 35, 2
-tree, mo, 35, 2
-tree, mm, 35, 2
-tree, mc, 36, 2
-tree, mo, 36, 2
-tree, mm, 36, 2
-tree, mc, 37, 2
-tree, mo, 37, 2
-tree, mm, 37, 2
-tree, mc, 38, 2
-tree, mo, 38, 2
-tree, mm, 38, 2
-tree, mc, 39, 2
-tree, mo, 39, 2
-tree, mm, 39, 2
-tree, mc, 40, 2
-tree, mo, 40, 2
-tree, mm, 40, 2
-tree, mc, 41, 2
-tree, mo, 41, 2
-tree, mm, 41, 2
-tree, mc, 42, 2
-tree, mo, 42, 2
-tree, mm, 42, 2
-tree, mc, 43, 2
-tree, mo, 43, 2
-tree, mm, 43, 2
-tree, mc, 44, 2
-tree, mo, 44, 2
-tree, mm, 44, 2
-tree, mc, 45, 2
-tree, mo, 45, 2
-tree, mm, 45, 2
-tree, mc, 46, 2
-tree, mo, 46, 2
-tree, mm, 46, 2
-tree, mc, 47, 2
-tree, mo, 47, 2
-tree, mm, 47, 2
-tree, mc, 48, 2
-tree, mo, 48, 2
-tree, mm, 48, 2
-tree, mc, 49, 2
-tree, mo, 49, 2
-tree, mm, 49, 2
-tree, mc, 50, 2
-tree, mo, 50, 2
-tree, mm, 50, 2
-tree, mc, 1, 3
-tree, mo, 1, 3
-tree, mm, 1, 3
-tree, mc, 2, 3
-tree, mo, 2, 3
-tree, mm, 2, 3
-tree, mc, 3, 3
-tree, mo, 3, 3
-tree, mm, 3, 3
-tree, mc, 4, 3
-tree, mo, 4, 3
-tree, mm, 4, 3
-tree, mc, 5, 3
-tree, mo, 5, 3
-tree, mm, 5, 3
-tree, mc, 6, 3
-tree, mo, 6, 3
-tree, mm, 6, 3
-tree, mc, 7, 3
-tree, mo, 7, 3
-tree, mm, 7, 3
-tree, mc, 8, 3
-tree, mo, 8, 3
-tree, mm, 8, 3
-tree, mc, 9, 3
-tree, mo, 9, 3
-tree, mm, 9, 3
-tree, mc, 10, 3
-tree, mo, 10, 3
-tree, mm, 10, 3
-tree, mc, 11, 3
-tree, mo, 11, 3
-tree, mm, 11, 3
-tree, mc, 12, 3
-tree, mo, 12, 3
-tree, mm, 12, 3
-tree, mc, 13, 3
-tree, mo, 13, 3
-tree, mm, 13, 3
-tree, mc, 14, 3
-tree, mo, 14, 3
-tree, mm, 14, 3
-tree, mc, 15, 3
-tree, mo, 15, 3
-tree, mm, 15, 3
-tree, mc, 16, 3
-tree, mo, 16, 3
-tree, mm, 16, 3
-tree, mc, 17, 3
-tree, mo, 17, 3
-tree, mm, 17, 3
-tree, mc, 18, 3
-tree, mo, 18, 3
-tree, mm, 18, 3
-tree, mc, 19, 3
-tree, mo, 19, 3
-tree, mm, 19, 3
-tree, mc, 20, 3
-tree, mo, 20, 3
-tree, mm, 20, 3
-tree, mc, 21, 3
-tree, mo, 21, 3
-tree, mm, 21, 3
-tree, mc, 22, 3
-tree, mo, 22, 3
-tree, mm, 22, 3
-tree, mc, 23, 3
-tree, mo, 23, 3
-tree, mm, 23, 3
-tree, mc, 24, 3
-tree, mo, 24, 3
-tree, mm, 24, 3
-tree, mc, 25, 3
-tree, mo, 25, 3
-tree, mm, 25, 3
-tree, mc, 26, 3
-tree, mo, 26, 3
-tree, mm, 26, 3
-tree, mc, 27, 3
-tree, mo, 27, 3
-tree, mm, 27, 3
-tree, mc, 28, 3
-tree, mo, 28, 3
-tree, mm, 28, 3
-tree, mc, 29, 3
-tree, mo, 29, 3
-tree, mm, 29, 3
-tree, mc, 30, 3
-tree, mo, 30, 3
-tree, mm, 30, 3
-tree, mc, 31, 3
-tree, mo, 31, 3
-tree, mm, 31, 3
-tree, mc, 32, 3
-tree, mo, 32, 3
-tree, mm, 32, 3
-tree, mc, 33, 3
-tree, mo, 33, 3
-tree, mm, 33, 3
-tree, mc, 34, 3
-tree, mo, 34, 3
-tree, mm, 34, 3
-tree, mc, 35, 3
-tree, mo, 35, 3
-tree, mm, 35, 3
-tree, mc, 36, 3
-tree, mo, 36, 3
-tree, mm, 36, 3
-tree, mc, 37, 3
-tree, mo, 37, 3
-tree, mm, 37, 3
-tree, mc, 38, 3
-tree, mo, 38, 3
-tree, mm, 38, 3
-tree, mc, 39, 3
-tree, mo, 39, 3
-tree, mm, 39, 3
-tree, mc, 40, 3
-tree, mo, 40, 3
-tree, mm, 40, 3
-tree, mc, 41, 3
-tree, mo, 41, 3
-tree, mm, 41, 3
-tree, mc, 42, 3
-tree, mo, 42, 3
-tree, mm, 42, 3
-tree, mc, 43, 3
-tree, mo, 43, 3
-tree, mm, 43, 3
-tree, mc, 44, 3
-tree, mo, 44, 3
-tree, mm, 44, 3
-tree, mc, 45, 3
-tree, mo, 45, 3
-tree, mm, 45, 3
-tree, mc, 46, 3
-tree, mo, 46, 3
-tree, mm, 46, 3
-tree, mc, 47, 3
-tree, mo, 47, 3
-tree, mm, 47, 3
-tree, mc, 48, 3
-tree, mo, 48, 3
-tree, mm, 48, 3
-tree, mc, 49, 3
-tree, mo, 49, 3
-tree, mm, 49, 3
-tree, mc, 50, 3
-tree, mo, 50, 3
-tree, mm, 50, 3
-tree, mc, 1, 4
-tree, mo, 1, 4
-tree, mm, 1, 4
-tree, mc, 2, 4
-tree, mo, 2, 4
-tree, mm, 2, 4
-tree, mc, 3, 4
-tree, mo, 3, 4
-tree, mm, 3, 4
-tree, mc, 4, 4
-tree, mo, 4, 4
-tree, mm, 4, 4
-tree, mc, 5, 4
-tree, mo, 5, 4
-tree, mm, 5, 4
-tree, mc, 6, 4
-tree, mo, 6, 4
-tree, mm, 6, 4
-tree, mc, 7, 4
-tree, mo, 7, 4
-tree, mm, 7, 4
-tree, mc, 8, 4
-tree, mo, 8, 4
-tree, mm, 8, 4
-tree, mc, 9, 4
-tree, mo, 9, 4
-tree, mm, 9, 4
-tree, mc, 10, 4
-tree, mo, 10, 4
-tree, mm, 10, 4
-tree, mc, 11, 4
-tree, mo, 11, 4
-tree, mm, 11, 4
-tree, mc, 12, 4
-tree, mo, 12, 4
-tree, mm, 12, 4
-tree, mc, 13, 4
-tree, mo, 13, 4
-tree, mm, 13, 4
-tree, mc, 14, 4
-tree, mo, 14, 4
-tree, mm, 14, 4
-tree, mc, 15, 4
-tree, mo, 15, 4
-tree, mm, 15, 4
-tree, mc, 16, 4
-tree, mo, 16, 4
-tree, mm, 16, 4
-tree, mc, 17, 4
-tree, mo, 17, 4
-tree, mm, 17, 4
-tree, mc, 18, 4
-tree, mo, 18, 4
-tree, mm, 18, 4
-tree, mc, 19, 4
-tree, mo, 19, 4
-tree, mm, 19, 4
-tree, mc, 20, 4
-tree, mo, 20, 4
-tree, mm, 20, 4
-tree, mc, 21, 4
-tree, mo, 21, 4
-tree, mm, 21, 4
-tree, mc, 22, 4
-tree, mo, 22, 4
-tree, mm, 22, 4
-tree, mc, 23, 4
-tree, mo, 23, 4
-tree, mm, 23, 4
-tree, mc, 24, 4
-tree, mo, 24, 4
-tree, mm, 24, 4
-tree, mc, 25, 4
-tree, mo, 25, 4
-tree, mm, 25, 4
-tree, mc, 26, 4
-tree, mo, 26, 4
-tree, mm, 26, 4
-tree, mc, 27, 4
-tree, mo, 27, 4
-tree, mm, 27, 4
-tree, mc, 28, 4
-tree, mo, 28, 4
-tree, mm, 28, 4
-tree, mc, 29, 4
-tree, mo, 29, 4
-tree, mm, 29, 4
-tree, mc, 30, 4
-tree, mo, 30, 4
-tree, mm, 30, 4
-tree, mc, 31, 4
-tree, mo, 31, 4
-tree, mm, 31, 4
-tree, mc, 32, 4
-tree, mo, 32, 4
-tree, mm, 32, 4
-tree, mc, 33, 4
-tree, mo, 33, 4
-tree, mm, 33, 4
-tree, mc, 34, 4
-tree, mo, 34, 4
-tree, mm, 34, 4
-tree, mc, 35, 4
-tree, mo, 35, 4
-tree, mm, 35, 4
-tree, mc, 36, 4
-tree, mo, 36, 4
-tree, mm, 36, 4
-tree, mc, 37, 4
-tree, mo, 37, 4
-tree, mm, 37, 4
-tree, mc, 38, 4
-tree, mo, 38, 4
-tree, mm, 38, 4
-tree, mc, 39, 4
-tree, mo, 39, 4
-tree, mm, 39, 4
-tree, mc, 40, 4
-tree, mo, 40, 4
-tree, mm, 40, 4
-tree, mc, 41, 4
-tree, mo, 41, 4
-tree, mm, 41, 4
-tree, mc, 42, 4
-tree, mo, 42, 4
-tree, mm, 42, 4
-tree, mc, 43, 4
-tree, mo, 43, 4
-tree, mm, 43, 4
-tree, mc, 44, 4
-tree, mo, 44, 4
-tree, mm, 44, 4
-tree, mc, 45, 4
-tree, mo, 45, 4
-tree, mm, 45, 4
-tree, mc, 46, 4
-tree, mo, 46, 4
-tree, mm, 46, 4
-tree, mc, 47, 4
-tree, mo, 47, 4
-tree, mm, 47, 4
-tree, mc, 48, 4
-tree, mo, 48, 4
-tree, mm, 48, 4
-tree, mc, 49, 4
-tree, mo, 49, 4
-tree, mm, 49, 4
-tree, mc, 50, 4
-tree, mo, 50, 4
-tree, mm, 50, 4
-tree, mc, 1, 5
-tree, mo, 1, 5
-tree, mm, 1, 5
-tree, mc, 2, 5
-tree, mo, 2, 5
-tree, mm, 2, 5
-tree, mc, 3, 5
-tree, mo, 3, 5
-tree, mm, 3, 5
-tree, mc, 4, 5
-tree, mo, 4, 5
-tree, mm, 4, 5
-tree, mc, 5, 5
-tree, mo, 5, 5
-tree, mm, 5, 5
-tree, mc, 6, 5
-tree, mo, 6, 5
-tree, mm, 6, 5
-tree, mc, 7, 5
-tree, mo, 7, 5
-tree, mm, 7, 5
-tree, mc, 8, 5
-tree, mo, 8, 5
-tree, mm, 8, 5
-tree, mc, 9, 5
-tree, mo, 9, 5
-tree, mm, 9, 5
-tree, mc, 10, 5
-tree, mo, 10, 5
-tree, mm, 10, 5
-tree, mc, 11, 5
-tree, mo, 11, 5
-tree, mm, 11, 5
-tree, mc, 12, 5
-tree, mo, 12, 5
-tree, mm, 12, 5
-tree, mc, 13, 5
-tree, mo, 13, 5
-tree, mm, 13, 5
-tree, mc, 14, 5
-tree, mo, 14, 5
-tree, mm, 14, 5
-tree, mc, 15, 5
-tree, mo, 15, 5
-tree, mm, 15, 5
-tree, mc, 16, 5
-tree, mo, 16, 5
-tree, mm, 16, 5
-tree, mc, 17, 5
-tree, mo, 17, 5
-tree, mm, 17, 5
-tree, mc, 18, 5
-tree, mo, 18, 5
-tree, mm, 18, 5
-tree, mc, 19, 5
-tree, mo, 19, 5
-tree, mm, 19, 5
-tree, mc, 20, 5
-tree, mo, 20, 5
-tree, mm, 20, 5
-tree, mc, 21, 5
-tree, mo, 21, 5
-tree, mm, 21, 5
-tree, mc, 22, 5
-tree, mo, 22, 5
-tree, mm, 22, 5
-tree, mc, 23, 5
-tree, mo, 23, 5
-tree, mm, 23, 5
-tree, mc, 24, 5
-tree, mo, 24, 5
-tree, mm, 24, 5
-tree, mc, 25, 5
-tree, mo, 25, 5
-tree, mm, 25, 5
-tree, mc, 26, 5
-tree, mo, 26, 5
-tree, mm, 26, 5
-tree, mc, 27, 5
-tree, mo, 27, 5
-tree, mm, 27, 5
-tree, mc, 28, 5
-tree, mo, 28, 5
-tree, mm, 28, 5
-tree, mc, 29, 5
-tree, mo, 29, 5
-tree, mm, 29, 5
-tree, mc, 30, 5
-tree, mo, 30, 5
-tree, mm, 30, 5
-tree, mc, 31, 5
-tree, mo, 31, 5
-tree, mm, 31, 5
-tree, mc, 32, 5
-tree, mo, 32, 5
-tree, mm, 32, 5
-tree, mc, 33, 5
-tree, mo, 33, 5
-tree, mm, 33, 5
-tree, mc, 34, 5
-tree, mo, 34, 5
-tree, mm, 34, 5
-tree, mc, 35, 5
-tree, mo, 35, 5
-tree, mm, 35, 5
-tree, mc, 36, 5
-tree, mo, 36, 5
-tree, mm, 36, 5
-tree, mc, 37, 5
-tree, mo, 37, 5
-tree, mm, 37, 5
-tree, mc, 38, 5
-tree, mo, 38, 5
-tree, mm, 38, 5
-tree, mc, 39, 5
-tree, mo, 39, 5
-tree, mm, 39, 5
-tree, mc, 40, 5
-tree, mo, 40, 5
-tree, mm, 40, 5
-tree, mc, 41, 5
-tree, mo, 41, 5
-tree, mm, 41, 5
-tree, mc, 42, 5
-tree, mo, 42, 5
-tree, mm, 42, 5
-tree, mc, 43, 5
-tree, mo, 43, 5
-tree, mm, 43, 5
-tree, mc, 44, 5
-tree, mo, 44, 5
-tree, mm, 44, 5
-tree, mc, 45, 5
-tree, mo, 45, 5
-tree, mm, 45, 5
-tree, mc, 46, 5
-tree, mo, 46, 5
-tree, mm, 46, 5
-tree, mc, 47, 5
-tree, mo, 47, 5
-tree, mm, 47, 5
-tree, mc, 48, 5
-tree, mo, 48, 5
-tree, mm, 48, 5
-tree, mc, 49, 5
-tree, mo, 49, 5
-tree, mm, 49, 5
-tree, mc, 50, 5
-tree, mo, 50, 5
-tree, mm, 50, 5
-tree, mc, 1, 6
-tree, mo, 1, 6
-tree, mm, 1, 6
-tree, mc, 2, 6
-tree, mo, 2, 6
-tree, mm, 2, 6
-tree, mc, 3, 6
-tree, mo, 3, 6
-tree, mm, 3, 6
-tree, mc, 4, 6
-tree, mo, 4, 6
-tree, mm, 4, 6
-tree, mc, 5, 6
-tree, mo, 5, 6
-tree, mm, 5, 6
-tree, mc, 6, 6
-tree, mo, 6, 6
-tree, mm, 6, 6
-tree, mc, 7, 6
-tree, mo, 7, 6
-tree, mm, 7, 6
-tree, mc, 8, 6
-tree, mo, 8, 6
-tree, mm, 8, 6
-tree, mc, 9, 6
-tree, mo, 9, 6
-tree, mm, 9, 6
-tree, mc, 10, 6
-tree, mo, 10, 6
-tree, mm, 10, 6
-tree, mc, 11, 6
-tree, mo, 11, 6
-tree, mm, 11, 6
-tree, mc, 12, 6
-tree, mo, 12, 6
-tree, mm, 12, 6
-tree, mc, 13, 6
-tree, mo, 13, 6
-tree, mm, 13, 6
-tree, mc, 14, 6
-tree, mo, 14, 6
-tree, mm, 14, 6
-tree, mc, 15, 6
-tree, mo, 15, 6
-tree, mm, 15, 6
-tree, mc, 16, 6
-tree, mo, 16, 6
-tree, mm, 16, 6
-tree, mc, 17, 6
-tree, mo, 17, 6
-tree, mm, 17, 6
-tree, mc, 18, 6
-tree, mo, 18, 6
-tree, mm, 18, 6
-tree, mc, 19, 6
-tree, mo, 19, 6
-tree, mm, 19, 6
-tree, mc, 20, 6
-tree, mo, 20, 6
-tree, mm, 20, 6
-tree, mc, 21, 6
-tree, mo, 21, 6
-tree, mm, 21, 6
-tree, mc, 22, 6
-tree, mo, 22, 6
-tree, mm, 22, 6
-tree, mc, 23, 6
-tree, mo, 23, 6
-tree, mm, 23, 6
-tree, mc, 24, 6
-tree, mo, 24, 6
-tree, mm, 24, 6
-tree, mc, 25, 6
-tree, mo, 25, 6
-tree, mm, 25, 6
-tree, mc, 26, 6
-tree, mo, 26, 6
-tree, mm, 26, 6
-tree, mc, 27, 6
-tree, mo, 27, 6
-tree, mm, 27, 6
-tree, mc, 28, 6
-tree, mo, 28, 6
-tree, mm, 28, 6
-tree, mc, 29, 6
-tree, mo, 29, 6
-tree, mm, 29, 6
-tree, mc, 30, 6
-tree, mo, 30, 6
-tree, mm, 30, 6
-tree, mc, 31, 6
-tree, mo, 31, 6
-tree, mm, 31, 6
-tree, mc, 32, 6
-tree, mo, 32, 6
-tree, mm, 32, 6
-tree, mc, 33, 6
-tree, mo, 33, 6
-tree, mm, 33, 6
-tree, mc, 34, 6
-tree, mo, 34, 6
-tree, mm, 34, 6
-tree, mc, 35, 6
-tree, mo, 35, 6
-tree, mm, 35, 6
-tree, mc, 36, 6
-tree, mo, 36, 6
-tree, mm, 36, 6
-tree, mc, 37, 6
-tree, mo, 37, 6
-tree, mm, 37, 6
-tree, mc, 38, 6
-tree, mo, 38, 6
-tree, mm, 38, 6
-tree, mc, 39, 6
-tree, mo, 39, 6
-tree, mm, 39, 6
-tree, mc, 40, 6
-tree, mo, 40, 6
-tree, mm, 40, 6
-tree, mc, 41, 6
-tree, mo, 41, 6
-tree, mm, 41, 6
-tree, mc, 42, 6
-tree, mo, 42, 6
-tree, mm, 42, 6
-tree, mc, 43, 6
-tree, mo, 43, 6
-tree, mm, 43, 6
-tree, mc, 44, 6
-tree, mo, 44, 6
-tree, mm, 44, 6
-tree, mc, 45, 6
-tree, mo, 45, 6
-tree, mm, 45, 6
-tree, mc, 46, 6
-tree, mo, 46, 6
-tree, mm, 46, 6
-tree, mc, 47, 6
-tree, mo, 47, 6
-tree, mm, 47, 6
-tree, mc, 48, 6
-tree, mo, 48, 6
-tree, mm, 48, 6
-tree, mc, 49, 6
-tree, mo, 49, 6
-tree, mm, 49, 6
-tree, mc, 50, 6
-tree, mo, 50, 6
-tree, mm, 50, 6
-tree, mc, 1, 7
-tree, mo, 1, 7
-tree, mm, 1, 7
-tree, mc, 2, 7
-tree, mo, 2, 7
-tree, mm, 2, 7
-tree, mc, 3, 7
-tree, mo, 3, 7
-tree, mm, 3, 7
-tree, mc, 4, 7
-tree, mo, 4, 7
-tree, mm, 4, 7
-tree, mc, 5, 7
-tree, mo, 5, 7
-tree, mm, 5, 7
-tree, mc, 6, 7
-tree, mo, 6, 7
-tree, mm, 6, 7
-tree, mc, 7, 7
-tree, mo, 7, 7
-tree, mm, 7, 7
-tree, mc, 8, 7
-tree, mo, 8, 7
-tree, mm, 8, 7
-tree, mc, 9, 7
-tree, mo, 9, 7
-tree, mm, 9, 7
-tree, mc, 10, 7
-tree, mo, 10, 7
-tree, mm, 10, 7
-tree, mc, 11, 7
-tree, mo, 11, 7
-tree, mm, 11, 7
-tree, mc, 12, 7
-tree, mo, 12, 7
-tree, mm, 12, 7
-tree, mc, 13, 7
-tree, mo, 13, 7
-tree, mm, 13, 7
-tree, mc, 14, 7
-tree, mo, 14, 7
-tree, mm, 14, 7
-tree, mc, 15, 7
-tree, mo, 15, 7
-tree, mm, 15, 7
-tree, mc, 16, 7
-tree, mo, 16, 7
-tree, mm, 16, 7
-tree, mc, 17, 7
-tree, mo, 17, 7
-tree, mm, 17, 7
-tree, mc, 18, 7
-tree, mo, 18, 7
-tree, mm, 18, 7
-tree, mc, 19, 7
-tree, mo, 19, 7
-tree, mm, 19, 7
-tree, mc, 20, 7
-tree, mo, 20, 7
-tree, mm, 20, 7
-tree, mc, 21, 7
-tree, mo, 21, 7
-tree, mm, 21, 7
-tree, mc, 22, 7
-tree, mo, 22, 7
-tree, mm, 22, 7
-tree, mc, 23, 7
-tree, mo, 23, 7
-tree, mm, 23, 7
-tree, mc, 24, 7
-tree, mo, 24, 7
-tree, mm, 24, 7
-tree, mc, 25, 7
-tree, mo, 25, 7
-tree, mm, 25, 7
-tree, mc, 26, 7
-tree, mo, 26, 7
-tree, mm, 26, 7
-tree, mc, 27, 7
-tree, mo, 27, 7
-tree, mm, 27, 7
-tree, mc, 28, 7
-tree, mo, 28, 7
-tree, mm, 28, 7
-tree, mc, 29, 7
-tree, mo, 29, 7
-tree, mm, 29, 7
-tree, mc, 30, 7
-tree, mo, 30, 7
-tree, mm, 30, 7
-tree, mc, 31, 7
-tree, mo, 31, 7
-tree, mm, 31, 7
-tree, mc, 32, 7
-tree, mo, 32, 7
-tree, mm, 32, 7
-tree, mc, 33, 7
-tree, mo, 33, 7
-tree, mm, 33, 7
-tree, mc, 34, 7
-tree, mo, 34, 7
-tree, mm, 34, 7
-tree, mc, 35, 7
-tree, mo, 35, 7
-tree, mm, 35, 7
-tree, mc, 36, 7
-tree, mo, 36, 7
-tree, mm, 36, 7
-tree, mc, 37, 7
-tree, mo, 37, 7
-tree, mm, 37, 7
-tree, mc, 38, 7
-tree, mo, 38, 7
-tree, mm, 38, 7
-tree, mc, 39, 7
-tree, mo, 39, 7
-tree, mm, 39, 7
-tree, mc, 40, 7
-tree, mo, 40, 7
-tree, mm, 40, 7
-tree, mc, 41, 7
-tree, mo, 41, 7
-tree, mm, 41, 7
-tree, mc, 42, 7
-tree, mo, 42, 7
-tree, mm, 42, 7
-tree, mc, 43, 7
-tree, mo, 43, 7
-tree, mm, 43, 7
-tree, mc, 44, 7
-tree, mo, 44, 7
-tree, mm, 44, 7
-tree, mc, 45, 7
-tree, mo, 45, 7
-tree, mm, 45, 7
-tree, mc, 46, 7
-tree, mo, 46, 7
-tree, mm, 46, 7
-tree, mc, 47, 7
-tree, mo, 47, 7
-tree, mm, 47, 7
-tree, mc, 48, 7
-tree, mo, 48, 7
-tree, mm, 48, 7
-tree, mc, 49, 7
-tree, mo, 49, 7
-tree, mm, 49, 7
-tree, mc, 50, 7
-tree, mo, 50, 7
-tree, mm, 50, 7
-tree, mc, 1, 8
-tree, mo, 1, 8
-tree, mm, 1, 8
-tree, mc, 2, 8
-tree, mo, 2, 8
-tree, mm, 2, 8
-tree, mc, 3, 8
-tree, mo, 3, 8
-tree, mm, 3, 8
-tree, mc, 4, 8
-tree, mo, 4, 8
-tree, mm, 4, 8
-tree, mc, 5, 8
-tree, mo, 5, 8
-tree, mm, 5, 8
-tree, mc, 6, 8
-tree, mo, 6, 8
-tree, mm, 6, 8
-tree, mc, 7, 8
-tree, mo, 7, 8
-tree, mm, 7, 8
-tree, mc, 8, 8
-tree, mo, 8, 8
-tree, mm, 8, 8
-tree, mc, 9, 8
-tree, mo, 9, 8
-tree, mm, 9, 8
-tree, mc, 10, 8
-tree, mo, 10, 8
-tree, mm, 10, 8
-tree, mc, 11, 8
-tree, mo, 11, 8
-tree, mm, 11, 8
-tree, mc, 12, 8
-tree, mo, 12, 8
-tree, mm, 12, 8
-tree, mc, 13, 8
-tree, mo, 13, 8
-tree, mm, 13, 8
-tree, mc, 14, 8
-tree, mo, 14, 8
-tree, mm, 14, 8
-tree, mc, 15, 8
-tree, mo, 15, 8
-tree, mm, 15, 8
-tree, mc, 16, 8
-tree, mo, 16, 8
-tree, mm, 16, 8
-tree, mc, 17, 8
-tree, mo, 17, 8
-tree, mm, 17, 8
-tree, mc, 18, 8
-tree, mo, 18, 8
-tree, mm, 18, 8
-tree, mc, 19, 8
-tree, mo, 19, 8
-tree, mm, 19, 8
-tree, mc, 20, 8
-tree, mo, 20, 8
-tree, mm, 20, 8
-tree, mc, 21, 8
-tree, mo, 21, 8
-tree, mm, 21, 8
-tree, mc, 22, 8
-tree, mo, 22, 8
-tree, mm, 22, 8
-tree, mc, 23, 8
-tree, mo, 23, 8
-tree, mm, 23, 8
-tree, mc, 24, 8
-tree, mo, 24, 8
-tree, mm, 24, 8
-tree, mc, 25, 8
-tree, mo, 25, 8
-tree, mm, 25, 8
-tree, mc, 26, 8
-tree, mo, 26, 8
-tree, mm, 26, 8
-tree, mc, 27, 8
-tree, mo, 27, 8
-tree, mm, 27, 8
-tree, mc, 28, 8
-tree, mo, 28, 8
-tree, mm, 28, 8
-tree, mc, 29, 8
-tree, mo, 29, 8
-tree, mm, 29, 8
-tree, mc, 30, 8
-tree, mo, 30, 8
-tree, mm, 30, 8
-tree, mc, 31, 8
-tree, mo, 31, 8
-tree, mm, 31, 8
-tree, mc, 32, 8
-tree, mo, 32, 8
-tree, mm, 32, 8
-tree, mc, 33, 8
-tree, mo, 33, 8
-tree, mm, 33, 8
-tree, mc, 34, 8
-tree, mo, 34, 8
-tree, mm, 34, 8
-tree, mc, 35, 8
-tree, mo, 35, 8
-tree, mm, 35, 8
-tree, mc, 36, 8
-tree, mo, 36, 8
-tree, mm, 36, 8
-tree, mc, 37, 8
-tree, mo, 37, 8
-tree, mm, 37, 8
-tree, mc, 38, 8
-tree, mo, 38, 8
-tree, mm, 38, 8
-tree, mc, 39, 8
-tree, mo, 39, 8
-tree, mm, 39, 8
-tree, mc, 40, 8
-tree, mo, 40, 8
-tree, mm, 40, 8
-tree, mc, 41, 8
-tree, mo, 41, 8
-tree, mm, 41, 8
-tree, mc, 42, 8
-tree, mo, 42, 8
-tree, mm, 42, 8
-tree, mc, 43, 8
-tree, mo, 43, 8
-tree, mm, 43, 8
-tree, mc, 44, 8
-tree, mo, 44, 8
-tree, mm, 44, 8
-tree, mc, 45, 8
-tree, mo, 45, 8
-tree, mm, 45, 8
-tree, mc, 46, 8
-tree, mo, 46, 8
-tree, mm, 46, 8
-tree, mc, 47, 8
-tree, mo, 47, 8
-tree, mm, 47, 8
-tree, mc, 48, 8
-tree, mo, 48, 8
-tree, mm, 48, 8
-tree, mc, 49, 8
-tree, mo, 49, 8
-tree, mm, 49, 8
-tree, mc, 50, 8
-tree, mo, 50, 8
-tree, mm, 50, 8
-tree, mc, 1, 9
-tree, mo, 1, 9
-tree, mm, 1, 9
-tree, mc, 2, 9
-tree, mo, 2, 9
-tree, mm, 2, 9
-tree, mc, 3, 9
-tree, mo, 3, 9
-tree, mm, 3, 9
-tree, mc, 4, 9
-tree, mo, 4, 9
-tree, mm, 4, 9
-tree, mc, 5, 9
-tree, mo, 5, 9
-tree, mm, 5, 9
-tree, mc, 6, 9
-tree, mo, 6, 9
-tree, mm, 6, 9
-tree, mc, 7, 9
-tree, mo, 7, 9
-tree, mm, 7, 9
-tree, mc, 8, 9
-tree, mo, 8, 9
-tree, mm, 8, 9
-tree, mc, 9, 9
-tree, mo, 9, 9
-tree, mm, 9, 9
-tree, mc, 10, 9
-tree, mo, 10, 9
-tree, mm, 10, 9
-tree, mc, 11, 9
-tree, mo, 11, 9
-tree, mm, 11, 9
-tree, mc, 12, 9
-tree, mo, 12, 9
-tree, mm, 12, 9
-tree, mc, 13, 9
-tree, mo, 13, 9
-tree, mm, 13, 9
-tree, mc, 14, 9
-tree, mo, 14, 9
-tree, mm, 14, 9
-tree, mc, 15, 9
-tree, mo, 15, 9
-tree, mm, 15, 9
-tree, mc, 16, 9
-tree, mo, 16, 9
-tree, mm, 16, 9
-tree, mc, 17, 9
-tree, mo, 17, 9
-tree, mm, 17, 9
-tree, mc, 18, 9
-tree, mo, 18, 9
-tree, mm, 18, 9
-tree, mc, 19, 9
-tree, mo, 19, 9
-tree, mm, 19, 9
-tree, mc, 20, 9
-tree, mo, 20, 9
-tree, mm, 20, 9
-tree, mc, 21, 9
-tree, mo, 21, 9
-tree, mm, 21, 9
-tree, mc, 22, 9
-tree, mo, 22, 9
-tree, mm, 22, 9
-tree, mc, 23, 9
-tree, mo, 23, 9
-tree, mm, 23, 9
-tree, mc, 24, 9
-tree, mo, 24, 9
-tree, mm, 24, 9
-tree, mc, 25, 9
-tree, mo, 25, 9
-tree, mm, 25, 9
-tree, mc, 26, 9
-tree, mo, 26, 9
-tree, mm, 26, 9
-tree, mc, 27, 9
-tree, mo, 27, 9
-tree, mm, 27, 9
-tree, mc, 28, 9
-tree, mo, 28, 9
-tree, mm, 28, 9
-tree, mc, 29, 9
-tree, mo, 29, 9
-tree, mm, 29, 9
-tree, mc, 30, 9
-tree, mo, 30, 9
-tree, mm, 30, 9
-tree, mc, 31, 9
-tree, mo, 31, 9
-tree, mm, 31, 9
-tree, mc, 32, 9
-tree, mo, 32, 9
-tree, mm, 32, 9
-tree, mc, 33, 9
-tree, mo, 33, 9
-tree, mm, 33, 9
-tree, mc, 34, 9
-tree, mo, 34, 9
-tree, mm, 34, 9
-tree, mc, 35, 9
-tree, mo, 35, 9
-tree, mm, 35, 9
-tree, mc, 36, 9
-tree, mo, 36, 9
-tree, mm, 36, 9
-tree, mc, 37, 9
-tree, mo, 37, 9
-tree, mm, 37, 9
-tree, mc, 38, 9
-tree, mo, 38, 9
-tree, mm, 38, 9
-tree, mc, 39, 9
-tree, mo, 39, 9
-tree, mm, 39, 9
-tree, mc, 40, 9
-tree, mo, 40, 9
-tree, mm, 40, 9
-tree, mc, 41, 9
-tree, mo, 41, 9
-tree, mm, 41, 9
-tree, mc, 42, 9
-tree, mo, 42, 9
-tree, mm, 42, 9
-tree, mc, 43, 9
-tree, mo, 43, 9
-tree, mm, 43, 9
-tree, mc, 44, 9
-tree, mo, 44, 9
-tree, mm, 44, 9
-tree, mc, 45, 9
-tree, mo, 45, 9
-tree, mm, 45, 9
-tree, mc, 46, 9
-tree, mo, 46, 9
-tree, mm, 46, 9
-tree, mc, 47, 9
-tree, mo, 47, 9
-tree, mm, 47, 9
-tree, mc, 48, 9
-tree, mo, 48, 9
-tree, mm, 48, 9
-tree, mc, 49, 9
-tree, mo, 49, 9
-tree, mm, 49, 9
-tree, mc, 50, 9
-tree, mo, 50, 9
-tree, mm, 50, 9
-tree, mc, 1, 10
-tree, mo, 1, 10
-tree, mm, 1, 10
-tree, mc, 2, 10
-tree, mo, 2, 10
-tree, mm, 2, 10
-tree, mc, 3, 10
-tree, mo, 3, 10
-tree, mm, 3, 10
-tree, mc, 4, 10
-tree, mo, 4, 10
-tree, mm, 4, 10
-tree, mc, 5, 10
-tree, mo, 5, 10
-tree, mm, 5, 10
-tree, mc, 6, 10
-tree, mo, 6, 10
-tree, mm, 6, 10
-tree, mc, 7, 10
-tree, mo, 7, 10
-tree, mm, 7, 10
-tree, mc, 8, 10
-tree, mo, 8, 10
-tree, mm, 8, 10
-tree, mc, 9, 10
-tree, mo, 9, 10
-tree, mm, 9, 10
-tree, mc, 10, 10
-tree, mo, 10, 10
-tree, mm, 10, 10
-tree, mc, 11, 10
-tree, mo, 11, 10
-tree, mm, 11, 10
-tree, mc, 12, 10
-tree, mo, 12, 10
-tree, mm, 12, 10
-tree, mc, 13, 10
-tree, mo, 13, 10
-tree, mm, 13, 10
-tree, mc, 14, 10
-tree, mo, 14, 10
-tree, mm, 14, 10
-tree, mc, 15, 10
-tree, mo, 15, 10
-tree, mm, 15, 10
-tree, mc, 16, 10
-tree, mo, 16, 10
-tree, mm, 16, 10
-tree, mc, 17, 10
-tree, mo, 17, 10
-tree, mm, 17, 10
-tree, mc, 18, 10
-tree, mo, 18, 10
-tree, mm, 18, 10
-tree, mc, 19, 10
-tree, mo, 19, 10
-tree, mm, 19, 10
-tree, mc, 20, 10
-tree, mo, 20, 10
-tree, mm, 20, 10
-tree, mc, 21, 10
-tree, mo, 21, 10
-tree, mm, 21, 10
-tree, mc, 22, 10
-tree, mo, 22, 10
-tree, mm, 22, 10
-tree, mc, 23, 10
-tree, mo, 23, 10
-tree, mm, 23, 10
-tree, mc, 24, 10
-tree, mo, 24, 10
-tree, mm, 24, 10
-tree, mc, 25, 10
-tree, mo, 25, 10
-tree, mm, 25, 10
-tree, mc, 26, 10
-tree, mo, 26, 10
-tree, mm, 26, 10
-tree, mc, 27, 10
-tree, mo, 27, 10
-tree, mm, 27, 10
-tree, mc, 28, 10
-tree, mo, 28, 10
-tree, mm, 28, 10
-tree, mc, 29, 10
-tree, mo, 29, 10
-tree, mm, 29, 10
-tree, mc, 30, 10
-tree, mo, 30, 10
-tree, mm, 30, 10
-tree, mc, 31, 10
-tree, mo, 31, 10
-tree, mm, 31, 10
-tree, mc, 32, 10
-tree, mo, 32, 10
-tree, mm, 32, 10
-tree, mc, 33, 10
-tree, mo, 33, 10
-tree, mm, 33, 10
-tree, mc, 34, 10
-tree, mo, 34, 10
-tree, mm, 34, 10
-tree, mc, 35, 10
-tree, mo, 35, 10
-tree, mm, 35, 10
-tree, mc, 36, 10
-tree, mo, 36, 10
-tree, mm, 36, 10
-tree, mc, 37, 10
-tree, mo, 37, 10
-tree, mm, 37, 10
-tree, mc, 38, 10
-tree, mo, 38, 10
-tree, mm, 38, 10
-tree, mc, 39, 10
-tree, mo, 39, 10
-tree, mm, 39, 10
-tree, mc, 40, 10
-tree, mo, 40, 10
-tree, mm, 40, 10
-tree, mc, 41, 10
-tree, mo, 41, 10
-tree, mm, 41, 10
-tree, mc, 42, 10
-tree, mo, 42, 10
-tree, mm, 42, 10
-tree, mc, 43, 10
-tree, mo, 43, 10
-tree, mm, 43, 10
-tree, mc, 44, 10
-tree, mo, 44, 10
-tree, mm, 44, 10
-tree, mc, 45, 10
-tree, mo, 45, 10
-tree, mm, 45, 10
-tree, mc, 46, 10
-tree, mo, 46, 10
-tree, mm, 46, 10
-tree, mc, 47, 10
-tree, mo, 47, 10
-tree, mm, 47, 10
-tree, mc, 48, 10
-tree, mo, 48, 10
-tree, mm, 48, 10
-tree, mc, 49, 10
-tree, mo, 49, 10
-tree, mm, 49, 10
-tree, mc, 50, 10
-tree, mo, 50, 10
-tree, mm, 50, 10
-tree, mc, 1, 11
-tree, mo, 1, 11
-tree, mm, 1, 11
-tree, mc, 2, 11
-tree, mo, 2, 11
-tree, mm, 2, 11
-tree, mc, 3, 11
-tree, mo, 3, 11
-tree, mm, 3, 11
-tree, mc, 4, 11
-tree, mo, 4, 11
-tree, mm, 4, 11
-tree, mc, 5, 11
-tree, mo, 5, 11
-tree, mm, 5, 11
-tree, mc, 6, 11
-tree, mo, 6, 11
-tree, mm, 6, 11
-tree, mc, 7, 11
-tree, mo, 7, 11
-tree, mm, 7, 11
-tree, mc, 8, 11
-tree, mo, 8, 11
-tree, mm, 8, 11
-tree, mc, 9, 11
-tree, mo, 9, 11
-tree, mm, 9, 11
-tree, mc, 10, 11
-tree, mo, 10, 11
-tree, mm, 10, 11
-tree, mc, 11, 11
-tree, mo, 11, 11
-tree, mm, 11, 11
-tree, mc, 12, 11
-tree, mo, 12, 11
-tree, mm, 12, 11
-tree, mc, 13, 11
-tree, mo, 13, 11
-tree, mm, 13, 11
-tree, mc, 14, 11
-tree, mo, 14, 11
-tree, mm, 14, 11
-tree, mc, 15, 11
-tree, mo, 15, 11
-tree, mm, 15, 11
-tree, mc, 16, 11
-tree, mo, 16, 11
-tree, mm, 16, 11
-tree, mc, 17, 11
-tree, mo, 17, 11
-tree, mm, 17, 11
-tree, mc, 18, 11
-tree, mo, 18, 11
-tree, mm, 18, 11
-tree, mc, 19, 11
-tree, mo, 19, 11
-tree, mm, 19, 11
-tree, mc, 20, 11
-tree, mo, 20, 11
-tree, mm, 20, 11
-tree, mc, 21, 11
-tree, mo, 21, 11
-tree, mm, 21, 11
-tree, mc, 22, 11
-tree, mo, 22, 11
-tree, mm, 22, 11
-tree, mc, 23, 11
-tree, mo, 23, 11
-tree, mm, 23, 11
-tree, mc, 24, 11
-tree, mo, 24, 11
-tree, mm, 24, 11
-tree, mc, 25, 11
-tree, mo, 25, 11
-tree, mm, 25, 11
-tree, mc, 26, 11
-tree, mo, 26, 11
-tree, mm, 26, 11
-tree, mc, 27, 11
-tree, mo, 27, 11
-tree, mm, 27, 11
-tree, mc, 28, 11
-tree, mo, 28, 11
-tree, mm, 28, 11
-tree, mc, 29, 11
-tree, mo, 29, 11
-tree, mm, 29, 11
-tree, mc, 30, 11
-tree, mo, 30, 11
-tree, mm, 30, 11
-tree, mc, 31, 11
-tree, mo, 31, 11
-tree, mm, 31, 11
-tree, mc, 32, 11
-tree, mo, 32, 11
-tree, mm, 32, 11
-tree, mc, 33, 11
-tree, mo, 33, 11
-tree, mm, 33, 11
-tree, mc, 34, 11
-tree, mo, 34, 11
-tree, mm, 34, 11
-tree, mc, 35, 11
-tree, mo, 35, 11
-tree, mm, 35, 11
-tree, mc, 36, 11
-tree, mo, 36, 11
-tree, mm, 36, 11
-tree, mc, 37, 11
-tree, mo, 37, 11
-tree, mm, 37, 11
-tree, mc, 38, 11
-tree, mo, 38, 11
-tree, mm, 38, 11
-tree, mc, 39, 11
-tree, mo, 39, 11
-tree, mm, 39, 11
-tree, mc, 40, 11
-tree, mo, 40, 11
-tree, mm, 40, 11
-tree, mc, 41, 11
-tree, mo, 41, 11
-tree, mm, 41, 11
-tree, mc, 42, 11
-tree, mo, 42, 11
-tree, mm, 42, 11
-tree, mc, 43, 11
-tree, mo, 43, 11
-tree, mm, 43, 11
-tree, mc, 44, 11
-tree, mo, 44, 11
-tree, mm, 44, 11
-tree, mc, 45, 11
-tree, mo, 45, 11
-tree, mm, 45, 11
-tree, mc, 46, 11
-tree, mo, 46, 11
-tree, mm, 46, 11
-tree, mc, 47, 11
-tree, mo, 47, 11
-tree, mm, 47, 11
-tree, mc, 48, 11
-tree, mo, 48, 11
-tree, mm, 48, 11
-tree, mc, 49, 11
-tree, mo, 49, 11
-tree, mm, 49, 11
-tree, mc, 50, 11
-tree, mo, 50, 11
-tree, mm, 50, 11
-tree, mc, 1, 12
-tree, mo, 1, 12
-tree, mm, 1, 12
-tree, mc, 2, 12
-tree, mo, 2, 12
-tree, mm, 2, 12
-tree, mc, 3, 12
-tree, mo, 3, 12
-tree, mm, 3, 12
-tree, mc, 4, 12
-tree, mo, 4, 12
-tree, mm, 4, 12
-tree, mc, 5, 12
-tree, mo, 5, 12
-tree, mm, 5, 12
-tree, mc, 6, 12
-tree, mo, 6, 12
-tree, mm, 6, 12
-tree, mc, 7, 12
-tree, mo, 7, 12
-tree, mm, 7, 12
-tree, mc, 8, 12
-tree, mo, 8, 12
-tree, mm, 8, 12
-tree, mc, 9, 12
-tree, mo, 9, 12
-tree, mm, 9, 12
-tree, mc, 10, 12
-tree, mo, 10, 12
-tree, mm, 10, 12
-tree, mc, 11, 12
-tree, mo, 11, 12
-tree, mm, 11, 12
-tree, mc, 12, 12
-tree, mo, 12, 12
-tree, mm, 12, 12
-tree, mc, 13, 12
-tree, mo, 13, 12
-tree, mm, 13, 12
-tree, mc, 14, 12
-tree, mo, 14, 12
-tree, mm, 14, 12
-tree, mc, 15, 12
-tree, mo, 15, 12
-tree, mm, 15, 12
-tree, mc, 16, 12
-tree, mo, 16, 12
-tree, mm, 16, 12
-tree, mc, 17, 12
-tree, mo, 17, 12
-tree, mm, 17, 12
-tree, mc, 18, 12
-tree, mo, 18, 12
-tree, mm, 18, 12
-tree, mc, 19, 12
-tree, mo, 19, 12
-tree, mm, 19, 12
-tree, mc, 20, 12
-tree, mo, 20, 12
-tree, mm, 20, 12
-tree, mc, 21, 12
-tree, mo, 21, 12
-tree, mm, 21, 12
-tree, mc, 22, 12
-tree, mo, 22, 12
-tree, mm, 22, 12
-tree, mc, 23, 12
-tree, mo, 23, 12
-tree, mm, 23, 12
-tree, mc, 24, 12
-tree, mo, 24, 12
-tree, mm, 24, 12
-tree, mc, 25, 12
-tree, mo, 25, 12
-tree, mm, 25, 12
-tree, mc, 26, 12
-tree, mo, 26, 12
-tree, mm, 26, 12
-tree, mc, 27, 12
-tree, mo, 27, 12
-tree, mm, 27, 12
-tree, mc, 28, 12
-tree, mo, 28, 12
-tree, mm, 28, 12
-tree, mc, 29, 12
-tree, mo, 29, 12
-tree, mm, 29, 12
-tree, mc, 30, 12
-tree, mo, 30, 12
-tree, mm, 30, 12
-tree, mc, 31, 12
-tree, mo, 31, 12
-tree, mm, 31, 12
-tree, mc, 32, 12
-tree, mo, 32, 12
-tree, mm, 32, 12
-tree, mc, 33, 12
-tree, mo, 33, 12
-tree, mm, 33, 12
-tree, mc, 34, 12
-tree, mo, 34, 12
-tree, mm, 34, 12
-tree, mc, 35, 12
-tree, mo, 35, 12
-tree, mm, 35, 12
-tree, mc, 36, 12
-tree, mo, 36, 12
-tree, mm, 36, 12
-tree, mc, 37, 12
-tree, mo, 37, 12
-tree, mm, 37, 12
-tree, mc, 38, 12
-tree, mo, 38, 12
-tree, mm, 38, 12
-tree, mc, 39, 12
-tree, mo, 39, 12
-tree, mm, 39, 12
-tree, mc, 40, 12
-tree, mo, 40, 12
-tree, mm, 40, 12
-tree, mc, 41, 12
-tree, mo, 41, 12
-tree, mm, 41, 12
-tree, mc, 42, 12
-tree, mo, 42, 12
-tree, mm, 42, 12
-tree, mc, 43, 12
-tree, mo, 43, 12
-tree, mm, 43, 12
-tree, mc, 44, 12
-tree, mo, 44, 12
-tree, mm, 44, 12
-tree, mc, 45, 12
-tree, mo, 45, 12
-tree, mm, 45, 12
-tree, mc, 46, 12
-tree, mo, 46, 12
-tree, mm, 46, 12
-tree, mc, 47, 12
-tree, mo, 47, 12
-tree, mm, 47, 12
-tree, mc, 48, 12
-tree, mo, 48, 12
-tree, mm, 48, 12
-tree, mc, 49, 12
-tree, mo, 49, 12
-tree, mm, 49, 12
-tree, mc, 50, 12
-tree, mo, 50, 12
-tree, mm, 50, 12
-tree, mc, 1, 13
-tree, mo, 1, 13
-tree, mm, 1, 13
-tree, mc, 2, 13
-tree, mo, 2, 13
-tree, mm, 2, 13
-tree, mc, 3, 13
-tree, mo, 3, 13
-tree, mm, 3, 13
-tree, mc, 4, 13
-tree, mo, 4, 13
-tree, mm, 4, 13
-tree, mc, 5, 13
-tree, mo, 5, 13
-tree, mm, 5, 13
-tree, mc, 6, 13
-tree, mo, 6, 13
-tree, mm, 6, 13
-tree, mc, 7, 13
-tree, mo, 7, 13
-tree, mm, 7, 13
-tree, mc, 8, 13
-tree, mo, 8, 13
-tree, mm, 8, 13
-tree, mc, 9, 13
-tree, mo, 9, 13
-tree, mm, 9, 13
-tree, mc, 10, 13
-tree, mo, 10, 13
-tree, mm, 10, 13
-tree, mc, 11, 13
-tree, mo, 11, 13
-tree, mm, 11, 13
-tree, mc, 12, 13
-tree, mo, 12, 13
-tree, mm, 12, 13
-tree, mc, 13, 13
-tree, mo, 13, 13
-tree, mm, 13, 13
-tree, mc, 14, 13
-tree, mo, 14, 13
-tree, mm, 14, 13
-tree, mc, 15, 13
-tree, mo, 15, 13
-tree, mm, 15, 13
-tree, mc, 16, 13
-tree, mo, 16, 13
-tree, mm, 16, 13
-tree, mc, 17, 13
-tree, mo, 17, 13
-tree, mm, 17, 13
-tree, mc, 18, 13
-tree, mo, 18, 13
-tree, mm, 18, 13
-tree, mc, 19, 13
-tree, mo, 19, 13
-tree, mm, 19, 13
-tree, mc, 20, 13
-tree, mo, 20, 13
-tree, mm, 20, 13
-tree, mc, 21, 13
-tree, mo, 21, 13
-tree, mm, 21, 13
-tree, mc, 22, 13
-tree, mo, 22, 13
-tree, mm, 22, 13
-tree, mc, 23, 13
-tree, mo, 23, 13
-tree, mm, 23, 13
-tree, mc, 24, 13
-tree, mo, 24, 13
-tree, mm, 24, 13
-tree, mc, 25, 13
-tree, mo, 25, 13
-tree, mm, 25, 13
-tree, mc, 26, 13
-tree, mo, 26, 13
-tree, mm, 26, 13
-tree, mc, 27, 13
-tree, mo, 27, 13
-tree, mm, 27, 13
-tree, mc, 28, 13
-tree, mo, 28, 13
-tree, mm, 28, 13
-tree, mc, 29, 13
-tree, mo, 29, 13
-tree, mm, 29, 13
-tree, mc, 30, 13
-tree, mo, 30, 13
-tree, mm, 30, 13
-tree, mc, 31, 13
-tree, mo, 31, 13
-tree, mm, 31, 13
-tree, mc, 32, 13
-tree, mo, 32, 13
-tree, mm, 32, 13
-tree, mc, 33, 13
-tree, mo, 33, 13
-tree, mm, 33, 13
-tree, mc, 34, 13
-tree, mo, 34, 13
-tree, mm, 34, 13
-tree, mc, 35, 13
-tree, mo, 35, 13
-tree, mm, 35, 13
-tree, mc, 36, 13
-tree, mo, 36, 13
-tree, mm, 36, 13
-tree, mc, 37, 13
-tree, mo, 37, 13
-tree, mm, 37, 13
-tree, mc, 38, 13
-tree, mo, 38, 13
-tree, mm, 38, 13
-tree, mc, 39, 13
-tree, mo, 39, 13
-tree, mm, 39, 13
-tree, mc, 40, 13
-tree, mo, 40, 13
-tree, mm, 40, 13
-tree, mc, 41, 13
-tree, mo, 41, 13
-tree, mm, 41, 13
-tree, mc, 42, 13
-tree, mo, 42, 13
-tree, mm, 42, 13
-tree, mc, 43, 13
-tree, mo, 43, 13
-tree, mm, 43, 13
-tree, mc, 44, 13
-tree, mo, 44, 13
-tree, mm, 44, 13
-tree, mc, 45, 13
-tree, mo, 45, 13
-tree, mm, 45, 13
-tree, mc, 46, 13
-tree, mo, 46, 13
-tree, mm, 46, 13
-tree, mc, 47, 13
-tree, mo, 47, 13
-tree, mm, 47, 13
-tree, mc, 48, 13
-tree, mo, 48, 13
-tree, mm, 48, 13
-tree, mc, 49, 13
-tree, mo, 49, 13
-tree, mm, 49, 13
-tree, mc, 50, 13
-tree, mo, 50, 13
-tree, mm, 50, 13
-tree, mc, 1, 14
-tree, mo, 1, 14
-tree, mm, 1, 14
-tree, mc, 2, 14
-tree, mo, 2, 14
-tree, mm, 2, 14
-tree, mc, 3, 14
-tree, mo, 3, 14
-tree, mm, 3, 14
-tree, mc, 4, 14
-tree, mo, 4, 14
-tree, mm, 4, 14
-tree, mc, 5, 14
-tree, mo, 5, 14
-tree, mm, 5, 14
-tree, mc, 6, 14
-tree, mo, 6, 14
-tree, mm, 6, 14
-tree, mc, 7, 14
-tree, mo, 7, 14
-tree, mm, 7, 14
-tree, mc, 8, 14
-tree, mo, 8, 14
-tree, mm, 8, 14
-tree, mc, 9, 14
-tree, mo, 9, 14
-tree, mm, 9, 14
-tree, mc, 10, 14
-tree, mo, 10, 14
-tree, mm, 10, 14
-tree, mc, 11, 14
-tree, mo, 11, 14
-tree, mm, 11, 14
-tree, mc, 12, 14
-tree, mo, 12, 14
-tree, mm, 12, 14
-tree, mc, 13, 14
-tree, mo, 13, 14
-tree, mm, 13, 14
-tree, mc, 14, 14
-tree, mo, 14, 14
-tree, mm, 14, 14
-tree, mc, 15, 14
-tree, mo, 15, 14
-tree, mm, 15, 14
-tree, mc, 16, 14
-tree, mo, 16, 14
-tree, mm, 16, 14
-tree, mc, 17, 14
-tree, mo, 17, 14
-tree, mm, 17, 14
-tree, mc, 18, 14
-tree, mo, 18, 14
-tree, mm, 18, 14
-tree, mc, 19, 14
-tree, mo, 19, 14
-tree, mm, 19, 14
-tree, mc, 20, 14
-tree, mo, 20, 14
-tree, mm, 20, 14
-tree, mc, 21, 14
-tree, mo, 21, 14
-tree, mm, 21, 14
-tree, mc, 22, 14
-tree, mo, 22, 14
-tree, mm, 22, 14
-tree, mc, 23, 14
-tree, mo, 23, 14
-tree, mm, 23, 14
-tree, mc, 24, 14
-tree, mo, 24, 14
-tree, mm, 24, 14
-tree, mc, 25, 14
-tree, mo, 25, 14
-tree, mm, 25, 14
-tree, mc, 26, 14
-tree, mo, 26, 14
-tree, mm, 26, 14
-tree, mc, 27, 14
-tree, mo, 27, 14
-tree, mm, 27, 14
-tree, mc, 28, 14
-tree, mo, 28, 14
-tree, mm, 28, 14
-tree, mc, 29, 14
-tree, mo, 29, 14
-tree, mm, 29, 14
-tree, mc, 30, 14
-tree, mo, 30, 14
-tree, mm, 30, 14
-tree, mc, 31, 14
-tree, mo, 31, 14
-tree, mm, 31, 14
-tree, mc, 32, 14
-tree, mo, 32, 14
-tree, mm, 32, 14
-tree, mc, 33, 14
-tree, mo, 33, 14
-tree, mm, 33, 14
-tree, mc, 34, 14
-tree, mo, 34, 14
-tree, mm, 34, 14
-tree, mc, 35, 14
-tree, mo, 35, 14
-tree, mm, 35, 14
-tree, mc, 36, 14
-tree, mo, 36, 14
-tree, mm, 36, 14
-tree, mc, 37, 14
-tree, mo, 37, 14
-tree, mm, 37, 14
-tree, mc, 38, 14
-tree, mo, 38, 14
-tree, mm, 38, 14
-tree, mc, 39, 14
-tree, mo, 39, 14
-tree, mm, 39, 14
-tree, mc, 40, 14
-tree, mo, 40, 14
-tree, mm, 40, 14
-tree, mc, 41, 14
-tree, mo, 41, 14
-tree, mm, 41, 14
-tree, mc, 42, 14
-tree, mo, 42, 14
-tree, mm, 42, 14
-tree, mc, 43, 14
-tree, mo, 43, 14
-tree, mm, 43, 14
-tree, mc, 44, 14
-tree, mo, 44, 14
-tree, mm, 44, 14
-tree, mc, 45, 14
-tree, mo, 45, 14
-tree, mm, 45, 14
-tree, mc, 46, 14
-tree, mo, 46, 14
-tree, mm, 46, 14
-tree, mc, 47, 14
-tree, mo, 47, 14
-tree, mm, 47, 14
-tree, mc, 48, 14
-tree, mo, 48, 14
-tree, mm, 48, 14
-tree, mc, 49, 14
-tree, mo, 49, 14
-tree, mm, 49, 14
-tree, mc, 50, 14
-tree, mo, 50, 14
-tree, mm, 50, 14
-tree, mc, 1, 15
-tree, mo, 1, 15
-tree, mm, 1, 15
-tree, mc, 2, 15
-tree, mo, 2, 15
-tree, mm, 2, 15
-tree, mc, 3, 15
-tree, mo, 3, 15
-tree, mm, 3, 15
-tree, mc, 4, 15
-tree, mo, 4, 15
-tree, mm, 4, 15
-tree, mc, 5, 15
-tree, mo, 5, 15
-tree, mm, 5, 15
-tree, mc, 6, 15
-tree, mo, 6, 15
-tree, mm, 6, 15
-tree, mc, 7, 15
-tree, mo, 7, 15
-tree, mm, 7, 15
-tree, mc, 8, 15
-tree, mo, 8, 15
-tree, mm, 8, 15
-tree, mc, 9, 15
-tree, mo, 9, 15
-tree, mm, 9, 15
-tree, mc, 10, 15
-tree, mo, 10, 15
-tree, mm, 10, 15
-tree, mc, 11, 15
-tree, mo, 11, 15
-tree, mm, 11, 15
-tree, mc, 12, 15
-tree, mo, 12, 15
-tree, mm, 12, 15
-tree, mc, 13, 15
-tree, mo, 13, 15
-tree, mm, 13, 15
-tree, mc, 14, 15
-tree, mo, 14, 15
-tree, mm, 14, 15
-tree, mc, 15, 15
-tree, mo, 15, 15
-tree, mm, 15, 15
-tree, mc, 16, 15
-tree, mo, 16, 15
-tree, mm, 16, 15
-tree, mc, 17, 15
-tree, mo, 17, 15
-tree, mm, 17, 15
-tree, mc, 18, 15
-tree, mo, 18, 15
-tree, mm, 18, 15
-tree, mc, 19, 15
-tree, mo, 19, 15
-tree, mm, 19, 15
-tree, mc, 20, 15
-tree, mo, 20, 15
-tree, mm, 20, 15
-tree, mc, 21, 15
-tree, mo, 21, 15
-tree, mm, 21, 15
-tree, mc, 22, 15
-tree, mo, 22, 15
-tree, mm, 22, 15
-tree, mc, 23, 15
-tree, mo, 23, 15
-tree, mm, 23, 15
-tree, mc, 24, 15
-tree, mo, 24, 15
-tree, mm, 24, 15
-tree, mc, 25, 15
-tree, mo, 25, 15
-tree, mm, 25, 15
-tree, mc, 26, 15
-tree, mo, 26, 15
-tree, mm, 26, 15
-tree, mc, 27, 15
-tree, mo, 27, 15
-tree, mm, 27, 15
-tree, mc, 28, 15
-tree, mo, 28, 15
-tree, mm, 28, 15
-tree, mc, 29, 15
-tree, mo, 29, 15
-tree, mm, 29, 15
-tree, mc, 30, 15
-tree, mo, 30, 15
-tree, mm, 30, 15
-tree, mc, 31, 15
-tree, mo, 31, 15
-tree, mm, 31, 15
-tree, mc, 32, 15
-tree, mo, 32, 15
-tree, mm, 32, 15
-tree, mc, 33, 15
-tree, mo, 33, 15
-tree, mm, 33, 15
-tree, mc, 34, 15
-tree, mo, 34, 15
-tree, mm, 34, 15
-tree, mc, 35, 15
-tree, mo, 35, 15
-tree, mm, 35, 15
-tree, mc, 36, 15
-tree, mo, 36, 15
-tree, mm, 36, 15
-tree, mc, 37, 15
-tree, mo, 37, 15
-tree, mm, 37, 15
-tree, mc, 38, 15
-tree, mo, 38, 15
-tree, mm, 38, 15
-tree, mc, 39, 15
-tree, mo, 39, 15
-tree, mm, 39, 15
-tree, mc, 40, 15
-tree, mo, 40, 15
-tree, mm, 40, 15
-tree, mc, 41, 15
-tree, mo, 41, 15
-tree, mm, 41, 15
-tree, mc, 42, 15
-tree, mo, 42, 15
-tree, mm, 42, 15
-tree, mc, 43, 15
-tree, mo, 43, 15
-tree, mm, 43, 15
-tree, mc, 44, 15
-tree, mo, 44, 15
-tree, mm, 44, 15
-tree, mc, 45, 15
-tree, mo, 45, 15
-tree, mm, 45, 15
-tree, mc, 46, 15
-tree, mo, 46, 15
-tree, mm, 46, 15
-tree, mc, 47, 15
-tree, mo, 47, 15
-tree, mm, 47, 15
-tree, mc, 48, 15
-tree, mo, 48, 15
-tree, mm, 48, 15
-tree, mc, 49, 15
-tree, mo, 49, 15
-tree, mm, 49, 15
-tree, mc, 50, 15
-tree, mo, 50, 15
-tree, mm, 50, 15
-tree, mc, 1, 16
-tree, mo, 1, 16
-tree, mm, 1, 16
-tree, mc, 2, 16
-tree, mo, 2, 16
-tree, mm, 2, 16
-tree, mc, 3, 16
-tree, mo, 3, 16
-tree, mm, 3, 16
-tree, mc, 4, 16
-tree, mo, 4, 16
-tree, mm, 4, 16
-tree, mc, 5, 16
-tree, mo, 5, 16
-tree, mm, 5, 16
-tree, mc, 6, 16
-tree, mo, 6, 16
-tree, mm, 6, 16
-tree, mc, 7, 16
-tree, mo, 7, 16
-tree, mm, 7, 16
-tree, mc, 8, 16
-tree, mo, 8, 16
-tree, mm, 8, 16
-tree, mc, 9, 16
-tree, mo, 9, 16
-tree, mm, 9, 16
-tree, mc, 10, 16
-tree, mo, 10, 16
-tree, mm, 10, 16
-tree, mc, 11, 16
-tree, mo, 11, 16
-tree, mm, 11, 16
-tree, mc, 12, 16
-tree, mo, 12, 16
-tree, mm, 12, 16
-tree, mc, 13, 16
-tree, mo, 13, 16
-tree, mm, 13, 16
-tree, mc, 14, 16
-tree, mo, 14, 16
-tree, mm, 14, 16
-tree, mc, 15, 16
-tree, mo, 15, 16
-tree, mm, 15, 16
-tree, mc, 16, 16
-tree, mo, 16, 16
-tree, mm, 16, 16
-tree, mc, 17, 16
-tree, mo, 17, 16
-tree, mm, 17, 16
-tree, mc, 18, 16
-tree, mo, 18, 16
-tree, mm, 18, 16
-tree, mc, 19, 16
-tree, mo, 19, 16
-tree, mm, 19, 16
-tree, mc, 20, 16
-tree, mo, 20, 16
-tree, mm, 20, 16
-tree, mc, 21, 16
-tree, mo, 21, 16
-tree, mm, 21, 16
-tree, mc, 22, 16
-tree, mo, 22, 16
-tree, mm, 22, 16
-tree, mc, 23, 16
-tree, mo, 23, 16
-tree, mm, 23, 16
-tree, mc, 24, 16
-tree, mo, 24, 16
-tree, mm, 24, 16
-tree, mc, 25, 16
-tree, mo, 25, 16
-tree, mm, 25, 16
-tree, mc, 26, 16
-tree, mo, 26, 16
-tree, mm, 26, 16
-tree, mc, 27, 16
-tree, mo, 27, 16
-tree, mm, 27, 16
-tree, mc, 28, 16
-tree, mo, 28, 16
-tree, mm, 28, 16
-tree, mc, 29, 16
-tree, mo, 29, 16
-tree, mm, 29, 16
-tree, mc, 30, 16
-tree, mo, 30, 16
-tree, mm, 30, 16
-tree, mc, 31, 16
-tree, mo, 31, 16
-tree, mm, 31, 16
-tree, mc, 32, 16
-tree, mo, 32, 16
-tree, mm, 32, 16
-tree, mc, 33, 16
-tree, mo, 33, 16
-tree, mm, 33, 16
-tree, mc, 34, 16
-tree, mo, 34, 16
-tree, mm, 34, 16
-tree, mc, 35, 16
-tree, mo, 35, 16
-tree, mm, 35, 16
-tree, mc, 36, 16
-tree, mo, 36, 16
-tree, mm, 36, 16
-tree, mc, 37, 16
-tree, mo, 37, 16
-tree, mm, 37, 16
-tree, mc, 38, 16
-tree, mo, 38, 16
-tree, mm, 38, 16
-tree, mc, 39, 16
-tree, mo, 39, 16
-tree, mm, 39, 16
-tree, mc, 40, 16
-tree, mo, 40, 16
-tree, mm, 40, 16
-tree, mc, 41, 16
-tree, mo, 41, 16
-tree, mm, 41, 16
-tree, mc, 42, 16
-tree, mo, 42, 16
-tree, mm, 42, 16
-tree, mc, 43, 16
-tree, mo, 43, 16
-tree, mm, 43, 16
-tree, mc, 44, 16
-tree, mo, 44, 16
-tree, mm, 44, 16
-tree, mc, 45, 16
-tree, mo, 45, 16
-tree, mm, 45, 16
-tree, mc, 46, 16
-tree, mo, 46, 16
-tree, mm, 46, 16
-tree, mc, 47, 16
-tree, mo, 47, 16
-tree, mm, 47, 16
-tree, mc, 48, 16
-tree, mo, 48, 16
-tree, mm, 48, 16
-tree, mc, 49, 16
-tree, mo, 49, 16
-tree, mm, 49, 16
-tree, mc, 50, 16
-tree, mo, 50, 16
-tree, mm, 50, 16
-tree, mc, 1, 17
-tree, mo, 1, 17
-tree, mm, 1, 17
-tree, mc, 2, 17
-tree, mo, 2, 17
-tree, mm, 2, 17
-tree, mc, 3, 17
-tree, mo, 3, 17
-tree, mm, 3, 17
-tree, mc, 4, 17
-tree, mo, 4, 17
-tree, mm, 4, 17
-tree, mc, 5, 17
-tree, mo, 5, 17
-tree, mm, 5, 17
-tree, mc, 6, 17
-tree, mo, 6, 17
-tree, mm, 6, 17
-tree, mc, 7, 17
-tree, mo, 7, 17
-tree, mm, 7, 17
-tree, mc, 8, 17
-tree, mo, 8, 17
-tree, mm, 8, 17
-tree, mc, 9, 17
-tree, mo, 9, 17
-tree, mm, 9, 17
-tree, mc, 10, 17
-tree, mo, 10, 17
-tree, mm, 10, 17
-tree, mc, 11, 17
-tree, mo, 11, 17
-tree, mm, 11, 17
-tree, mc, 12, 17
-tree, mo, 12, 17
-tree, mm, 12, 17
-tree, mc, 13, 17
-tree, mo, 13, 17
-tree, mm, 13, 17
-tree, mc, 14, 17
-tree, mo, 14, 17
-tree, mm, 14, 17
-tree, mc, 15, 17
-tree, mo, 15, 17
-tree, mm, 15, 17
-tree, mc, 16, 17
-tree, mo, 16, 17
-tree, mm, 16, 17
-tree, mc, 17, 17
-tree, mo, 17, 17
-tree, mm, 17, 17
-tree, mc, 18, 17
-tree, mo, 18, 17
-tree, mm, 18, 17
-tree, mc, 19, 17
-tree, mo, 19, 17
-tree, mm, 19, 17
-tree, mc, 20, 17
-tree, mo, 20, 17
-tree, mm, 20, 17
-tree, mc, 21, 17
-tree, mo, 21, 17
-tree, mm, 21, 17
-tree, mc, 22, 17
-tree, mo, 22, 17
-tree, mm, 22, 17
-tree, mc, 23, 17
-tree, mo, 23, 17
-tree, mm, 23, 17
-tree, mc, 24, 17
-tree, mo, 24, 17
-tree, mm, 24, 17
-tree, mc, 25, 17
-tree, mo, 25, 17
-tree, mm, 25, 17
-tree, mc, 26, 17
-tree, mo, 26, 17
-tree, mm, 26, 17
-tree, mc, 27, 17
-tree, mo, 27, 17
-tree, mm, 27, 17
-tree, mc, 28, 17
-tree, mo, 28, 17
-tree, mm, 28, 17
-tree, mc, 29, 17
-tree, mo, 29, 17
-tree, mm, 29, 17
-tree, mc, 30, 17
-tree, mo, 30, 17
-tree, mm, 30, 17
-tree, mc, 31, 17
-tree, mo, 31, 17
-tree, mm, 31, 17
-tree, mc, 32, 17
-tree, mo, 32, 17
-tree, mm, 32, 17
-tree, mc, 33, 17
-tree, mo, 33, 17
-tree, mm, 33, 17
-tree, mc, 34, 17
-tree, mo, 34, 17
-tree, mm, 34, 17
-tree, mc, 35, 17
-tree, mo, 35, 17
-tree, mm, 35, 17
-tree, mc, 36, 17
-tree, mo, 36, 17
-tree, mm, 36, 17
-tree, mc, 37, 17
-tree, mo, 37, 17
-tree, mm, 37, 17
-tree, mc, 38, 17
-tree, mo, 38, 17
-tree, mm, 38, 17
-tree, mc, 39, 17
-tree, mo, 39, 17
-tree, mm, 39, 17
-tree, mc, 40, 17
-tree, mo, 40, 17
-tree, mm, 40, 17
-tree, mc, 41, 17
-tree, mo, 41, 17
-tree, mm, 41, 17
-tree, mc, 42, 17
-tree, mo, 42, 17
-tree, mm, 42, 17
-tree, mc, 43, 17
-tree, mo, 43, 17
-tree, mm, 43, 17
-tree, mc, 44, 17
-tree, mo, 44, 17
-tree, mm, 44, 17
-tree, mc, 45, 17
-tree, mo, 45, 17
-tree, mm, 45, 17
-tree, mc, 46, 17
-tree, mo, 46, 17
-tree, mm, 46, 17
-tree, mc, 47, 17
-tree, mo, 47, 17
-tree, mm, 47, 17
-tree, mc, 48, 17
-tree, mo, 48, 17
-tree, mm, 48, 17
-tree, mc, 49, 17
-tree, mo, 49, 17
-tree, mm, 49, 17
-tree, mc, 50, 17
-tree, mo, 50, 17
-tree, mm, 50, 17
-tree, mc, 1, 18
-tree, mo, 1, 18
-tree, mm, 1, 18
-tree, mc, 2, 18
-tree, mo, 2, 18
-tree, mm, 2, 18
-tree, mc, 3, 18
-tree, mo, 3, 18
-tree, mm, 3, 18
-tree, mc, 4, 18
-tree, mo, 4, 18
-tree, mm, 4, 18
-tree, mc, 5, 18
-tree, mo, 5, 18
-tree, mm, 5, 18
-tree, mc, 6, 18
-tree, mo, 6, 18
-tree, mm, 6, 18
-tree, mc, 7, 18
-tree, mo, 7, 18
-tree, mm, 7, 18
-tree, mc, 8, 18
-tree, mo, 8, 18
-tree, mm, 8, 18
-tree, mc, 9, 18
-tree, mo, 9, 18
-tree, mm, 9, 18
-tree, mc, 10, 18
-tree, mo, 10, 18
-tree, mm, 10, 18
-tree, mc, 11, 18
-tree, mo, 11, 18
-tree, mm, 11, 18
-tree, mc, 12, 18
-tree, mo, 12, 18
-tree, mm, 12, 18
-tree, mc, 13, 18
-tree, mo, 13, 18
-tree, mm, 13, 18
-tree, mc, 14, 18
-tree, mo, 14, 18
-tree, mm, 14, 18
-tree, mc, 15, 18
-tree, mo, 15, 18
-tree, mm, 15, 18
-tree, mc, 16, 18
-tree, mo, 16, 18
-tree, mm, 16, 18
-tree, mc, 17, 18
-tree, mo, 17, 18
-tree, mm, 17, 18
-tree, mc, 18, 18
-tree, mo, 18, 18
-tree, mm, 18, 18
-tree, mc, 19, 18
-tree, mo, 19, 18
-tree, mm, 19, 18
-tree, mc, 20, 18
-tree, mo, 20, 18
-tree, mm, 20, 18
-tree, mc, 21, 18
-tree, mo, 21, 18
-tree, mm, 21, 18
-tree, mc, 22, 18
-tree, mo, 22, 18
-tree, mm, 22, 18
-tree, mc, 23, 18
-tree, mo, 23, 18
-tree, mm, 23, 18
-tree, mc, 24, 18
-tree, mo, 24, 18
-tree, mm, 24, 18
-tree, mc, 25, 18
-tree, mo, 25, 18
-tree, mm, 25, 18
-tree, mc, 26, 18
-tree, mo, 26, 18
-tree, mm, 26, 18
-tree, mc, 27, 18
-tree, mo, 27, 18
-tree, mm, 27, 18
-tree, mc, 28, 18
-tree, mo, 28, 18
-tree, mm, 28, 18
-tree, mc, 29, 18
-tree, mo, 29, 18
-tree, mm, 29, 18
-tree, mc, 30, 18
-tree, mo, 30, 18
-tree, mm, 30, 18
-tree, mc, 31, 18
-tree, mo, 31, 18
-tree, mm, 31, 18
-tree, mc, 32, 18
-tree, mo, 32, 18
-tree, mm, 32, 18
-tree, mc, 33, 18
-tree, mo, 33, 18
-tree, mm, 33, 18
-tree, mc, 34, 18
-tree, mo, 34, 18
-tree, mm, 34, 18
-tree, mc, 35, 18
-tree, mo, 35, 18
-tree, mm, 35, 18
-tree, mc, 36, 18
-tree, mo, 36, 18
-tree, mm, 36, 18
-tree, mc, 37, 18
-tree, mo, 37, 18
-tree, mm, 37, 18
-tree, mc, 38, 18
-tree, mo, 38, 18
-tree, mm, 38, 18
-tree, mc, 39, 18
-tree, mo, 39, 18
-tree, mm, 39, 18
-tree, mc, 40, 18
-tree, mo, 40, 18
-tree, mm, 40, 18
-tree, mc, 41, 18
-tree, mo, 41, 18
-tree, mm, 41, 18
-tree, mc, 42, 18
-tree, mo, 42, 18
-tree, mm, 42, 18
-tree, mc, 43, 18
-tree, mo, 43, 18
-tree, mm, 43, 18
-tree, mc, 44, 18
-tree, mo, 44, 18
-tree, mm, 44, 18
-tree, mc, 45, 18
-tree, mo, 45, 18
-tree, mm, 45, 18
-tree, mc, 46, 18
-tree, mo, 46, 18
-tree, mm, 46, 18
-tree, mc, 47, 18
-tree, mo, 47, 18
-tree, mm, 47, 18
-tree, mc, 48, 18
-tree, mo, 48, 18
-tree, mm, 48, 18
-tree, mc, 49, 18
-tree, mo, 49, 18
-tree, mm, 49, 18
-tree, mc, 50, 18
-tree, mo, 50, 18
-tree, mm, 50, 18
-tree, mc, 1, 19
-tree, mo, 1, 19
-tree, mm, 1, 19
-tree, mc, 2, 19
-tree, mo, 2, 19
-tree, mm, 2, 19
-tree, mc, 3, 19
-tree, mo, 3, 19
-tree, mm, 3, 19
-tree, mc, 4, 19
-tree, mo, 4, 19
-tree, mm, 4, 19
-tree, mc, 5, 19
-tree, mo, 5, 19
-tree, mm, 5, 19
-tree, mc, 6, 19
-tree, mo, 6, 19
-tree, mm, 6, 19
-tree, mc, 7, 19
-tree, mo, 7, 19
-tree, mm, 7, 19
-tree, mc, 8, 19
-tree, mo, 8, 19
-tree, mm, 8, 19
-tree, mc, 9, 19
-tree, mo, 9, 19
-tree, mm, 9, 19
-tree, mc, 10, 19
-tree, mo, 10, 19
-tree, mm, 10, 19
-tree, mc, 11, 19
-tree, mo, 11, 19
-tree, mm, 11, 19
-tree, mc, 12, 19
-tree, mo, 12, 19
-tree, mm, 12, 19
-tree, mc, 13, 19
-tree, mo, 13, 19
-tree, mm, 13, 19
-tree, mc, 14, 19
-tree, mo, 14, 19
-tree, mm, 14, 19
-tree, mc, 15, 19
-tree, mo, 15, 19
-tree, mm, 15, 19
-tree, mc, 16, 19
-tree, mo, 16, 19
-tree, mm, 16, 19
-tree, mc, 17, 19
-tree, mo, 17, 19
-tree, mm, 17, 19
-tree, mc, 18, 19
-tree, mo, 18, 19
-tree, mm, 18, 19
-tree, mc, 19, 19
-tree, mo, 19, 19
-tree, mm, 19, 19
-tree, mc, 20, 19
-tree, mo, 20, 19
-tree, mm, 20, 19
-tree, mc, 21, 19
-tree, mo, 21, 19
-tree, mm, 21, 19
-tree, mc, 22, 19
-tree, mo, 22, 19
-tree, mm, 22, 19
-tree, mc, 23, 19
-tree, mo, 23, 19
-tree, mm, 23, 19
-tree, mc, 24, 19
-tree, mo, 24, 19
-tree, mm, 24, 19
-tree, mc, 25, 19
-tree, mo, 25, 19
-tree, mm, 25, 19
-tree, mc, 26, 19
-tree, mo, 26, 19
-tree, mm, 26, 19
-tree, mc, 27, 19
-tree, mo, 27, 19
-tree, mm, 27, 19
-tree, mc, 28, 19
-tree, mo, 28, 19
-tree, mm, 28, 19
-tree, mc, 29, 19
-tree, mo, 29, 19
-tree, mm, 29, 19
-tree, mc, 30, 19
-tree, mo, 30, 19
-tree, mm, 30, 19
-tree, mc, 31, 19
-tree, mo, 31, 19
-tree, mm, 31, 19
-tree, mc, 32, 19
-tree, mo, 32, 19
-tree, mm, 32, 19
-tree, mc, 33, 19
-tree, mo, 33, 19
-tree, mm, 33, 19
-tree, mc, 34, 19
-tree, mo, 34, 19
-tree, mm, 34, 19
-tree, mc, 35, 19
-tree, mo, 35, 19
-tree, mm, 35, 19
-tree, mc, 36, 19
-tree, mo, 36, 19
-tree, mm, 36, 19
-tree, mc, 37, 19
-tree, mo, 37, 19
-tree, mm, 37, 19
-tree, mc, 38, 19
-tree, mo, 38, 19
-tree, mm, 38, 19
-tree, mc, 39, 19
-tree, mo, 39, 19
-tree, mm, 39, 19
-tree, mc, 40, 19
-tree, mo, 40, 19
-tree, mm, 40, 19
-tree, mc, 41, 19
-tree, mo, 41, 19
-tree, mm, 41, 19
-tree, mc, 42, 19
-tree, mo, 42, 19
-tree, mm, 42, 19
-tree, mc, 43, 19
-tree, mo, 43, 19
-tree, mm, 43, 19
-tree, mc, 44, 19
-tree, mo, 44, 19
-tree, mm, 44, 19
-tree, mc, 45, 19
-tree, mo, 45, 19
-tree, mm, 45, 19
-tree, mc, 46, 19
-tree, mo, 46, 19
-tree, mm, 46, 19
-tree, mc, 47, 19
-tree, mo, 47, 19
-tree, mm, 47, 19
-tree, mc, 48, 19
-tree, mo, 48, 19
-tree, mm, 48, 19
-tree, mc, 49, 19
-tree, mo, 49, 19
-tree, mm, 49, 19
-tree, mc, 50, 19
-tree, mo, 50, 19
-tree, mm, 50, 19
-tree, mc, 1, 20
-tree, mo, 1, 20
-tree, mm, 1, 20
-tree, mc, 2, 20
-tree, mo, 2, 20
-tree, mm, 2, 20
-tree, mc, 3, 20
-tree, mo, 3, 20
-tree, mm, 3, 20
-tree, mc, 4, 20
-tree, mo, 4, 20
-tree, mm, 4, 20
-tree, mc, 5, 20
-tree, mo, 5, 20
-tree, mm, 5, 20
-tree, mc, 6, 20
-tree, mo, 6, 20
-tree, mm, 6, 20
-tree, mc, 7, 20
-tree, mo, 7, 20
-tree, mm, 7, 20
-tree, mc, 8, 20
-tree, mo, 8, 20
-tree, mm, 8, 20
-tree, mc, 9, 20
-tree, mo, 9, 20
-tree, mm, 9, 20
-tree, mc, 10, 20
-tree, mo, 10, 20
-tree, mm, 10, 20
-tree, mc, 11, 20
-tree, mo, 11, 20
-tree, mm, 11, 20
-tree, mc, 12, 20
-tree, mo, 12, 20
-tree, mm, 12, 20
-tree, mc, 13, 20
-tree, mo, 13, 20
-tree, mm, 13, 20
-tree, mc, 14, 20
-tree, mo, 14, 20
-tree, mm, 14, 20
-tree, mc, 15, 20
-tree, mo, 15, 20
-tree, mm, 15, 20
-tree, mc, 16, 20
-tree, mo, 16, 20
-tree, mm, 16, 20
-tree, mc, 17, 20
-tree, mo, 17, 20
-tree, mm, 17, 20
-tree, mc, 18, 20
-tree, mo, 18, 20
-tree, mm, 18, 20
-tree, mc, 19, 20
-tree, mo, 19, 20
-tree, mm, 19, 20
-tree, mc, 20, 20
-tree, mo, 20, 20
-tree, mm, 20, 20
-tree, mc, 21, 20
-tree, mo, 21, 20
-tree, mm, 21, 20
-tree, mc, 22, 20
-tree, mo, 22, 20
-tree, mm, 22, 20
-tree, mc, 23, 20
-tree, mo, 23, 20
-tree, mm, 23, 20
-tree, mc, 24, 20
-tree, mo, 24, 20
-tree, mm, 24, 20
-tree, mc, 25, 20
-tree, mo, 25, 20
-tree, mm, 25, 20
-tree, mc, 26, 20
-tree, mo, 26, 20
-tree, mm, 26, 20
-tree, mc, 27, 20
-tree, mo, 27, 20
-tree, mm, 27, 20
-tree, mc, 28, 20
-tree, mo, 28, 20
-tree, mm, 28, 20
-tree, mc, 29, 20
-tree, mo, 29, 20
-tree, mm, 29, 20
-tree, mc, 30, 20
-tree, mo, 30, 20
-tree, mm, 30, 20
-tree, mc, 31, 20
-tree, mo, 31, 20
-tree, mm, 31, 20
-tree, mc, 32, 20
-tree, mo, 32, 20
-tree, mm, 32, 20
-tree, mc, 33, 20
-tree, mo, 33, 20
-tree, mm, 33, 20
-tree, mc, 34, 20
-tree, mo, 34, 20
-tree, mm, 34, 20
-tree, mc, 35, 20
-tree, mo, 35, 20
-tree, mm, 35, 20
-tree, mc, 36, 20
-tree, mo, 36, 20
-tree, mm, 36, 20
-tree, mc, 37, 20
-tree, mo, 37, 20
-tree, mm, 37, 20
-tree, mc, 38, 20
-tree, mo, 38, 20
-tree, mm, 38, 20
-tree, mc, 39, 20
-tree, mo, 39, 20
-tree, mm, 39, 20
-tree, mc, 40, 20
-tree, mo, 40, 20
-tree, mm, 40, 20
-tree, mc, 41, 20
-tree, mo, 41, 20
-tree, mm, 41, 20
-tree, mc, 42, 20
-tree, mo, 42, 20
-tree, mm, 42, 20
-tree, mc, 43, 20
-tree, mo, 43, 20
-tree, mm, 43, 20
-tree, mc, 44, 20
-tree, mo, 44, 20
-tree, mm, 44, 20
-tree, mc, 45, 20
-tree, mo, 45, 20
-tree, mm, 45, 20
-tree, mc, 46, 20
-tree, mo, 46, 20
-tree, mm, 46, 20
-tree, mc, 47, 20
-tree, mo, 47, 20
-tree, mm, 47, 20
-tree, mc, 48, 20
-tree, mo, 48, 20
-tree, mm, 48, 20
-tree, mc, 49, 20
-tree, mo, 49, 20
-tree, mm, 49, 20
-tree, mc, 50, 20
-tree, mo, 50, 20
-tree, mm, 50, 20
-tree, mc, 1, 21
-tree, mo, 1, 21
-tree, mm, 1, 21
-tree, mc, 2, 21
-tree, mo, 2, 21
-tree, mm, 2, 21
-tree, mc, 3, 21
-tree, mo, 3, 21
-tree, mm, 3, 21
-tree, mc, 4, 21
-tree, mo, 4, 21
-tree, mm, 4, 21
-tree, mc, 5, 21
-tree, mo, 5, 21
-tree, mm, 5, 21
-tree, mc, 6, 21
-tree, mo, 6, 21
-tree, mm, 6, 21
-tree, mc, 7, 21
-tree, mo, 7, 21
-tree, mm, 7, 21
-tree, mc, 8, 21
-tree, mo, 8, 21
-tree, mm, 8, 21
-tree, mc, 9, 21
-tree, mo, 9, 21
-tree, mm, 9, 21
-tree, mc, 10, 21
-tree, mo, 10, 21
-tree, mm, 10, 21
-tree, mc, 11, 21
-tree, mo, 11, 21
-tree, mm, 11, 21
-tree, mc, 12, 21
-tree, mo, 12, 21
-tree, mm, 12, 21
-tree, mc, 13, 21
-tree, mo, 13, 21
-tree, mm, 13, 21
-tree, mc, 14, 21
-tree, mo, 14, 21
-tree, mm, 14, 21
-tree, mc, 15, 21
-tree, mo, 15, 21
-tree, mm, 15, 21
-tree, mc, 16, 21
-tree, mo, 16, 21
-tree, mm, 16, 21
-tree, mc, 17, 21
-tree, mo, 17, 21
-tree, mm, 17, 21
-tree, mc, 18, 21
-tree, mo, 18, 21
-tree, mm, 18, 21
-tree, mc, 19, 21
-tree, mo, 19, 21
-tree, mm, 19, 21
-tree, mc, 20, 21
-tree, mo, 20, 21
-tree, mm, 20, 21
-tree, mc, 21, 21
-tree, mo, 21, 21
-tree, mm, 21, 21
-tree, mc, 22, 21
-tree, mo, 22, 21
-tree, mm, 22, 21
-tree, mc, 23, 21
-tree, mo, 23, 21
-tree, mm, 23, 21
-tree, mc, 24, 21
-tree, mo, 24, 21
-tree, mm, 24, 21
-tree, mc, 25, 21
-tree, mo, 25, 21
-tree, mm, 25, 21
-tree, mc, 26, 21
-tree, mo, 26, 21
-tree, mm, 26, 21
-tree, mc, 27, 21
-tree, mo, 27, 21
-tree, mm, 27, 21
-tree, mc, 28, 21
-tree, mo, 28, 21
-tree, mm, 28, 21
-tree, mc, 29, 21
-tree, mo, 29, 21
-tree, mm, 29, 21
-tree, mc, 30, 21
-tree, mo, 30, 21
-tree, mm, 30, 21
-tree, mc, 31, 21
-tree, mo, 31, 21
-tree, mm, 31, 21
-tree, mc, 32, 21
-tree, mo, 32, 21
-tree, mm, 32, 21
-tree, mc, 33, 21
-tree, mo, 33, 21
-tree, mm, 33, 21
-tree, mc, 34, 21
-tree, mo, 34, 21
-tree, mm, 34, 21
-tree, mc, 35, 21
-tree, mo, 35, 21
-tree, mm, 35, 21
-tree, mc, 36, 21
-tree, mo, 36, 21
-tree, mm, 36, 21
-tree, mc, 37, 21
-tree, mo, 37, 21
-tree, mm, 37, 21
-tree, mc, 38, 21
-tree, mo, 38, 21
-tree, mm, 38, 21
-tree, mc, 39, 21
-tree, mo, 39, 21
-tree, mm, 39, 21
-tree, mc, 40, 21
-tree, mo, 40, 21
-tree, mm, 40, 21
-tree, mc, 41, 21
-tree, mo, 41, 21
-tree, mm, 41, 21
-tree, mc, 42, 21
-tree, mo, 42, 21
-tree, mm, 42, 21
-tree, mc, 43, 21
-tree, mo, 43, 21
-tree, mm, 43, 21
-tree, mc, 44, 21
-tree, mo, 44, 21
-tree, mm, 44, 21
-tree, mc, 45, 21
-tree, mo, 45, 21
-tree, mm, 45, 21
-tree, mc, 46, 21
-tree, mo, 46, 21
-tree, mm, 46, 21
-tree, mc, 47, 21
-tree, mo, 47, 21
-tree, mm, 47, 21
-tree, mc, 48, 21
-tree, mo, 48, 21
-tree, mm, 48, 21
-tree, mc, 49, 21
-tree, mo, 49, 21
-tree, mm, 49, 21
-tree, mc, 50, 21
-tree, mo, 50, 21
-tree, mm, 50, 21
-tree, mc, 1, 22
-tree, mo, 1, 22
-tree, mm, 1, 22
-tree, mc, 2, 22
-tree, mo, 2, 22
-tree, mm, 2, 22
-tree, mc, 3, 22
-tree, mo, 3, 22
-tree, mm, 3, 22
-tree, mc, 4, 22
-tree, mo, 4, 22
-tree, mm, 4, 22
-tree, mc, 5, 22
-tree, mo, 5, 22
-tree, mm, 5, 22
-tree, mc, 6, 22
-tree, mo, 6, 22
-tree, mm, 6, 22
-tree, mc, 7, 22
-tree, mo, 7, 22
-tree, mm, 7, 22
-tree, mc, 8, 22
-tree, mo, 8, 22
-tree, mm, 8, 22
-tree, mc, 9, 22
-tree, mo, 9, 22
-tree, mm, 9, 22
-tree, mc, 10, 22
-tree, mo, 10, 22
-tree, mm, 10, 22
-tree, mc, 11, 22
-tree, mo, 11, 22
-tree, mm, 11, 22
-tree, mc, 12, 22
-tree, mo, 12, 22
-tree, mm, 12, 22
-tree, mc, 13, 22
-tree, mo, 13, 22
-tree, mm, 13, 22
-tree, mc, 14, 22
-tree, mo, 14, 22
-tree, mm, 14, 22
-tree, mc, 15, 22
-tree, mo, 15, 22
-tree, mm, 15, 22
-tree, mc, 16, 22
-tree, mo, 16, 22
-tree, mm, 16, 22
-tree, mc, 17, 22
-tree, mo, 17, 22
-tree, mm, 17, 22
-tree, mc, 18, 22
-tree, mo, 18, 22
-tree, mm, 18, 22
-tree, mc, 19, 22
-tree, mo, 19, 22
-tree, mm, 19, 22
-tree, mc, 20, 22
-tree, mo, 20, 22
-tree, mm, 20, 22
-tree, mc, 21, 22
-tree, mo, 21, 22
-tree, mm, 21, 22
-tree, mc, 22, 22
-tree, mo, 22, 22
-tree, mm, 22, 22
-tree, mc, 23, 22
-tree, mo, 23, 22
-tree, mm, 23, 22
-tree, mc, 24, 22
-tree, mo, 24, 22
-tree, mm, 24, 22
-tree, mc, 25, 22
-tree, mo, 25, 22
-tree, mm, 25, 22
-tree, mc, 26, 22
-tree, mo, 26, 22
-tree, mm, 26, 22
-tree, mc, 27, 22
-tree, mo, 27, 22
-tree, mm, 27, 22
-tree, mc, 28, 22
-tree, mo, 28, 22
-tree, mm, 28, 22
-tree, mc, 29, 22
-tree, mo, 29, 22
-tree, mm, 29, 22
-tree, mc, 30, 22
-tree, mo, 30, 22
-tree, mm, 30, 22
-tree, mc, 31, 22
-tree, mo, 31, 22
-tree, mm, 31, 22
-tree, mc, 32, 22
-tree, mo, 32, 22
-tree, mm, 32, 22
-tree, mc, 33, 22
-tree, mo, 33, 22
-tree, mm, 33, 22
-tree, mc, 34, 22
-tree, mo, 34, 22
-tree, mm, 34, 22
-tree, mc, 35, 22
-tree, mo, 35, 22
-tree, mm, 35, 22
-tree, mc, 36, 22
-tree, mo, 36, 22
-tree, mm, 36, 22
-tree, mc, 37, 22
-tree, mo, 37, 22
-tree, mm, 37, 22
-tree, mc, 38, 22
-tree, mo, 38, 22
-tree, mm, 38, 22
-tree, mc, 39, 22
-tree, mo, 39, 22
-tree, mm, 39, 22
-tree, mc, 40, 22
-tree, mo, 40, 22
-tree, mm, 40, 22
-tree, mc, 41, 22
-tree, mo, 41, 22
-tree, mm, 41, 22
-tree, mc, 42, 22
-tree, mo, 42, 22
-tree, mm, 42, 22
-tree, mc, 43, 22
-tree, mo, 43, 22
-tree, mm, 43, 22
-tree, mc, 44, 22
-tree, mo, 44, 22
-tree, mm, 44, 22
-tree, mc, 45, 22
-tree, mo, 45, 22
-tree, mm, 45, 22
-tree, mc, 46, 22
-tree, mo, 46, 22
-tree, mm, 46, 22
-tree, mc, 47, 22
-tree, mo, 47, 22
-tree, mm, 47, 22
-tree, mc, 48, 22
-tree, mo, 48, 22
-tree, mm, 48, 22
-tree, mc, 49, 22
-tree, mo, 49, 22
-tree, mm, 49, 22
-tree, mc, 50, 22
-tree, mo, 50, 22
-tree, mm, 50, 22
-tree, mc, 1, 23
-tree, mo, 1, 23
-tree, mm, 1, 23
-tree, mc, 2, 23
-tree, mo, 2, 23
-tree, mm, 2, 23
-tree, mc, 3, 23
-tree, mo, 3, 23
-tree, mm, 3, 23
-tree, mc, 4, 23
-tree, mo, 4, 23
-tree, mm, 4, 23
-tree, mc, 5, 23
-tree, mo, 5, 23
-tree, mm, 5, 23
-tree, mc, 6, 23
-tree, mo, 6, 23
-tree, mm, 6, 23
-tree, mc, 7, 23
-tree, mo, 7, 23
-tree, mm, 7, 23
-tree, mc, 8, 23
-tree, mo, 8, 23
-tree, mm, 8, 23
-tree, mc, 9, 23
-tree, mo, 9, 23
-tree, mm, 9, 23
-tree, mc, 10, 23
-tree, mo, 10, 23
-tree, mm, 10, 23
-tree, mc, 11, 23
-tree, mo, 11, 23
-tree, mm, 11, 23
-tree, mc, 12, 23
-tree, mo, 12, 23
-tree, mm, 12, 23
-tree, mc, 13, 23
-tree, mo, 13, 23
-tree, mm, 13, 23
-tree, mc, 14, 23
-tree, mo, 14, 23
-tree, mm, 14, 23
-tree, mc, 15, 23
-tree, mo, 15, 23
-tree, mm, 15, 23
-tree, mc, 16, 23
-tree, mo, 16, 23
-tree, mm, 16, 23
-tree, mc, 17, 23
-tree, mo, 17, 23
-tree, mm, 17, 23
-tree, mc, 18, 23
-tree, mo, 18, 23
-tree, mm, 18, 23
-tree, mc, 19, 23
-tree, mo, 19, 23
-tree, mm, 19, 23
-tree, mc, 20, 23
-tree, mo, 20, 23
-tree, mm, 20, 23
-tree, mc, 21, 23
-tree, mo, 21, 23
-tree, mm, 21, 23
-tree, mc, 22, 23
-tree, mo, 22, 23
-tree, mm, 22, 23
-tree, mc, 23, 23
-tree, mo, 23, 23
-tree, mm, 23, 23
-tree, mc, 24, 23
-tree, mo, 24, 23
-tree, mm, 24, 23
-tree, mc, 25, 23
-tree, mo, 25, 23
-tree, mm, 25, 23
-tree, mc, 26, 23
-tree, mo, 26, 23
-tree, mm, 26, 23
-tree, mc, 27, 23
-tree, mo, 27, 23
-tree, mm, 27, 23
-tree, mc, 28, 23
-tree, mo, 28, 23
-tree, mm, 28, 23
-tree, mc, 29, 23
-tree, mo, 29, 23
-tree, mm, 29, 23
-tree, mc, 30, 23
-tree, mo, 30, 23
-tree, mm, 30, 23
-tree, mc, 31, 23
-tree, mo, 31, 23
-tree, mm, 31, 23
-tree, mc, 32, 23
-tree, mo, 32, 23
-tree, mm, 32, 23
-tree, mc, 33, 23
-tree, mo, 33, 23
-tree, mm, 33, 23
-tree, mc, 34, 23
-tree, mo, 34, 23
-tree, mm, 34, 23
-tree, mc, 35, 23
-tree, mo, 35, 23
-tree, mm, 35, 23
-tree, mc, 36, 23
-tree, mo, 36, 23
-tree, mm, 36, 23
-tree, mc, 37, 23
-tree, mo, 37, 23
-tree, mm, 37, 23
-tree, mc, 38, 23
-tree, mo, 38, 23
-tree, mm, 38, 23
-tree, mc, 39, 23
-tree, mo, 39, 23
-tree, mm, 39, 23
-tree, mc, 40, 23
-tree, mo, 40, 23
-tree, mm, 40, 23
-tree, mc, 41, 23
-tree, mo, 41, 23
-tree, mm, 41, 23
-tree, mc, 42, 23
-tree, mo, 42, 23
-tree, mm, 42, 23
-tree, mc, 43, 23
-tree, mo, 43, 23
-tree, mm, 43, 23
-tree, mc, 44, 23
-tree, mo, 44, 23
-tree, mm, 44, 23
-tree, mc, 45, 23
-tree, mo, 45, 23
-tree, mm, 45, 23
-tree, mc, 46, 23
-tree, mo, 46, 23
-tree, mm, 46, 23
-tree, mc, 47, 23
-tree, mo, 47, 23
-tree, mm, 47, 23
-tree, mc, 48, 23
-tree, mo, 48, 23
-tree, mm, 48, 23
-tree, mc, 49, 23
-tree, mo, 49, 23
-tree, mm, 49, 23
-tree, mc, 50, 23
-tree, mo, 50, 23
-tree, mm, 50, 23
-tree, mc, 1, 24
-tree, mo, 1, 24
-tree, mm, 1, 24
-tree, mc, 2, 24
-tree, mo, 2, 24
-tree, mm, 2, 24
-tree, mc, 3, 24
-tree, mo, 3, 24
-tree, mm, 3, 24
-tree, mc, 4, 24
-tree, mo, 4, 24
-tree, mm, 4, 24
-tree, mc, 5, 24
-tree, mo, 5, 24
-tree, mm, 5, 24
-tree, mc, 6, 24
-tree, mo, 6, 24
-tree, mm, 6, 24
-tree, mc, 7, 24
-tree, mo, 7, 24
-tree, mm, 7, 24
-tree, mc, 8, 24
-tree, mo, 8, 24
-tree, mm, 8, 24
-tree, mc, 9, 24
-tree, mo, 9, 24
-tree, mm, 9, 24
-tree, mc, 10, 24
-tree, mo, 10, 24
-tree, mm, 10, 24
-tree, mc, 11, 24
-tree, mo, 11, 24
-tree, mm, 11, 24
-tree, mc, 12, 24
-tree, mo, 12, 24
-tree, mm, 12, 24
-tree, mc, 13, 24
-tree, mo, 13, 24
-tree, mm, 13, 24
-tree, mc, 14, 24
-tree, mo, 14, 24
-tree, mm, 14, 24
-tree, mc, 15, 24
-tree, mo, 15, 24
-tree, mm, 15, 24
-tree, mc, 16, 24
-tree, mo, 16, 24
-tree, mm, 16, 24
-tree, mc, 17, 24
-tree, mo, 17, 24
-tree, mm, 17, 24
-tree, mc, 18, 24
-tree, mo, 18, 24
-tree, mm, 18, 24
-tree, mc, 19, 24
-tree, mo, 19, 24
-tree, mm, 19, 24
-tree, mc, 20, 24
-tree, mo, 20, 24
-tree, mm, 20, 24
-tree, mc, 21, 24
-tree, mo, 21, 24
-tree, mm, 21, 24
-tree, mc, 22, 24
-tree, mo, 22, 24
-tree, mm, 22, 24
-tree, mc, 23, 24
-tree, mo, 23, 24
-tree, mm, 23, 24
-tree, mc, 24, 24
-tree, mo, 24, 24
-tree, mm, 24, 24
-tree, mc, 25, 24
-tree, mo, 25, 24
-tree, mm, 25, 24
-tree, mc, 26, 24
-tree, mo, 26, 24
-tree, mm, 26, 24
-tree, mc, 27, 24
-tree, mo, 27, 24
-tree, mm, 27, 24
-tree, mc, 28, 24
-tree, mo, 28, 24
-tree, mm, 28, 24
-tree, mc, 29, 24
-tree, mo, 29, 24
-tree, mm, 29, 24
-tree, mc, 30, 24
-tree, mo, 30, 24
-tree, mm, 30, 24
-tree, mc, 31, 24
-tree, mo, 31, 24
-tree, mm, 31, 24
-tree, mc, 32, 24
-tree, mo, 32, 24
-tree, mm, 32, 24
-tree, mc, 33, 24
-tree, mo, 33, 24
-tree, mm, 33, 24
-tree, mc, 34, 24
-tree, mo, 34, 24
-tree, mm, 34, 24
-tree, mc, 35, 24
-tree, mo, 35, 24
-tree, mm, 35, 24
-tree, mc, 36, 24
-tree, mo, 36, 24
-tree, mm, 36, 24
-tree, mc, 37, 24
-tree, mo, 37, 24
-tree, mm, 37, 24
-tree, mc, 38, 24
-tree, mo, 38, 24
-tree, mm, 38, 24
-tree, mc, 39, 24
-tree, mo, 39, 24
-tree, mm, 39, 24
-tree, mc, 40, 24
-tree, mo, 40, 24
-tree, mm, 40, 24
-tree, mc, 41, 24
-tree, mo, 41, 24
-tree, mm, 41, 24
-tree, mc, 42, 24
-tree, mo, 42, 24
-tree, mm, 42, 24
-tree, mc, 43, 24
-tree, mo, 43, 24
-tree, mm, 43, 24
-tree, mc, 44, 24
-tree, mo, 44, 24
-tree, mm, 44, 24
-tree, mc, 45, 24
-tree, mo, 45, 24
-tree, mm, 45, 24
-tree, mc, 46, 24
-tree, mo, 46, 24
-tree, mm, 46, 24
-tree, mc, 47, 24
-tree, mo, 47, 24
-tree, mm, 47, 24
-tree, mc, 48, 24
-tree, mo, 48, 24
-tree, mm, 48, 24
-tree, mc, 49, 24
-tree, mo, 49, 24
-tree, mm, 49, 24
-tree, mc, 50, 24
-tree, mo, 50, 24
-tree, mm, 50, 24
-tree, mc, 1, 25
-tree, mo, 1, 25
-tree, mm, 1, 25
-tree, mc, 2, 25
-tree, mo, 2, 25
-tree, mm, 2, 25
-tree, mc, 3, 25
-tree, mo, 3, 25
-tree, mm, 3, 25
-tree, mc, 4, 25
-tree, mo, 4, 25
-tree, mm, 4, 25
-tree, mc, 5, 25
-tree, mo, 5, 25
-tree, mm, 5, 25
-tree, mc, 6, 25
-tree, mo, 6, 25
-tree, mm, 6, 25
-tree, mc, 7, 25
-tree, mo, 7, 25
-tree, mm, 7, 25
-tree, mc, 8, 25
-tree, mo, 8, 25
-tree, mm, 8, 25
-tree, mc, 9, 25
-tree, mo, 9, 25
-tree, mm, 9, 25
-tree, mc, 10, 25
-tree, mo, 10, 25
-tree, mm, 10, 25
-tree, mc, 11, 25
-tree, mo, 11, 25
-tree, mm, 11, 25
-tree, mc, 12, 25
-tree, mo, 12, 25
-tree, mm, 12, 25
-tree, mc, 13, 25
-tree, mo, 13, 25
-tree, mm, 13, 25
-tree, mc, 14, 25
-tree, mo, 14, 25
-tree, mm, 14, 25
-tree, mc, 15, 25
-tree, mo, 15, 25
-tree, mm, 15, 25
-tree, mc, 16, 25
-tree, mo, 16, 25
-tree, mm, 16, 25
-tree, mc, 17, 25
-tree, mo, 17, 25
-tree, mm, 17, 25
-tree, mc, 18, 25
-tree, mo, 18, 25
-tree, mm, 18, 25
-tree, mc, 19, 25
-tree, mo, 19, 25
-tree, mm, 19, 25
-tree, mc, 20, 25
-tree, mo, 20, 25
-tree, mm, 20, 25
-tree, mc, 21, 25
-tree, mo, 21, 25
-tree, mm, 21, 25
-tree, mc, 22, 25
-tree, mo, 22, 25
-tree, mm, 22, 25
-tree, mc, 23, 25
-tree, mo, 23, 25
-tree, mm, 23, 25
-tree, mc, 24, 25
-tree, mo, 24, 25
-tree, mm, 24, 25
-tree, mc, 25, 25
-tree, mo, 25, 25
-tree, mm, 25, 25
-tree, mc, 26, 25
-tree, mo, 26, 25
-tree, mm, 26, 25
-tree, mc, 27, 25
-tree, mo, 27, 25
-tree, mm, 27, 25
-tree, mc, 28, 25
-tree, mo, 28, 25
-tree, mm, 28, 25
-tree, mc, 29, 25
-tree, mo, 29, 25
-tree, mm, 29, 25
-tree, mc, 30, 25
-tree, mo, 30, 25
-tree, mm, 30, 25
-tree, mc, 31, 25
-tree, mo, 31, 25
-tree, mm, 31, 25
-tree, mc, 32, 25
-tree, mo, 32, 25
-tree, mm, 32, 25
-tree, mc, 33, 25
-tree, mo, 33, 25
-tree, mm, 33, 25
-tree, mc, 34, 25
-tree, mo, 34, 25
-tree, mm, 34, 25
-tree, mc, 35, 25
-tree, mo, 35, 25
-tree, mm, 35, 25
-tree, mc, 36, 25
-tree, mo, 36, 25
-tree, mm, 36, 25
-tree, mc, 37, 25
-tree, mo, 37, 25
-tree, mm, 37, 25
-tree, mc, 38, 25
-tree, mo, 38, 25
-tree, mm, 38, 25
-tree, mc, 39, 25
-tree, mo, 39, 25
-tree, mm, 39, 25
-tree, mc, 40, 25
-tree, mo, 40, 25
-tree, mm, 40, 25
-tree, mc, 41, 25
-tree, mo, 41, 25
-tree, mm, 41, 25
-tree, mc, 42, 25
-tree, mo, 42, 25
-tree, mm, 42, 25
-tree, mc, 43, 25
-tree, mo, 43, 25
-tree, mm, 43, 25
-tree, mc, 44, 25
-tree, mo, 44, 25
-tree, mm, 44, 25
-tree, mc, 45, 25
-tree, mo, 45, 25
-tree, mm, 45, 25
-tree, mc, 46, 25
-tree, mo, 46, 25
-tree, mm, 46, 25
-tree, mc, 47, 25
-tree, mo, 47, 25
-tree, mm, 47, 25
-tree, mc, 48, 25
-tree, mo, 48, 25
-tree, mm, 48, 25
-tree, mc, 49, 25
-tree, mo, 49, 25
-tree, mm, 49, 25
-tree, mc, 50, 25
-tree, mo, 50, 25
-tree, mm, 50, 25
-tree, mc, 1, 26
-tree, mo, 1, 26
-tree, mm, 1, 26
-tree, mc, 2, 26
-tree, mo, 2, 26
-tree, mm, 2, 26
-tree, mc, 3, 26
-tree, mo, 3, 26
-tree, mm, 3, 26
-tree, mc, 4, 26
-tree, mo, 4, 26
-tree, mm, 4, 26
-tree, mc, 5, 26
-tree, mo, 5, 26
-tree, mm, 5, 26
-tree, mc, 6, 26
-tree, mo, 6, 26
-tree, mm, 6, 26
-tree, mc, 7, 26
-tree, mo, 7, 26
-tree, mm, 7, 26
-tree, mc, 8, 26
-tree, mo, 8, 26
-tree, mm, 8, 26
-tree, mc, 9, 26
-tree, mo, 9, 26
-tree, mm, 9, 26
-tree, mc, 10, 26
-tree, mo, 10, 26
-tree, mm, 10, 26
-tree, mc, 11, 26
-tree, mo, 11, 26
-tree, mm, 11, 26
-tree, mc, 12, 26
-tree, mo, 12, 26
-tree, mm, 12, 26
-tree, mc, 13, 26
-tree, mo, 13, 26
-tree, mm, 13, 26
-tree, mc, 14, 26
-tree, mo, 14, 26
-tree, mm, 14, 26
-tree, mc, 15, 26
-tree, mo, 15, 26
-tree, mm, 15, 26
-tree, mc, 16, 26
-tree, mo, 16, 26
-tree, mm, 16, 26
-tree, mc, 17, 26
-tree, mo, 17, 26
-tree, mm, 17, 26
-tree, mc, 18, 26
-tree, mo, 18, 26
-tree, mm, 18, 26
-tree, mc, 19, 26
-tree, mo, 19, 26
-tree, mm, 19, 26
-tree, mc, 20, 26
-tree, mo, 20, 26
-tree, mm, 20, 26
-tree, mc, 21, 26
-tree, mo, 21, 26
-tree, mm, 21, 26
-tree, mc, 22, 26
-tree, mo, 22, 26
-tree, mm, 22, 26
-tree, mc, 23, 26
-tree, mo, 23, 26
-tree, mm, 23, 26
-tree, mc, 24, 26
-tree, mo, 24, 26
-tree, mm, 24, 26
-tree, mc, 25, 26
-tree, mo, 25, 26
-tree, mm, 25, 26
-tree, mc, 26, 26
-tree, mo, 26, 26
-tree, mm, 26, 26
-tree, mc, 27, 26
-tree, mo, 27, 26
-tree, mm, 27, 26
-tree, mc, 28, 26
-tree, mo, 28, 26
-tree, mm, 28, 26
-tree, mc, 29, 26
-tree, mo, 29, 26
-tree, mm, 29, 26
-tree, mc, 30, 26
-tree, mo, 30, 26
-tree, mm, 30, 26
-tree, mc, 31, 26
-tree, mo, 31, 26
-tree, mm, 31, 26
-tree, mc, 32, 26
-tree, mo, 32, 26
-tree, mm, 32, 26
-tree, mc, 33, 26
-tree, mo, 33, 26
-tree, mm, 33, 26
-tree, mc, 34, 26
-tree, mo, 34, 26
-tree, mm, 34, 26
-tree, mc, 35, 26
-tree, mo, 35, 26
-tree, mm, 35, 26
-tree, mc, 36, 26
-tree, mo, 36, 26
-tree, mm, 36, 26
-tree, mc, 37, 26
-tree, mo, 37, 26
-tree, mm, 37, 26
-tree, mc, 38, 26
-tree, mo, 38, 26
-tree, mm, 38, 26
-tree, mc, 39, 26
-tree, mo, 39, 26
-tree, mm, 39, 26
-tree, mc, 40, 26
-tree, mo, 40, 26
-tree, mm, 40, 26
-tree, mc, 41, 26
-tree, mo, 41, 26
-tree, mm, 41, 26
-tree, mc, 42, 26
-tree, mo, 42, 26
-tree, mm, 42, 26
-tree, mc, 43, 26
-tree, mo, 43, 26
-tree, mm, 43, 26
-tree, mc, 44, 26
-tree, mo, 44, 26
-tree, mm, 44, 26
-tree, mc, 45, 26
-tree, mo, 45, 26
-tree, mm, 45, 26
-tree, mc, 46, 26
-tree, mo, 46, 26
-tree, mm, 46, 26
-tree, mc, 47, 26
-tree, mo, 47, 26
-tree, mm, 47, 26
-tree, mc, 48, 26
-tree, mo, 48, 26
-tree, mm, 48, 26
-tree, mc, 49, 26
-tree, mo, 49, 26
-tree, mm, 49, 26
-tree, mc, 50, 26
-tree, mo, 50, 26
-tree, mm, 50, 26
-tree, mc, 1, 27
-tree, mo, 1, 27
-tree, mm, 1, 27
-tree, mc, 2, 27
-tree, mo, 2, 27
-tree, mm, 2, 27
-tree, mc, 3, 27
-tree, mo, 3, 27
-tree, mm, 3, 27
-tree, mc, 4, 27
-tree, mo, 4, 27
-tree, mm, 4, 27
-tree, mc, 5, 27
-tree, mo, 5, 27
-tree, mm, 5, 27
-tree, mc, 6, 27
-tree, mo, 6, 27
-tree, mm, 6, 27
-tree, mc, 7, 27
-tree, mo, 7, 27
-tree, mm, 7, 27
-tree, mc, 8, 27
-tree, mo, 8, 27
-tree, mm, 8, 27
-tree, mc, 9, 27
-tree, mo, 9, 27
-tree, mm, 9, 27
-tree, mc, 10, 27
-tree, mo, 10, 27
-tree, mm, 10, 27
-tree, mc, 11, 27
-tree, mo, 11, 27
-tree, mm, 11, 27
-tree, mc, 12, 27
-tree, mo, 12, 27
-tree, mm, 12, 27
-tree, mc, 13, 27
-tree, mo, 13, 27
-tree, mm, 13, 27
-tree, mc, 14, 27
-tree, mo, 14, 27
-tree, mm, 14, 27
-tree, mc, 15, 27
-tree, mo, 15, 27
-tree, mm, 15, 27
-tree, mc, 16, 27
-tree, mo, 16, 27
-tree, mm, 16, 27
-tree, mc, 17, 27
-tree, mo, 17, 27
-tree, mm, 17, 27
-tree, mc, 18, 27
-tree, mo, 18, 27
-tree, mm, 18, 27
-tree, mc, 19, 27
-tree, mo, 19, 27
-tree, mm, 19, 27
-tree, mc, 20, 27
-tree, mo, 20, 27
-tree, mm, 20, 27
-tree, mc, 21, 27
-tree, mo, 21, 27
-tree, mm, 21, 27
-tree, mc, 22, 27
-tree, mo, 22, 27
-tree, mm, 22, 27
-tree, mc, 23, 27
-tree, mo, 23, 27
-tree, mm, 23, 27
-tree, mc, 24, 27
-tree, mo, 24, 27
-tree, mm, 24, 27
-tree, mc, 25, 27
-tree, mo, 25, 27
-tree, mm, 25, 27
-tree, mc, 26, 27
-tree, mo, 26, 27
-tree, mm, 26, 27
-tree, mc, 27, 27
-tree, mo, 27, 27
-tree, mm, 27, 27
-tree, mc, 28, 27
-tree, mo, 28, 27
-tree, mm, 28, 27
-tree, mc, 29, 27
-tree, mo, 29, 27
-tree, mm, 29, 27
-tree, mc, 30, 27
-tree, mo, 30, 27
-tree, mm, 30, 27
-tree, mc, 31, 27
-tree, mo, 31, 27
-tree, mm, 31, 27
-tree, mc, 32, 27
-tree, mo, 32, 27
-tree, mm, 32, 27
-tree, mc, 33, 27
-tree, mo, 33, 27
-tree, mm, 33, 27
-tree, mc, 34, 27
-tree, mo, 34, 27
-tree, mm, 34, 27
-tree, mc, 35, 27
-tree, mo, 35, 27
-tree, mm, 35, 27
-tree, mc, 36, 27
-tree, mo, 36, 27
-tree, mm, 36, 27
-tree, mc, 37, 27
-tree, mo, 37, 27
-tree, mm, 37, 27
-tree, mc, 38, 27
-tree, mo, 38, 27
-tree, mm, 38, 27
-tree, mc, 39, 27
-tree, mo, 39, 27
-tree, mm, 39, 27
-tree, mc, 40, 27
-tree, mo, 40, 27
-tree, mm, 40, 27
-tree, mc, 41, 27
-tree, mo, 41, 27
-tree, mm, 41, 27
-tree, mc, 42, 27
-tree, mo, 42, 27
-tree, mm, 42, 27
-tree, mc, 43, 27
-tree, mo, 43, 27
-tree, mm, 43, 27
-tree, mc, 44, 27
-tree, mo, 44, 27
-tree, mm, 44, 27
-tree, mc, 45, 27
-tree, mo, 45, 27
-tree, mm, 45, 27
-tree, mc, 46, 27
-tree, mo, 46, 27
-tree, mm, 46, 27
-tree, mc, 47, 27
-tree, mo, 47, 27
-tree, mm, 47, 27
-tree, mc, 48, 27
-tree, mo, 48, 27
-tree, mm, 48, 27
-tree, mc, 49, 27
-tree, mo, 49, 27
-tree, mm, 49, 27
-tree, mc, 50, 27
-tree, mo, 50, 27
-tree, mm, 50, 27
-tree, mc, 1, 28
-tree, mo, 1, 28
-tree, mm, 1, 28
-tree, mc, 2, 28
-tree, mo, 2, 28
-tree, mm, 2, 28
-tree, mc, 3, 28
-tree, mo, 3, 28
-tree, mm, 3, 28
-tree, mc, 4, 28
-tree, mo, 4, 28
-tree, mm, 4, 28
-tree, mc, 5, 28
-tree, mo, 5, 28
-tree, mm, 5, 28
-tree, mc, 6, 28
-tree, mo, 6, 28
-tree, mm, 6, 28
-tree, mc, 7, 28
-tree, mo, 7, 28
-tree, mm, 7, 28
-tree, mc, 8, 28
-tree, mo, 8, 28
-tree, mm, 8, 28
-tree, mc, 9, 28
-tree, mo, 9, 28
-tree, mm, 9, 28
-tree, mc, 10, 28
-tree, mo, 10, 28
-tree, mm, 10, 28
-tree, mc, 11, 28
-tree, mo, 11, 28
-tree, mm, 11, 28
-tree, mc, 12, 28
-tree, mo, 12, 28
-tree, mm, 12, 28
-tree, mc, 13, 28
-tree, mo, 13, 28
-tree, mm, 13, 28
-tree, mc, 14, 28
-tree, mo, 14, 28
-tree, mm, 14, 28
-tree, mc, 15, 28
-tree, mo, 15, 28
-tree, mm, 15, 28
-tree, mc, 16, 28
-tree, mo, 16, 28
-tree, mm, 16, 28
-tree, mc, 17, 28
-tree, mo, 17, 28
-tree, mm, 17, 28
-tree, mc, 18, 28
-tree, mo, 18, 28
-tree, mm, 18, 28
-tree, mc, 19, 28
-tree, mo, 19, 28
-tree, mm, 19, 28
-tree, mc, 20, 28
-tree, mo, 20, 28
-tree, mm, 20, 28
-tree, mc, 21, 28
-tree, mo, 21, 28
-tree, mm, 21, 28
-tree, mc, 22, 28
-tree, mo, 22, 28
-tree, mm, 22, 28
-tree, mc, 23, 28
-tree, mo, 23, 28
-tree, mm, 23, 28
-tree, mc, 24, 28
-tree, mo, 24, 28
-tree, mm, 24, 28
-tree, mc, 25, 28
-tree, mo, 25, 28
-tree, mm, 25, 28
-tree, mc, 26, 28
-tree, mo, 26, 28
-tree, mm, 26, 28
-tree, mc, 27, 28
-tree, mo, 27, 28
-tree, mm, 27, 28
-tree, mc, 28, 28
-tree, mo, 28, 28
-tree, mm, 28, 28
-tree, mc, 29, 28
-tree, mo, 29, 28
-tree, mm, 29, 28
-tree, mc, 30, 28
-tree, mo, 30, 28
-tree, mm, 30, 28
-tree, mc, 31, 28
-tree, mo, 31, 28
-tree, mm, 31, 28
-tree, mc, 32, 28
-tree, mo, 32, 28
-tree, mm, 32, 28
-tree, mc, 33, 28
-tree, mo, 33, 28
-tree, mm, 33, 28
-tree, mc, 34, 28
-tree, mo, 34, 28
-tree, mm, 34, 28
-tree, mc, 35, 28
-tree, mo, 35, 28
-tree, mm, 35, 28
-tree, mc, 36, 28
-tree, mo, 36, 28
-tree, mm, 36, 28
-tree, mc, 37, 28
-tree, mo, 37, 28
-tree, mm, 37, 28
-tree, mc, 38, 28
-tree, mo, 38, 28
-tree, mm, 38, 28
-tree, mc, 39, 28
-tree, mo, 39, 28
-tree, mm, 39, 28
-tree, mc, 40, 28
-tree, mo, 40, 28
-tree, mm, 40, 28
-tree, mc, 41, 28
-tree, mo, 41, 28
-tree, mm, 41, 28
-tree, mc, 42, 28
-tree, mo, 42, 28
-tree, mm, 42, 28
-tree, mc, 43, 28
-tree, mo, 43, 28
-tree, mm, 43, 28
-tree, mc, 44, 28
-tree, mo, 44, 28
-tree, mm, 44, 28
-tree, mc, 45, 28
-tree, mo, 45, 28
-tree, mm, 45, 28
-tree, mc, 46, 28
-tree, mo, 46, 28
-tree, mm, 46, 28
-tree, mc, 47, 28
-tree, mo, 47, 28
-tree, mm, 47, 28
-tree, mc, 48, 28
-tree, mo, 48, 28
-tree, mm, 48, 28
-tree, mc, 49, 28
-tree, mo, 49, 28
-tree, mm, 49, 28
-tree, mc, 50, 28
-tree, mo, 50, 28
-tree, mm, 50, 28
-tree, mc, 1, 29
-tree, mo, 1, 29
-tree, mm, 1, 29
-tree, mc, 2, 29
-tree, mo, 2, 29
-tree, mm, 2, 29
-tree, mc, 3, 29
-tree, mo, 3, 29
-tree, mm, 3, 29
-tree, mc, 4, 29
-tree, mo, 4, 29
-tree, mm, 4, 29
-tree, mc, 5, 29
-tree, mo, 5, 29
-tree, mm, 5, 29
-tree, mc, 6, 29
-tree, mo, 6, 29
-tree, mm, 6, 29
-tree, mc, 7, 29
-tree, mo, 7, 29
-tree, mm, 7, 29
-tree, mc, 8, 29
-tree, mo, 8, 29
-tree, mm, 8, 29
-tree, mc, 9, 29
-tree, mo, 9, 29
-tree, mm, 9, 29
-tree, mc, 10, 29
-tree, mo, 10, 29
-tree, mm, 10, 29
-tree, mc, 11, 29
-tree, mo, 11, 29
-tree, mm, 11, 29
-tree, mc, 12, 29
-tree, mo, 12, 29
-tree, mm, 12, 29
-tree, mc, 13, 29
-tree, mo, 13, 29
-tree, mm, 13, 29
-tree, mc, 14, 29
-tree, mo, 14, 29
-tree, mm, 14, 29
-tree, mc, 15, 29
-tree, mo, 15, 29
-tree, mm, 15, 29
-tree, mc, 16, 29
-tree, mo, 16, 29
-tree, mm, 16, 29
-tree, mc, 17, 29
-tree, mo, 17, 29
-tree, mm, 17, 29
-tree, mc, 18, 29
-tree, mo, 18, 29
-tree, mm, 18, 29
-tree, mc, 19, 29
-tree, mo, 19, 29
-tree, mm, 19, 29
-tree, mc, 20, 29
-tree, mo, 20, 29
-tree, mm, 20, 29
-tree, mc, 21, 29
-tree, mo, 21, 29
-tree, mm, 21, 29
-tree, mc, 22, 29
-tree, mo, 22, 29
-tree, mm, 22, 29
-tree, mc, 23, 29
-tree, mo, 23, 29
-tree, mm, 23, 29
-tree, mc, 24, 29
-tree, mo, 24, 29
-tree, mm, 24, 29
-tree, mc, 25, 29
-tree, mo, 25, 29
-tree, mm, 25, 29
-tree, mc, 26, 29
-tree, mo, 26, 29
-tree, mm, 26, 29
-tree, mc, 27, 29
-tree, mo, 27, 29
-tree, mm, 27, 29
-tree, mc, 28, 29
-tree, mo, 28, 29
-tree, mm, 28, 29
-tree, mc, 29, 29
-tree, mo, 29, 29
-tree, mm, 29, 29
-tree, mc, 30, 29
-tree, mo, 30, 29
-tree, mm, 30, 29
-tree, mc, 31, 29
-tree, mo, 31, 29
-tree, mm, 31, 29
-tree, mc, 32, 29
-tree, mo, 32, 29
-tree, mm, 32, 29
-tree, mc, 33, 29
-tree, mo, 33, 29
-tree, mm, 33, 29
-tree, mc, 34, 29
-tree, mo, 34, 29
-tree, mm, 34, 29
-tree, mc, 35, 29
-tree, mo, 35, 29
-tree, mm, 35, 29
-tree, mc, 36, 29
-tree, mo, 36, 29
-tree, mm, 36, 29
-tree, mc, 37, 29
-tree, mo, 37, 29
-tree, mm, 37, 29
-tree, mc, 38, 29
-tree, mo, 38, 29
-tree, mm, 38, 29
-tree, mc, 39, 29
-tree, mo, 39, 29
-tree, mm, 39, 29
-tree, mc, 40, 29
-tree, mo, 40, 29
-tree, mm, 40, 29
-tree, mc, 41, 29
-tree, mo, 41, 29
-tree, mm, 41, 29
-tree, mc, 42, 29
-tree, mo, 42, 29
-tree, mm, 42, 29
-tree, mc, 43, 29
-tree, mo, 43, 29
-tree, mm, 43, 29
-tree, mc, 44, 29
-tree, mo, 44, 29
-tree, mm, 44, 29
-tree, mc, 45, 29
-tree, mo, 45, 29
-tree, mm, 45, 29
-tree, mc, 46, 29
-tree, mo, 46, 29
-tree, mm, 46, 29
-tree, mc, 47, 29
-tree, mo, 47, 29
-tree, mm, 47, 29
-tree, mc, 48, 29
-tree, mo, 48, 29
-tree, mm, 48, 29
-tree, mc, 49, 29
-tree, mo, 49, 29
-tree, mm, 49, 29
-tree, mc, 50, 29
-tree, mo, 50, 29
-tree, mm, 50, 29
-tree, mc, 1, 30
-tree, mo, 1, 30
-tree, mm, 1, 30
-tree, mc, 2, 30
-tree, mo, 2, 30
-tree, mm, 2, 30
-tree, mc, 3, 30
-tree, mo, 3, 30
-tree, mm, 3, 30
-tree, mc, 4, 30
-tree, mo, 4, 30
-tree, mm, 4, 30
-tree, mc, 5, 30
-tree, mo, 5, 30
-tree, mm, 5, 30
-tree, mc, 6, 30
-tree, mo, 6, 30
-tree, mm, 6, 30
-tree, mc, 7, 30
-tree, mo, 7, 30
-tree, mm, 7, 30
-tree, mc, 8, 30
-tree, mo, 8, 30
-tree, mm, 8, 30
-tree, mc, 9, 30
-tree, mo, 9, 30
-tree, mm, 9, 30
-tree, mc, 10, 30
-tree, mo, 10, 30
-tree, mm, 10, 30
-tree, mc, 11, 30
-tree, mo, 11, 30
-tree, mm, 11, 30
-tree, mc, 12, 30
-tree, mo, 12, 30
-tree, mm, 12, 30
-tree, mc, 13, 30
-tree, mo, 13, 30
-tree, mm, 13, 30
-tree, mc, 14, 30
-tree, mo, 14, 30
-tree, mm, 14, 30
-tree, mc, 15, 30
-tree, mo, 15, 30
-tree, mm, 15, 30
-tree, mc, 16, 30
-tree, mo, 16, 30
-tree, mm, 16, 30
-tree, mc, 17, 30
-tree, mo, 17, 30
-tree, mm, 17, 30
-tree, mc, 18, 30
-tree, mo, 18, 30
-tree, mm, 18, 30
-tree, mc, 19, 30
-tree, mo, 19, 30
-tree, mm, 19, 30
-tree, mc, 20, 30
-tree, mo, 20, 30
-tree, mm, 20, 30
-tree, mc, 21, 30
-tree, mo, 21, 30
-tree, mm, 21, 30
-tree, mc, 22, 30
-tree, mo, 22, 30
-tree, mm, 22, 30
-tree, mc, 23, 30
-tree, mo, 23, 30
-tree, mm, 23, 30
-tree, mc, 24, 30
-tree, mo, 24, 30
-tree, mm, 24, 30
-tree, mc, 25, 30
-tree, mo, 25, 30
-tree, mm, 25, 30
-tree, mc, 26, 30
-tree, mo, 26, 30
-tree, mm, 26, 30
-tree, mc, 27, 30
-tree, mo, 27, 30
-tree, mm, 27, 30
-tree, mc, 28, 30
-tree, mo, 28, 30
-tree, mm, 28, 30
-tree, mc, 29, 30
-tree, mo, 29, 30
-tree, mm, 29, 30
-tree, mc, 30, 30
-tree, mo, 30, 30
-tree, mm, 30, 30
-tree, mc, 31, 30
-tree, mo, 31, 30
-tree, mm, 31, 30
-tree, mc, 32, 30
-tree, mo, 32, 30
-tree, mm, 32, 30
-tree, mc, 33, 30
-tree, mo, 33, 30
-tree, mm, 33, 30
-tree, mc, 34, 30
-tree, mo, 34, 30
-tree, mm, 34, 30
-tree, mc, 35, 30
-tree, mo, 35, 30
-tree, mm, 35, 30
-tree, mc, 36, 30
-tree, mo, 36, 30
-tree, mm, 36, 30
-tree, mc, 37, 30
-tree, mo, 37, 30
-tree, mm, 37, 30
-tree, mc, 38, 30
-tree, mo, 38, 30
-tree, mm, 38, 30
-tree, mc, 39, 30
-tree, mo, 39, 30
-tree, mm, 39, 30
-tree, mc, 40, 30
-tree, mo, 40, 30
-tree, mm, 40, 30
-tree, mc, 41, 30
-tree, mo, 41, 30
-tree, mm, 41, 30
-tree, mc, 42, 30
-tree, mo, 42, 30
-tree, mm, 42, 30
-tree, mc, 43, 30
-tree, mo, 43, 30
-tree, mm, 43, 30
-tree, mc, 44, 30
-tree, mo, 44, 30
-tree, mm, 44, 30
-tree, mc, 45, 30
-tree, mo, 45, 30
-tree, mm, 45, 30
-tree, mc, 46, 30
-tree, mo, 46, 30
-tree, mm, 46, 30
-tree, mc, 47, 30
-tree, mo, 47, 30
-tree, mm, 47, 30
-tree, mc, 48, 30
-tree, mo, 48, 30
-tree, mm, 48, 30
-tree, mc, 49, 30
-tree, mo, 49, 30
-tree, mm, 49, 30
-tree, mc, 50, 30
-tree, mo, 50, 30
-tree, mm, 50, 30
+bi, mc, 1
+rand, mc, 1
+sf, mc, 1
+sw, mc, 1
+tree, mc, 1
+bi, mo, 1
+rand, mo, 1
+sf, mo, 1
+sw, mo, 1
+tree, mo, 1
+bi, mm, 1
+rand, mm, 1
+sf, mm, 1
+sw, mm, 1
+tree, mm, 1
+bi, mc, 2
+rand, mc, 2
+sf, mc, 2
+sw, mc, 2
+tree, mc, 2
+bi, mo, 2
+rand, mo, 2
+sf, mo, 2
+sw, mo, 2
+tree, mo, 2
+bi, mm, 2
+rand, mm, 2
+sf, mm, 2
+sw, mm, 2
+tree, mm, 2
+bi, mc, 3
+rand, mc, 3
+sf, mc, 3
+sw, mc, 3
+tree, mc, 3
+bi, mo, 3
+rand, mo, 3
+sf, mo, 3
+sw, mo, 3
+tree, mo, 3
+bi, mm, 3
+rand, mm, 3
+sf, mm, 3
+sw, mm, 3
+tree, mm, 3
+bi, mc, 4
+rand, mc, 4
+sf, mc, 4
+sw, mc, 4
+tree, mc, 4
+bi, mo, 4
+rand, mo, 4
+sf, mo, 4
+sw, mo, 4
+tree, mo, 4
+bi, mm, 4
+rand, mm, 4
+sf, mm, 4
+sw, mm, 4
+tree, mm, 4
+bi, mc, 5
+rand, mc, 5
+sf, mc, 5
+sw, mc, 5
+tree, mc, 5
+bi, mo, 5
+rand, mo, 5
+sf, mo, 5
+sw, mo, 5
+tree, mo, 5
+bi, mm, 5
+rand, mm, 5
+sf, mm, 5
+sw, mm, 5
+tree, mm, 5
+bi, mc, 6
+rand, mc, 6
+sf, mc, 6
+sw, mc, 6
+tree, mc, 6
+bi, mo, 6
+rand, mo, 6
+sf, mo, 6
+sw, mo, 6
+tree, mo, 6
+bi, mm, 6
+rand, mm, 6
+sf, mm, 6
+sw, mm, 6
+tree, mm, 6
+bi, mc, 7
+rand, mc, 7
+sf, mc, 7
+sw, mc, 7
+tree, mc, 7
+bi, mo, 7
+rand, mo, 7
+sf, mo, 7
+sw, mo, 7
+tree, mo, 7
+bi, mm, 7
+rand, mm, 7
+sf, mm, 7
+sw, mm, 7
+tree, mm, 7
+bi, mc, 8
+rand, mc, 8
+sf, mc, 8
+sw, mc, 8
+tree, mc, 8
+bi, mo, 8
+rand, mo, 8
+sf, mo, 8
+sw, mo, 8
+tree, mo, 8
+bi, mm, 8
+rand, mm, 8
+sf, mm, 8
+sw, mm, 8
+tree, mm, 8
+bi, mc, 9
+rand, mc, 9
+sf, mc, 9
+sw, mc, 9
+tree, mc, 9
+bi, mo, 9
+rand, mo, 9
+sf, mo, 9
+sw, mo, 9
+tree, mo, 9
+bi, mm, 9
+rand, mm, 9
+sf, mm, 9
+sw, mm, 9
+tree, mm, 9
+bi, mc, 10
+rand, mc, 10
+sf, mc, 10
+sw, mc, 10
+tree, mc, 10
+bi, mo, 10
+rand, mo, 10
+sf, mo, 10
+sw, mo, 10
+tree, mo, 10
+bi, mm, 10
+rand, mm, 10
+sf, mm, 10
+sw, mm, 10
+tree, mm, 10
+bi, mc, 11
+rand, mc, 11
+sf, mc, 11
+sw, mc, 11
+tree, mc, 11
+bi, mo, 11
+rand, mo, 11
+sf, mo, 11
+sw, mo, 11
+tree, mo, 11
+bi, mm, 11
+rand, mm, 11
+sf, mm, 11
+sw, mm, 11
+tree, mm, 11
+bi, mc, 12
+rand, mc, 12
+sf, mc, 12
+sw, mc, 12
+tree, mc, 12
+bi, mo, 12
+rand, mo, 12
+sf, mo, 12
+sw, mo, 12
+tree, mo, 12
+bi, mm, 12
+rand, mm, 12
+sf, mm, 12
+sw, mm, 12
+tree, mm, 12
+bi, mc, 13
+rand, mc, 13
+sf, mc, 13
+sw, mc, 13
+tree, mc, 13
+bi, mo, 13
+rand, mo, 13
+sf, mo, 13
+sw, mo, 13
+tree, mo, 13
+bi, mm, 13
+rand, mm, 13
+sf, mm, 13
+sw, mm, 13
+tree, mm, 13
+bi, mc, 14
+rand, mc, 14
+sf, mc, 14
+sw, mc, 14
+tree, mc, 14
+bi, mo, 14
+rand, mo, 14
+sf, mo, 14
+sw, mo, 14
+tree, mo, 14
+bi, mm, 14
+rand, mm, 14
+sf, mm, 14
+sw, mm, 14
+tree, mm, 14
+bi, mc, 15
+rand, mc, 15
+sf, mc, 15
+sw, mc, 15
+tree, mc, 15
+bi, mo, 15
+rand, mo, 15
+sf, mo, 15
+sw, mo, 15
+tree, mo, 15
+bi, mm, 15
+rand, mm, 15
+sf, mm, 15
+sw, mm, 15
+tree, mm, 15
+bi, mc, 16
+rand, mc, 16
+sf, mc, 16
+sw, mc, 16
+tree, mc, 16
+bi, mo, 16
+rand, mo, 16
+sf, mo, 16
+sw, mo, 16
+tree, mo, 16
+bi, mm, 16
+rand, mm, 16
+sf, mm, 16
+sw, mm, 16
+tree, mm, 16
+bi, mc, 17
+rand, mc, 17
+sf, mc, 17
+sw, mc, 17
+tree, mc, 17
+bi, mo, 17
+rand, mo, 17
+sf, mo, 17
+sw, mo, 17
+tree, mo, 17
+bi, mm, 17
+rand, mm, 17
+sf, mm, 17
+sw, mm, 17
+tree, mm, 17
+bi, mc, 18
+rand, mc, 18
+sf, mc, 18
+sw, mc, 18
+tree, mc, 18
+bi, mo, 18
+rand, mo, 18
+sf, mo, 18
+sw, mo, 18
+tree, mo, 18
+bi, mm, 18
+rand, mm, 18
+sf, mm, 18
+sw, mm, 18
+tree, mm, 18
+bi, mc, 19
+rand, mc, 19
+sf, mc, 19
+sw, mc, 19
+tree, mc, 19
+bi, mo, 19
+rand, mo, 19
+sf, mo, 19
+sw, mo, 19
+tree, mo, 19
+bi, mm, 19
+rand, mm, 19
+sf, mm, 19
+sw, mm, 19
+tree, mm, 19
+bi, mc, 20
+rand, mc, 20
+sf, mc, 20
+sw, mc, 20
+tree, mc, 20
+bi, mo, 20
+rand, mo, 20
+sf, mo, 20
+sw, mo, 20
+tree, mo, 20
+bi, mm, 20
+rand, mm, 20
+sf, mm, 20
+sw, mm, 20
+tree, mm, 20
+bi, mc, 21
+rand, mc, 21
+sf, mc, 21
+sw, mc, 21
+tree, mc, 21
+bi, mo, 21
+rand, mo, 21
+sf, mo, 21
+sw, mo, 21
+tree, mo, 21
+bi, mm, 21
+rand, mm, 21
+sf, mm, 21
+sw, mm, 21
+tree, mm, 21
+bi, mc, 22
+rand, mc, 22
+sf, mc, 22
+sw, mc, 22
+tree, mc, 22
+bi, mo, 22
+rand, mo, 22
+sf, mo, 22
+sw, mo, 22
+tree, mo, 22
+bi, mm, 22
+rand, mm, 22
+sf, mm, 22
+sw, mm, 22
+tree, mm, 22
+bi, mc, 23
+rand, mc, 23
+sf, mc, 23
+sw, mc, 23
+tree, mc, 23
+bi, mo, 23
+rand, mo, 23
+sf, mo, 23
+sw, mo, 23
+tree, mo, 23
+bi, mm, 23
+rand, mm, 23
+sf, mm, 23
+sw, mm, 23
+tree, mm, 23
+bi, mc, 24
+rand, mc, 24
+sf, mc, 24
+sw, mc, 24
+tree, mc, 24
+bi, mo, 24
+rand, mo, 24
+sf, mo, 24
+sw, mo, 24
+tree, mo, 24
+bi, mm, 24
+rand, mm, 24
+sf, mm, 24
+sw, mm, 24
+tree, mm, 24
+bi, mc, 25
+rand, mc, 25
+sf, mc, 25
+sw, mc, 25
+tree, mc, 25
+bi, mo, 25
+rand, mo, 25
+sf, mo, 25
+sw, mo, 25
+tree, mo, 25
+bi, mm, 25
+rand, mm, 25
+sf, mm, 25
+sw, mm, 25
+tree, mm, 25
+bi, mc, 26
+rand, mc, 26
+sf, mc, 26
+sw, mc, 26
+tree, mc, 26
+bi, mo, 26
+rand, mo, 26
+sf, mo, 26
+sw, mo, 26
+tree, mo, 26
+bi, mm, 26
+rand, mm, 26
+sf, mm, 26
+sw, mm, 26
+tree, mm, 26
+bi, mc, 27
+rand, mc, 27
+sf, mc, 27
+sw, mc, 27
+tree, mc, 27
+bi, mo, 27
+rand, mo, 27
+sf, mo, 27
+sw, mo, 27
+tree, mo, 27
+bi, mm, 27
+rand, mm, 27
+sf, mm, 27
+sw, mm, 27
+tree, mm, 27
+bi, mc, 28
+rand, mc, 28
+sf, mc, 28
+sw, mc, 28
+tree, mc, 28
+bi, mo, 28
+rand, mo, 28
+sf, mo, 28
+sw, mo, 28
+tree, mo, 28
+bi, mm, 28
+rand, mm, 28
+sf, mm, 28
+sw, mm, 28
+tree, mm, 28
+bi, mc, 29
+rand, mc, 29
+sf, mc, 29
+sw, mc, 29
+tree, mc, 29
+bi, mo, 29
+rand, mo, 29
+sf, mo, 29
+sw, mo, 29
+tree, mo, 29
+bi, mm, 29
+rand, mm, 29
+sf, mm, 29
+sw, mm, 29
+tree, mm, 29
+bi, mc, 30
+rand, mc, 30
+sf, mc, 30
+sw, mc, 30
+tree, mc, 30
+bi, mo, 30
+rand, mo, 30
+sf, mo, 30
+sw, mo, 30
+tree, mo, 30
+bi, mm, 30
+rand, mm, 30
+sf, mm, 30
+sw, mm, 30
+tree, mm, 30
+bi, mc, 31
+rand, mc, 31
+sf, mc, 31
+sw, mc, 31
+tree, mc, 31
+bi, mo, 31
+rand, mo, 31
+sf, mo, 31
+sw, mo, 31
+tree, mo, 31
+bi, mm, 31
+rand, mm, 31
+sf, mm, 31
+sw, mm, 31
+tree, mm, 31
+bi, mc, 32
+rand, mc, 32
+sf, mc, 32
+sw, mc, 32
+tree, mc, 32
+bi, mo, 32
+rand, mo, 32
+sf, mo, 32
+sw, mo, 32
+tree, mo, 32
+bi, mm, 32
+rand, mm, 32
+sf, mm, 32
+sw, mm, 32
+tree, mm, 32
+bi, mc, 33
+rand, mc, 33
+sf, mc, 33
+sw, mc, 33
+tree, mc, 33
+bi, mo, 33
+rand, mo, 33
+sf, mo, 33
+sw, mo, 33
+tree, mo, 33
+bi, mm, 33
+rand, mm, 33
+sf, mm, 33
+sw, mm, 33
+tree, mm, 33
+bi, mc, 34
+rand, mc, 34
+sf, mc, 34
+sw, mc, 34
+tree, mc, 34
+bi, mo, 34
+rand, mo, 34
+sf, mo, 34
+sw, mo, 34
+tree, mo, 34
+bi, mm, 34
+rand, mm, 34
+sf, mm, 34
+sw, mm, 34
+tree, mm, 34
+bi, mc, 35
+rand, mc, 35
+sf, mc, 35
+sw, mc, 35
+tree, mc, 35
+bi, mo, 35
+rand, mo, 35
+sf, mo, 35
+sw, mo, 35
+tree, mo, 35
+bi, mm, 35
+rand, mm, 35
+sf, mm, 35
+sw, mm, 35
+tree, mm, 35
+bi, mc, 36
+rand, mc, 36
+sf, mc, 36
+sw, mc, 36
+tree, mc, 36
+bi, mo, 36
+rand, mo, 36
+sf, mo, 36
+sw, mo, 36
+tree, mo, 36
+bi, mm, 36
+rand, mm, 36
+sf, mm, 36
+sw, mm, 36
+tree, mm, 36
+bi, mc, 37
+rand, mc, 37
+sf, mc, 37
+sw, mc, 37
+tree, mc, 37
+bi, mo, 37
+rand, mo, 37
+sf, mo, 37
+sw, mo, 37
+tree, mo, 37
+bi, mm, 37
+rand, mm, 37
+sf, mm, 37
+sw, mm, 37
+tree, mm, 37
+bi, mc, 38
+rand, mc, 38
+sf, mc, 38
+sw, mc, 38
+tree, mc, 38
+bi, mo, 38
+rand, mo, 38
+sf, mo, 38
+sw, mo, 38
+tree, mo, 38
+bi, mm, 38
+rand, mm, 38
+sf, mm, 38
+sw, mm, 38
+tree, mm, 38
+bi, mc, 39
+rand, mc, 39
+sf, mc, 39
+sw, mc, 39
+tree, mc, 39
+bi, mo, 39
+rand, mo, 39
+sf, mo, 39
+sw, mo, 39
+tree, mo, 39
+bi, mm, 39
+rand, mm, 39
+sf, mm, 39
+sw, mm, 39
+tree, mm, 39
+bi, mc, 40
+rand, mc, 40
+sf, mc, 40
+sw, mc, 40
+tree, mc, 40
+bi, mo, 40
+rand, mo, 40
+sf, mo, 40
+sw, mo, 40
+tree, mo, 40
+bi, mm, 40
+rand, mm, 40
+sf, mm, 40
+sw, mm, 40
+tree, mm, 40
+bi, mc, 41
+rand, mc, 41
+sf, mc, 41
+sw, mc, 41
+tree, mc, 41
+bi, mo, 41
+rand, mo, 41
+sf, mo, 41
+sw, mo, 41
+tree, mo, 41
+bi, mm, 41
+rand, mm, 41
+sf, mm, 41
+sw, mm, 41
+tree, mm, 41
+bi, mc, 42
+rand, mc, 42
+sf, mc, 42
+sw, mc, 42
+tree, mc, 42
+bi, mo, 42
+rand, mo, 42
+sf, mo, 42
+sw, mo, 42
+tree, mo, 42
+bi, mm, 42
+rand, mm, 42
+sf, mm, 42
+sw, mm, 42
+tree, mm, 42
+bi, mc, 43
+rand, mc, 43
+sf, mc, 43
+sw, mc, 43
+tree, mc, 43
+bi, mo, 43
+rand, mo, 43
+sf, mo, 43
+sw, mo, 43
+tree, mo, 43
+bi, mm, 43
+rand, mm, 43
+sf, mm, 43
+sw, mm, 43
+tree, mm, 43
+bi, mc, 44
+rand, mc, 44
+sf, mc, 44
+sw, mc, 44
+tree, mc, 44
+bi, mo, 44
+rand, mo, 44
+sf, mo, 44
+sw, mo, 44
+tree, mo, 44
+bi, mm, 44
+rand, mm, 44
+sf, mm, 44
+sw, mm, 44
+tree, mm, 44
+bi, mc, 45
+rand, mc, 45
+sf, mc, 45
+sw, mc, 45
+tree, mc, 45
+bi, mo, 45
+rand, mo, 45
+sf, mo, 45
+sw, mo, 45
+tree, mo, 45
+bi, mm, 45
+rand, mm, 45
+sf, mm, 45
+sw, mm, 45
+tree, mm, 45
+bi, mc, 46
+rand, mc, 46
+sf, mc, 46
+sw, mc, 46
+tree, mc, 46
+bi, mo, 46
+rand, mo, 46
+sf, mo, 46
+sw, mo, 46
+tree, mo, 46
+bi, mm, 46
+rand, mm, 46
+sf, mm, 46
+sw, mm, 46
+tree, mm, 46
+bi, mc, 47
+rand, mc, 47
+sf, mc, 47
+sw, mc, 47
+tree, mc, 47
+bi, mo, 47
+rand, mo, 47
+sf, mo, 47
+sw, mo, 47
+tree, mo, 47
+bi, mm, 47
+rand, mm, 47
+sf, mm, 47
+sw, mm, 47
+tree, mm, 47
+bi, mc, 48
+rand, mc, 48
+sf, mc, 48
+sw, mc, 48
+tree, mc, 48
+bi, mo, 48
+rand, mo, 48
+sf, mo, 48
+sw, mo, 48
+tree, mo, 48
+bi, mm, 48
+rand, mm, 48
+sf, mm, 48
+sw, mm, 48
+tree, mm, 48
+bi, mc, 49
+rand, mc, 49
+sf, mc, 49
+sw, mc, 49
+tree, mc, 49
+bi, mo, 49
+rand, mo, 49
+sf, mo, 49
+sw, mo, 49
+tree, mo, 49
+bi, mm, 49
+rand, mm, 49
+sf, mm, 49
+sw, mm, 49
+tree, mm, 49
+bi, mc, 50
+rand, mc, 50
+sf, mc, 50
+sw, mc, 50
+tree, mc, 50
+bi, mo, 50
+rand, mo, 50
+sf, mo, 50
+sw, mo, 50
+tree, mo, 50
+bi, mm, 50
+rand, mm, 50
+sf, mm, 50
+sw, mm, 50
+tree, mm, 50
+bi, mc, 51
+rand, mc, 51
+sf, mc, 51
+sw, mc, 51
+tree, mc, 51
+bi, mo, 51
+rand, mo, 51
+sf, mo, 51
+sw, mo, 51
+tree, mo, 51
+bi, mm, 51
+rand, mm, 51
+sf, mm, 51
+sw, mm, 51
+tree, mm, 51
+bi, mc, 52
+rand, mc, 52
+sf, mc, 52
+sw, mc, 52
+tree, mc, 52
+bi, mo, 52
+rand, mo, 52
+sf, mo, 52
+sw, mo, 52
+tree, mo, 52
+bi, mm, 52
+rand, mm, 52
+sf, mm, 52
+sw, mm, 52
+tree, mm, 52
+bi, mc, 53
+rand, mc, 53
+sf, mc, 53
+sw, mc, 53
+tree, mc, 53
+bi, mo, 53
+rand, mo, 53
+sf, mo, 53
+sw, mo, 53
+tree, mo, 53
+bi, mm, 53
+rand, mm, 53
+sf, mm, 53
+sw, mm, 53
+tree, mm, 53
+bi, mc, 54
+rand, mc, 54
+sf, mc, 54
+sw, mc, 54
+tree, mc, 54
+bi, mo, 54
+rand, mo, 54
+sf, mo, 54
+sw, mo, 54
+tree, mo, 54
+bi, mm, 54
+rand, mm, 54
+sf, mm, 54
+sw, mm, 54
+tree, mm, 54
+bi, mc, 55
+rand, mc, 55
+sf, mc, 55
+sw, mc, 55
+tree, mc, 55
+bi, mo, 55
+rand, mo, 55
+sf, mo, 55
+sw, mo, 55
+tree, mo, 55
+bi, mm, 55
+rand, mm, 55
+sf, mm, 55
+sw, mm, 55
+tree, mm, 55
+bi, mc, 56
+rand, mc, 56
+sf, mc, 56
+sw, mc, 56
+tree, mc, 56
+bi, mo, 56
+rand, mo, 56
+sf, mo, 56
+sw, mo, 56
+tree, mo, 56
+bi, mm, 56
+rand, mm, 56
+sf, mm, 56
+sw, mm, 56
+tree, mm, 56
+bi, mc, 57
+rand, mc, 57
+sf, mc, 57
+sw, mc, 57
+tree, mc, 57
+bi, mo, 57
+rand, mo, 57
+sf, mo, 57
+sw, mo, 57
+tree, mo, 57
+bi, mm, 57
+rand, mm, 57
+sf, mm, 57
+sw, mm, 57
+tree, mm, 57
+bi, mc, 58
+rand, mc, 58
+sf, mc, 58
+sw, mc, 58
+tree, mc, 58
+bi, mo, 58
+rand, mo, 58
+sf, mo, 58
+sw, mo, 58
+tree, mo, 58
+bi, mm, 58
+rand, mm, 58
+sf, mm, 58
+sw, mm, 58
+tree, mm, 58
+bi, mc, 59
+rand, mc, 59
+sf, mc, 59
+sw, mc, 59
+tree, mc, 59
+bi, mo, 59
+rand, mo, 59
+sf, mo, 59
+sw, mo, 59
+tree, mo, 59
+bi, mm, 59
+rand, mm, 59
+sf, mm, 59
+sw, mm, 59
+tree, mm, 59
+bi, mc, 60
+rand, mc, 60
+sf, mc, 60
+sw, mc, 60
+tree, mc, 60
+bi, mo, 60
+rand, mo, 60
+sf, mo, 60
+sw, mo, 60
+tree, mo, 60
+bi, mm, 60
+rand, mm, 60
+sf, mm, 60
+sw, mm, 60
+tree, mm, 60
+bi, mc, 61
+rand, mc, 61
+sf, mc, 61
+sw, mc, 61
+tree, mc, 61
+bi, mo, 61
+rand, mo, 61
+sf, mo, 61
+sw, mo, 61
+tree, mo, 61
+bi, mm, 61
+rand, mm, 61
+sf, mm, 61
+sw, mm, 61
+tree, mm, 61
+bi, mc, 62
+rand, mc, 62
+sf, mc, 62
+sw, mc, 62
+tree, mc, 62
+bi, mo, 62
+rand, mo, 62
+sf, mo, 62
+sw, mo, 62
+tree, mo, 62
+bi, mm, 62
+rand, mm, 62
+sf, mm, 62
+sw, mm, 62
+tree, mm, 62
+bi, mc, 63
+rand, mc, 63
+sf, mc, 63
+sw, mc, 63
+tree, mc, 63
+bi, mo, 63
+rand, mo, 63
+sf, mo, 63
+sw, mo, 63
+tree, mo, 63
+bi, mm, 63
+rand, mm, 63
+sf, mm, 63
+sw, mm, 63
+tree, mm, 63
+bi, mc, 64
+rand, mc, 64
+sf, mc, 64
+sw, mc, 64
+tree, mc, 64
+bi, mo, 64
+rand, mo, 64
+sf, mo, 64
+sw, mo, 64
+tree, mo, 64
+bi, mm, 64
+rand, mm, 64
+sf, mm, 64
+sw, mm, 64
+tree, mm, 64
+bi, mc, 65
+rand, mc, 65
+sf, mc, 65
+sw, mc, 65
+tree, mc, 65
+bi, mo, 65
+rand, mo, 65
+sf, mo, 65
+sw, mo, 65
+tree, mo, 65
+bi, mm, 65
+rand, mm, 65
+sf, mm, 65
+sw, mm, 65
+tree, mm, 65
+bi, mc, 66
+rand, mc, 66
+sf, mc, 66
+sw, mc, 66
+tree, mc, 66
+bi, mo, 66
+rand, mo, 66
+sf, mo, 66
+sw, mo, 66
+tree, mo, 66
+bi, mm, 66
+rand, mm, 66
+sf, mm, 66
+sw, mm, 66
+tree, mm, 66
+bi, mc, 67
+rand, mc, 67
+sf, mc, 67
+sw, mc, 67
+tree, mc, 67
+bi, mo, 67
+rand, mo, 67
+sf, mo, 67
+sw, mo, 67
+tree, mo, 67
+bi, mm, 67
+rand, mm, 67
+sf, mm, 67
+sw, mm, 67
+tree, mm, 67
+bi, mc, 68
+rand, mc, 68
+sf, mc, 68
+sw, mc, 68
+tree, mc, 68
+bi, mo, 68
+rand, mo, 68
+sf, mo, 68
+sw, mo, 68
+tree, mo, 68
+bi, mm, 68
+rand, mm, 68
+sf, mm, 68
+sw, mm, 68
+tree, mm, 68
+bi, mc, 69
+rand, mc, 69
+sf, mc, 69
+sw, mc, 69
+tree, mc, 69
+bi, mo, 69
+rand, mo, 69
+sf, mo, 69
+sw, mo, 69
+tree, mo, 69
+bi, mm, 69
+rand, mm, 69
+sf, mm, 69
+sw, mm, 69
+tree, mm, 69
+bi, mc, 70
+rand, mc, 70
+sf, mc, 70
+sw, mc, 70
+tree, mc, 70
+bi, mo, 70
+rand, mo, 70
+sf, mo, 70
+sw, mo, 70
+tree, mo, 70
+bi, mm, 70
+rand, mm, 70
+sf, mm, 70
+sw, mm, 70
+tree, mm, 70
+bi, mc, 71
+rand, mc, 71
+sf, mc, 71
+sw, mc, 71
+tree, mc, 71
+bi, mo, 71
+rand, mo, 71
+sf, mo, 71
+sw, mo, 71
+tree, mo, 71
+bi, mm, 71
+rand, mm, 71
+sf, mm, 71
+sw, mm, 71
+tree, mm, 71
+bi, mc, 72
+rand, mc, 72
+sf, mc, 72
+sw, mc, 72
+tree, mc, 72
+bi, mo, 72
+rand, mo, 72
+sf, mo, 72
+sw, mo, 72
+tree, mo, 72
+bi, mm, 72
+rand, mm, 72
+sf, mm, 72
+sw, mm, 72
+tree, mm, 72
+bi, mc, 73
+rand, mc, 73
+sf, mc, 73
+sw, mc, 73
+tree, mc, 73
+bi, mo, 73
+rand, mo, 73
+sf, mo, 73
+sw, mo, 73
+tree, mo, 73
+bi, mm, 73
+rand, mm, 73
+sf, mm, 73
+sw, mm, 73
+tree, mm, 73
+bi, mc, 74
+rand, mc, 74
+sf, mc, 74
+sw, mc, 74
+tree, mc, 74
+bi, mo, 74
+rand, mo, 74
+sf, mo, 74
+sw, mo, 74
+tree, mo, 74
+bi, mm, 74
+rand, mm, 74
+sf, mm, 74
+sw, mm, 74
+tree, mm, 74
+bi, mc, 75
+rand, mc, 75
+sf, mc, 75
+sw, mc, 75
+tree, mc, 75
+bi, mo, 75
+rand, mo, 75
+sf, mo, 75
+sw, mo, 75
+tree, mo, 75
+bi, mm, 75
+rand, mm, 75
+sf, mm, 75
+sw, mm, 75
+tree, mm, 75
+bi, mc, 76
+rand, mc, 76
+sf, mc, 76
+sw, mc, 76
+tree, mc, 76
+bi, mo, 76
+rand, mo, 76
+sf, mo, 76
+sw, mo, 76
+tree, mo, 76
+bi, mm, 76
+rand, mm, 76
+sf, mm, 76
+sw, mm, 76
+tree, mm, 76
+bi, mc, 77
+rand, mc, 77
+sf, mc, 77
+sw, mc, 77
+tree, mc, 77
+bi, mo, 77
+rand, mo, 77
+sf, mo, 77
+sw, mo, 77
+tree, mo, 77
+bi, mm, 77
+rand, mm, 77
+sf, mm, 77
+sw, mm, 77
+tree, mm, 77
+bi, mc, 78
+rand, mc, 78
+sf, mc, 78
+sw, mc, 78
+tree, mc, 78
+bi, mo, 78
+rand, mo, 78
+sf, mo, 78
+sw, mo, 78
+tree, mo, 78
+bi, mm, 78
+rand, mm, 78
+sf, mm, 78
+sw, mm, 78
+tree, mm, 78
+bi, mc, 79
+rand, mc, 79
+sf, mc, 79
+sw, mc, 79
+tree, mc, 79
+bi, mo, 79
+rand, mo, 79
+sf, mo, 79
+sw, mo, 79
+tree, mo, 79
+bi, mm, 79
+rand, mm, 79
+sf, mm, 79
+sw, mm, 79
+tree, mm, 79
+bi, mc, 80
+rand, mc, 80
+sf, mc, 80
+sw, mc, 80
+tree, mc, 80
+bi, mo, 80
+rand, mo, 80
+sf, mo, 80
+sw, mo, 80
+tree, mo, 80
+bi, mm, 80
+rand, mm, 80
+sf, mm, 80
+sw, mm, 80
+tree, mm, 80
+bi, mc, 81
+rand, mc, 81
+sf, mc, 81
+sw, mc, 81
+tree, mc, 81
+bi, mo, 81
+rand, mo, 81
+sf, mo, 81
+sw, mo, 81
+tree, mo, 81
+bi, mm, 81
+rand, mm, 81
+sf, mm, 81
+sw, mm, 81
+tree, mm, 81
+bi, mc, 82
+rand, mc, 82
+sf, mc, 82
+sw, mc, 82
+tree, mc, 82
+bi, mo, 82
+rand, mo, 82
+sf, mo, 82
+sw, mo, 82
+tree, mo, 82
+bi, mm, 82
+rand, mm, 82
+sf, mm, 82
+sw, mm, 82
+tree, mm, 82
+bi, mc, 83
+rand, mc, 83
+sf, mc, 83
+sw, mc, 83
+tree, mc, 83
+bi, mo, 83
+rand, mo, 83
+sf, mo, 83
+sw, mo, 83
+tree, mo, 83
+bi, mm, 83
+rand, mm, 83
+sf, mm, 83
+sw, mm, 83
+tree, mm, 83
+bi, mc, 84
+rand, mc, 84
+sf, mc, 84
+sw, mc, 84
+tree, mc, 84
+bi, mo, 84
+rand, mo, 84
+sf, mo, 84
+sw, mo, 84
+tree, mo, 84
+bi, mm, 84
+rand, mm, 84
+sf, mm, 84
+sw, mm, 84
+tree, mm, 84
+bi, mc, 85
+rand, mc, 85
+sf, mc, 85
+sw, mc, 85
+tree, mc, 85
+bi, mo, 85
+rand, mo, 85
+sf, mo, 85
+sw, mo, 85
+tree, mo, 85
+bi, mm, 85
+rand, mm, 85
+sf, mm, 85
+sw, mm, 85
+tree, mm, 85
+bi, mc, 86
+rand, mc, 86
+sf, mc, 86
+sw, mc, 86
+tree, mc, 86
+bi, mo, 86
+rand, mo, 86
+sf, mo, 86
+sw, mo, 86
+tree, mo, 86
+bi, mm, 86
+rand, mm, 86
+sf, mm, 86
+sw, mm, 86
+tree, mm, 86
+bi, mc, 87
+rand, mc, 87
+sf, mc, 87
+sw, mc, 87
+tree, mc, 87
+bi, mo, 87
+rand, mo, 87
+sf, mo, 87
+sw, mo, 87
+tree, mo, 87
+bi, mm, 87
+rand, mm, 87
+sf, mm, 87
+sw, mm, 87
+tree, mm, 87
+bi, mc, 88
+rand, mc, 88
+sf, mc, 88
+sw, mc, 88
+tree, mc, 88
+bi, mo, 88
+rand, mo, 88
+sf, mo, 88
+sw, mo, 88
+tree, mo, 88
+bi, mm, 88
+rand, mm, 88
+sf, mm, 88
+sw, mm, 88
+tree, mm, 88
+bi, mc, 89
+rand, mc, 89
+sf, mc, 89
+sw, mc, 89
+tree, mc, 89
+bi, mo, 89
+rand, mo, 89
+sf, mo, 89
+sw, mo, 89
+tree, mo, 89
+bi, mm, 89
+rand, mm, 89
+sf, mm, 89
+sw, mm, 89
+tree, mm, 89
+bi, mc, 90
+rand, mc, 90
+sf, mc, 90
+sw, mc, 90
+tree, mc, 90
+bi, mo, 90
+rand, mo, 90
+sf, mo, 90
+sw, mo, 90
+tree, mo, 90
+bi, mm, 90
+rand, mm, 90
+sf, mm, 90
+sw, mm, 90
+tree, mm, 90
+bi, mc, 91
+rand, mc, 91
+sf, mc, 91
+sw, mc, 91
+tree, mc, 91
+bi, mo, 91
+rand, mo, 91
+sf, mo, 91
+sw, mo, 91
+tree, mo, 91
+bi, mm, 91
+rand, mm, 91
+sf, mm, 91
+sw, mm, 91
+tree, mm, 91
+bi, mc, 92
+rand, mc, 92
+sf, mc, 92
+sw, mc, 92
+tree, mc, 92
+bi, mo, 92
+rand, mo, 92
+sf, mo, 92
+sw, mo, 92
+tree, mo, 92
+bi, mm, 92
+rand, mm, 92
+sf, mm, 92
+sw, mm, 92
+tree, mm, 92
+bi, mc, 93
+rand, mc, 93
+sf, mc, 93
+sw, mc, 93
+tree, mc, 93
+bi, mo, 93
+rand, mo, 93
+sf, mo, 93
+sw, mo, 93
+tree, mo, 93
+bi, mm, 93
+rand, mm, 93
+sf, mm, 93
+sw, mm, 93
+tree, mm, 93
+bi, mc, 94
+rand, mc, 94
+sf, mc, 94
+sw, mc, 94
+tree, mc, 94
+bi, mo, 94
+rand, mo, 94
+sf, mo, 94
+sw, mo, 94
+tree, mo, 94
+bi, mm, 94
+rand, mm, 94
+sf, mm, 94
+sw, mm, 94
+tree, mm, 94
+bi, mc, 95
+rand, mc, 95
+sf, mc, 95
+sw, mc, 95
+tree, mc, 95
+bi, mo, 95
+rand, mo, 95
+sf, mo, 95
+sw, mo, 95
+tree, mo, 95
+bi, mm, 95
+rand, mm, 95
+sf, mm, 95
+sw, mm, 95
+tree, mm, 95
+bi, mc, 96
+rand, mc, 96
+sf, mc, 96
+sw, mc, 96
+tree, mc, 96
+bi, mo, 96
+rand, mo, 96
+sf, mo, 96
+sw, mo, 96
+tree, mo, 96
+bi, mm, 96
+rand, mm, 96
+sf, mm, 96
+sw, mm, 96
+tree, mm, 96
+bi, mc, 97
+rand, mc, 97
+sf, mc, 97
+sw, mc, 97
+tree, mc, 97
+bi, mo, 97
+rand, mo, 97
+sf, mo, 97
+sw, mo, 97
+tree, mo, 97
+bi, mm, 97
+rand, mm, 97
+sf, mm, 97
+sw, mm, 97
+tree, mm, 97
+bi, mc, 98
+rand, mc, 98
+sf, mc, 98
+sw, mc, 98
+tree, mc, 98
+bi, mo, 98
+rand, mo, 98
+sf, mo, 98
+sw, mo, 98
+tree, mo, 98
+bi, mm, 98
+rand, mm, 98
+sf, mm, 98
+sw, mm, 98
+tree, mm, 98
+bi, mc, 99
+rand, mc, 99
+sf, mc, 99
+sw, mc, 99
+tree, mc, 99
+bi, mo, 99
+rand, mo, 99
+sf, mo, 99
+sw, mo, 99
+tree, mo, 99
+bi, mm, 99
+rand, mm, 99
+sf, mm, 99
+sw, mm, 99
+tree, mm, 99
+bi, mc, 100
+rand, mc, 100
+sf, mc, 100
+sw, mc, 100
+tree, mc, 100
+bi, mo, 100
+rand, mo, 100
+sf, mo, 100
+sw, mo, 100
+tree, mo, 100
+bi, mm, 100
+rand, mm, 100
+sf, mm, 100
+sw, mm, 100
+tree, mm, 100
