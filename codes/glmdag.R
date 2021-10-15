@@ -1,6 +1,6 @@
 glmdag = function(data_input, types_by_node = NULL, ordin_pred_as = "num", 
                   interv_info=NULL, root_nodes=NULL, terminal_nodes=NULL,
-                  lambdas=NULL, n_lams=NULL, eps_lambda = 0.05,
+                  lambdas=NULL, n_lams=NULL, eps_lam = 0.05,
                   path_par = FALSE, path_par_num = NULL,
                   thre_list = NULL,
                   admm_args = admm_arg_ctrl(), opt_method = "lbfgs",
@@ -11,7 +11,7 @@ glmdag = function(data_input, types_by_node = NULL, ordin_pred_as = "num",
   if(F){ # debugging block ####
     ordin_pred_as = "num";
     interv_info=NULL; root_nodes=NULL; terminal_nodes=NULL;
-    lambdas=NULL; n_lams=30; eps_lambda = 0.05; thre_list = NULL;
+    lambdas=NULL; n_lams=30; eps_lam = 0.05; thre_list = NULL;
     path_par = TRUE; path_par_num = 29;
     admm_args = admm_arg_ctrl(); opt_method = "lbfgs";
     fac_grp_lasso=FALSE; add_stop_rule=TRUE; fit_hist=FALSE;
@@ -80,6 +80,7 @@ glmdag = function(data_input, types_by_node = NULL, ordin_pred_as = "num",
   }
   
   ## Parameter modifier - Ordinal data only
+  ## .. T_H: for obj0; T_Mu: for grad0
   idx_resps_ordin_only = idx_resps_by_node[types_by_node == "o"]
   n_resps_ordin_only = n_resps_by_node[types_by_node == "o"]
   rj_lev = unlist(lapply(idx_resps_ordin_only, function(x) rep(x[length(x)],length(x))))
@@ -137,9 +138,9 @@ glmdag = function(data_input, types_by_node = NULL, ordin_pred_as = "num",
   if (is.null(lambdas)){
     if (is.null(n_lams)){
       n_lams = 30
-      lambdas = gen_lambdas(data_info, n_lams = n_lams, eps = eps_lambda)
+      lambdas = gen_lambdas(data_info, n_lams = n_lams, eps = eps_lam)
     } else {
-      lambdas = gen_lambdas(data_info, n_lams = n_lams, eps = eps_lambda)
+      lambdas = gen_lambdas(data_info, n_lams = n_lams, eps = eps_lam)
     }
   } else {
     if (is.null(n_lams)) {
