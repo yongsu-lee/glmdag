@@ -8,7 +8,7 @@ simu_info = list(
   n_conti = 15,
   n_ordin = 20,
   n_lams = 30,
-  eps_lam = 0.3,
+  eps_lam = 0.4,
   path_par = TRUE
 )
 saveRDS(simu_info, "simu_info.rds")

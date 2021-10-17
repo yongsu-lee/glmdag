@@ -25,9 +25,9 @@ data_input = gen_data(n_obs, A_true, graph_true, W_true, seed = iter)
 if (size == "small"){
   
   ## Discretizing continuous nodes either 2 or 4 levels
-  conti_nodes = which(types_by_node == "c")
-  two_level_nodes = conti_nodes[1:(n_conti/2)]
-  four_level_nodes = conti_nodes[(n_conti/2+1):n_conti]
+  disc_nodes = which(types_by_node == "c")
+  two_level_nodes = disc_nodes[1:(n_conti/2)]
+  four_level_nodes = disc_nodes[(n_conti/2+1):n_conti]
   
 } else if (size == "large") {
   
@@ -36,8 +36,8 @@ if (size == "small"){
   # Select will-be discretizing nodes (20 nodes)
   disc_nodes = sample(which(types_by_node == "c"), n_ordin, replace = F)
   n_disc = length(disc_nodes)
-  conti_raw_nodes = which(types_by_node == "c")
-  conti_nodes = setdiff(conti_raw_nodes, disc_nodes) 
+  # conti_raw_nodes = which(types_by_node == "c")
+  # conti_nodes = setdiff(conti_raw_nodes, disc_nodes) 
   two_level_nodes = disc_nodes[1:(n_disc/2)]
   four_level_nodes = disc_nodes[(n_disc/2+1):n_disc]
   
@@ -62,11 +62,11 @@ data_input =
          # Oringinal data
          "mc" = { data_input },
          # Consider discretized nodes as 'nominal-level' nodes
-         "mm" = { data_input[conti_nodes] <- discretized_data; data_input},
+         "mm" = { data_input[disc_nodes] <- discretized_data; data_input},
          # Consider discretized nodes as 'ordinal-level' nodes
          "mo" = {
            ordered = lapply(discretized_data, function(x) factor(x, ordered = T))
-           data_input[conti_nodes] <- ordered; data_input
+           data_input[disc_nodes] <- ordered; data_input
          } )
 
 ## Run main functions

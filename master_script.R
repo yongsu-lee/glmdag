@@ -21,16 +21,17 @@ if (sysname == "Linux"){ # for CHTC server
   ell = as.integer(queue_args[4])
   
   name_temp = paste(simu_case, size,"n", n_obs, 
-  	            graph_type, method, iter, ell, sep = "_")
+                    graph_type, method, iter, ell, sep = "_")
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  
   # Pull glmdag codes from github
   url = "https://github.com/yongsu-lee/glmdag/archive/refs/heads/master.zip"
   download.file(url = url, destfile = "glmdag.zip")
-  Sys.sleep(3)
+  Sys.sleep(10)
   unzip("glmdag.zip")
+  Sys.sleep(10)
   init_dir = "./glmdag-master/"
-
+  
 } else { # for local macOS
   
   setwd("~/iCloud/glmdag/")
@@ -40,17 +41,20 @@ if (sysname == "Linux"){ # for CHTC server
   # Check this block carefully! ++++++++++++++++++++++++++++++++++++++++++++++++
   queue = read.table("queue_list", sep =",", strip.white = T)
   queue_args = queue[1, ]
-  graph_type = as.character(queue_args[1])
-  # method = as.character(queue_args[2])
-  iter = as.integer(queue_args[3])
+  graph_type = "rand"
+  method = "mo"
+  iter = 6
+  ell = 27
   
-  name_temp = paste(simu_case, size,"n", n_obs, graph_type, iter, sep = "_")
+  name_temp = paste(simu_case, size,"n", n_obs, 
+                    graph_type, method, iter, ell, sep = "_")
   #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  
 }
 
 
 ## Sourcing files
+Sys.sleep(10)
 source(paste0(init_dir,"codes/00_load_ftns.R"))
 
 ## Generate the true graph and obtain corresponding adjacency matrix
