@@ -1,5 +1,6 @@
 ## Set subdirectory name according to the system
-subdir = ifelse(Sys.info()["sysname"] == "Linux", "./glmdag-master/codes/", "./codes/")
+subdir = ifelse(Sys.info()["sysname"] == "Linux", "./glmdag-master/codes/", 
+                "~/iCloud/glmdag/codes/")
 names(subdir) <- NULL
 
 ## Load necessary packages
@@ -36,9 +37,7 @@ source(paste0(subdir, "push_dag.R"))
 source(paste0(subdir, "tun_sel_lkhd.R"))
 # source(paste0(subdir, "eval_metrics.R"))
 
-
-## Load old function for comparison
-
+rm(subdir)
 
 
 

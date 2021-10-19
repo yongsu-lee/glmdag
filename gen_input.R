@@ -1,6 +1,9 @@
-## Generate Simulation Information ####
+rm(list=ls())
+
+# ## Generate Simulation Information (Large) #####
+
 simu_info = list(
-  simu_case = "mmhc",
+  simu_case = "simu2",
   size = "large",
   seed_para = 1,
   n_obs = 200,
@@ -8,10 +11,27 @@ simu_info = list(
   n_conti = 15,
   n_ordin = 20,
   n_lams = 30,
-  eps_lam = 0.05,
+  eps_lam = 0.2,
   path_par = TRUE
 )
-saveRDS(simu_info, "simu_info.rds")
+
+
+## Generate Simulation Information (Small) #####
+# simu_info = list(
+#   simu_case = "simu2",
+#   size = "small",
+#   n_iter = 100,
+#   seed_para = 1,
+#   n_obs = 50,
+#   n_multi = 4,
+#   n_conti = 3,
+#   n_ordin = 3,
+#   n_lams = 30,
+#   eps_lam = 0.3,
+#   path_par = FALSE
+# )
+list2env(simu_info, globalenv())
+saveRDS(simu_info, "~/iCloud/glmdag/simu_info_queue/simu_info.rds")
 
 ## Generate queue list ####
 queue_list = function(args_list, file_name){
@@ -22,5 +42,5 @@ queue_list = function(args_list, file_name){
               quote = F, row.names = F, col.names = F)
 }
 
-args_list = list("rand", c("mc", "mo", "mm"), 1:50)
-queue_list(args_list, "queue_list")
+args_list = list("rand", c("mc", "mo", "mm"), 1:n_iter, 1:30)
+queue_list(args_list, "~/iCloud/glmdag/simu_info_queue/simu_info_queue/queue_list")

@@ -3,7 +3,7 @@
 # Outputs will be generated in the "results" folder
 
 ## Delete this region when you submit +++++++++++++++++
-setwd("~/iCloud/paper_a/paper_a_submit/biom_j/biom_j_code_submit/")
+setwd("~/iCloud/glmdag")
 use_saved_data = 1
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -334,8 +334,8 @@ for (g in graph_types){ # g = "rand"
         result = glmdag(data_input, n_lams = n_lams, verbose = T)
         
         if (m == "mm") { 
-          result.hc <- hc(data_input)
-          result.mmhc <- mmhc(data_input)
+          result.hc <- bnlearn::hc(data_input)
+          result.mmhc <- bnlearn::mmhc(data_input)
         }
         
       } else { # when using stored results

@@ -22,37 +22,35 @@ W_true = gen_para(A_true, types_by_node, n_levels_by_node, seed = seed_para)
 data_input = gen_data(n_obs, A_true, graph_true, W_true, seed = iter)
 #.. Note that the seed set with the 'iter' number
 
-if (size == "small"){
-  
-  ## Discretizing continuous nodes either 2 or 4 levels
+if (size == "small"){   # .. All the continuous nodes are discretized
+
+  ## Discretizing continuous nodes either 3 or 5 levels
   disc_nodes = which(types_by_node == "c")
-  two_level_nodes = disc_nodes[1:(n_conti/2)]
-  four_level_nodes = disc_nodes[(n_conti/2+1):n_conti]
+  n_disc = length(disc_nodes)
+  three_level_nodes = disc_nodes[1:(n_disc/2)]
+  five_level_nodes = disc_nodes[(n_disc/2+1):n_disc]
   
-} else if (size == "large") {
+} else if (size == "large") { # .. Some of them are discretized
   
-  ## Discretizing continuous nodes either 2 or 4 levels
-  
-  # Select will-be discretizing nodes (20 nodes)
+  ## Discretizing continuous nodes either 3 or 5 levels
   disc_nodes = sample(which(types_by_node == "c"), n_ordin, replace = F)
   n_disc = length(disc_nodes)
-  # conti_raw_nodes = which(types_by_node == "c")
-  # conti_nodes = setdiff(conti_raw_nodes, disc_nodes) 
-  two_level_nodes = disc_nodes[1:(n_disc/2)]
-  four_level_nodes = disc_nodes[(n_disc/2+1):n_disc]
+  three_level_nodes = disc_nodes[1:(n_disc/2)]
+  five_level_nodes = disc_nodes[(n_disc/2+1):n_disc]
   
 }
 
-# Discretizing into 2 levels
-temp = data_input[two_level_nodes]
+# Discretizing into 3 levels
+temp = data_input[three_level_nodes]
 temp1 = lapply(temp, function(x) 
-  cut(x, c(min(x)-1, median(x), max(x)), labels = 1:2))
+  cut(x, c(min(x)-1, quantile(as.matrix(x), probs = c(0.34, 0.67, 1))), 
+      labels = 1:3))
 
-# Discretizing into 4 levels
-temp = data_input[four_level_nodes]
+# Discretizing into 5 levels
+temp = data_input[five_level_nodes]
 temp2 = lapply(temp, function(x) 
-  cut(x, c(min(x)-1, quantile(as.matrix(x), probs = c(0.25, 0.5, 0.75, 1))), 
-      labels = 1:4))
+  cut(x, c(min(x)-1, quantile(as.matrix(x), probs = c(0.2, 0.4, 0.6, 0.8, 1))), 
+      labels = 1:5))
 
 discretized_data = data.frame(temp1, temp2)
 
@@ -70,5 +68,6 @@ data_input =
          } )
 
 ## Run main functions
+
 result = glmdag(data_input, n_lams = n_lams, eps_lam = eps_lam,  
                 path_par = path_par, path_par_num = ell, verbose = T)

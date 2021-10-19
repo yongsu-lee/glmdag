@@ -2,13 +2,13 @@
 rm(list=ls())
 RNGkind("Mersenne-Twister", "Inversion", "Rejection")
 
-## Set simulation parameters ####
-simu_info = readRDS("./simu_info.rds")
-list2env(simu_info, globalenv())
-
 ## Set queue number accoring to system ####
 sysname = Sys.info()['sysname']
 if (sysname == "Linux"){ # for CHTC server
+  
+  simu_info = readRDS("./simu_info.rds")
+  list2env(simu_info, globalenv())
+  if (path_par == F) ell = NULL
   
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   # Check this block carefully! ++++++++++++++++++++++++++++++++++++++++++++++++
@@ -36,22 +36,21 @@ if (sysname == "Linux"){ # for CHTC server
   
   setwd("~/iCloud/glmdag/")
   init_dir = "./"
-  
+
+  file.edit("~/iCloud/glmdag/gen_input.R")
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   # Check this block carefully! ++++++++++++++++++++++++++++++++++++++++++++++++
-  queue = read.table("queue_list", sep =",", strip.white = T)
-  queue_args = queue[1, ]
+  # queue = read.table("queue_list", sep =",", strip.white = T)
+  # queue_args = queue[1, ]
   graph_type = "rand"
   method = "mo"
-  iter = 6
-  ell = 27
-  
+  iter = 1
+  if (path_par == F) ell = NULL
   name_temp = paste(simu_case, size,"n", n_obs, 
                     graph_type, method, iter, ell, sep = "_")
   #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
 }
-
 
 ## Sourcing files
 Sys.sleep(10)
