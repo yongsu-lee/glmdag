@@ -2,34 +2,34 @@ rm(list=ls())
 
 # ## Generate Simulation Information (Large) #####
 
-simu_info = list(
-  simu_case = "simu2",
-  size = "large",
-  seed_para = 1,
-  n_obs = 200,
-  n_multi = 15,
-  n_conti = 15,
-  n_ordin = 20,
-  n_lams = 30,
-  eps_lam = 0.2,
-  path_par = TRUE
-)
+# simu_info = list(
+#   simu_case = "simu2",
+#   size = "large",
+#   seed_para = 1,
+#   n_obs = 200,
+#   n_multi = 15,
+#   n_conti = 15,
+#   n_ordin = 20,
+#   n_lams = 30,
+#   eps_lam = 0.2,
+#   path_par = TRUE
+# )
 
 
 ## Generate Simulation Information (Small) #####
-# simu_info = list(
-#   simu_case = "simu2",
-#   size = "small",
-#   n_iter = 100,
-#   seed_para = 1,
-#   n_obs = 50,
-#   n_multi = 4,
-#   n_conti = 3,
-#   n_ordin = 3,
-#   n_lams = 30,
-#   eps_lam = 0.3,
-#   path_par = FALSE
-# )
+simu_info = list(
+  simu_case = "mmhc",
+  size = "small",
+  n_iter = 100,
+  seed_para = 1,
+  n_obs = 50,
+  n_multi = 4,
+  n_conti = 3,
+  n_ordin = 3,
+  n_lams = 30,
+  eps_lam = 0.5,
+  path_par = FALSE
+)
 list2env(simu_info, globalenv())
 saveRDS(simu_info, "~/iCloud/glmdag/simu_info_queue/simu_info.rds")
 

@@ -45,6 +45,7 @@ if (sysname == "Linux"){ # for CHTC server
   graph_type = "rand"
   method = "mo"
   iter = 1
+  ell = 1
   if (path_par == F) ell = NULL
   name_temp = paste(simu_case, size,"n", n_obs, 
                     graph_type, method, iter, ell, sep = "_")
