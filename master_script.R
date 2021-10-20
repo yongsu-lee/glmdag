@@ -42,13 +42,13 @@ if (sysname == "Linux"){ # for CHTC server
   # Check this block carefully! ++++++++++++++++++++++++++++++++++++++++++++++++
   # queue = read.table("queue_list", sep =",", strip.white = T)
   # queue_args = queue[1, ]
-  graph_type = "rand"
-  method = "mo"
-  iter = 1
-  ell = 1
+  graph_type = "sf"
+  method = "mc"
+  iter = 70
+  # ell = 1
   if (path_par == F) ell = NULL
   name_temp = paste(simu_case, size,"n", n_obs, 
-                    graph_type, method, iter, ell, sep = "_")
+                    graph_type, method, iter, sep = "_")
   #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
 }

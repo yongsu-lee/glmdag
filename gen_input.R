@@ -18,7 +18,7 @@ rm(list=ls())
 
 ## Generate Simulation Information (Small) #####
 simu_info = list(
-  simu_case = "mmhc",
+  simu_case = "simu2",
   size = "small",
   n_iter = 100,
   seed_para = 1,
@@ -27,7 +27,7 @@ simu_info = list(
   n_conti = 3,
   n_ordin = 3,
   n_lams = 30,
-  eps_lam = 0.5,
+  eps_lam = 0.1,
   path_par = FALSE
 )
 list2env(simu_info, globalenv())
