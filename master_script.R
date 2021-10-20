@@ -69,4 +69,3 @@ source(paste0(init_dir,simu_case,"_script.R"))
 
 ## Save the result
 saveRDS(result, file = paste0(name_temp,".rds"))
-

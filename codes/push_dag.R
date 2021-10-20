@@ -24,9 +24,9 @@ push_dag = function(Beta_new_by_lam, data_info, eps = 1e-8,
 
   n_lams = length(Beta_new_by_lam)
 
-  A_est_by_lam = as.list(rep(0, n_lams))
-  graph_est_by_lam = as.list(rep(0, n_lams))
-  Beta_est_by_lam = as.list(rep(0, n_lams))
+  A_est_by_lam = as.list(rep(NA, n_lams))
+  graph_est_by_lam = as.list(rep(NA, n_lams))
+  Beta_est_by_lam = as.list(rep(NA, n_lams))
 
   n_edges_by_lam = c()
   modified_dag_by_lam = c()

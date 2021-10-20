@@ -277,7 +277,6 @@ mix.W_update = function(W, Beta, Mu, rho, data_info, white_coefs, verbose,
                        Sr, Se, n_nodes)
     
     if (verbose == 1){ cat("h_new =", h_new, "\n") }
-    if (verbose == 1){ cat("convergence=", opt_result$convergence, "\n") }
     if (verbose == 1){ cat("=======================================\n") }
     
     if (h_new > 0.25 * h) rho1 = rho1 * 10
