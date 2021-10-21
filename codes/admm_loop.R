@@ -11,11 +11,12 @@ admm_loop = function(W_update, Beta_update, W_init, Beta_init, white_coefs,
   }
   
   ## Set ADMM parameters ####
-  max_iter = admm_args$max_iter; rho = admm_args$rho
-  kappa = admm_args$kappa; abs_tol = admm_args$abs_tol
-  rel_tol = admm_args$rel_tol; eps = admm_args$eps
-  inner_verbose = admm_args$inner_verbose
-  warm_start = admm_args$warm_start
+  list2env(admm_args, environment())
+  # max_iter = admm_args$max_iter; rho = admm_args$rho
+  # kappa = admm_args$kappa; abs_tol = admm_args$abs_tol
+  # rel_tol = admm_args$rel_tol; eps = admm_args$eps
+  # inner_verbose = admm_args$inner_verbose
+  # warm_start = admm_args$warm_start
   
   ## Read necessary arguments ####
   n_lams = length(lambdas)
@@ -33,7 +34,7 @@ admm_loop = function(W_update, Beta_update, W_init, Beta_init, white_coefs,
   ## Set fit_hist container if specified ####
   if (fit_hist == TRUE) {history_Beta_by_lam = history_W_by_lam <- list(0)}
   
-  ## Debugging stop
+  ## Debugging stop ####
   
   if (debug_mode == T){
     W <<- W;
@@ -45,6 +46,7 @@ admm_loop = function(W_update, Beta_update, W_init, Beta_init, white_coefs,
     message("Debugging mode is activated. No actual fitting is conducted.")
     return(invisible(NULL))
   }
+  
   
   ## Path-wise loop starts ########
   for (ell in 1:n_lams){ # ell = 1

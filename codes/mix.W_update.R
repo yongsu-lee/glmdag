@@ -12,40 +12,15 @@ mix.W_update = function(W, Beta, Mu, rho, data_info, white_coefs, verbose,
   
   list2env(data_info, environment())
   
-  # n_expls = data_info$n_expls
-  # n_resps = data_info$n_resps
-  # X1 = data_info$X1
-  
   idx_intcpt = n_expls + 1
   
-  # Y = data_info$Y
-  # Y_tilde = data_info$Y_tilde  # ordinal data only
-  # rev_interv_info = data_info$rev_interv_info
-  # rev_interv_info_design = data_info$rev_interv_info_design
   rev_interv_info_design = (rev_interv_info_design) * 1
   n_obs_by_node = apply(rev_interv_info,2,sum)
  
-  # Sr = data_info$Sr
-  # Se = data_info$Se
-  # SSr = data_info$SSr
-  # rj_lev = data_info$rj_lev
-  # rj_lev_sub = data_info$rj_lev_sub
-  # T_H = data_info$T_H
-  # T_Mu = data_info$T_Mu
-  
-  # n_obs = data_info$n_obs
-  # n_coefs = data_info$n_coefs
-  # n_nodes = data_info$n_nodes
-  
   X = cbind(X1, rep(1,n_obs))
   colnames(X)[idx_intcpt] <- "(Intcpt)"
   
   ## Only for mix.noteargis =====================================
-  # n_resps_by_node = data_info$n_resps_by_node
-  # types_by_node = data_info$types_by_node
-  
-  # idx_resps_by_node = data_info$idx_resps_by_node 
-  
   idx_conti_nodes = which(types_by_node == "c")
   n_obs_by_node_conti = n_obs_by_node[idx_conti_nodes]
   idx_multi_nodes = which(types_by_node == "m")
