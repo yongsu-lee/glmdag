@@ -25,10 +25,15 @@ data_input = gen_data(n_obs, A_true, graph_true, W_true, seed = iter)
 if (size == "small"){   # .. All the continuous nodes are discretized
 
   ## Discretizing continuous nodes either 3 or 5 levels
+  # disc_nodes = which(types_by_node == "c")
+  # n_disc = length(disc_nodes)
+  # three_level_nodes = disc_nodes[1:(n_disc/2)]
+  # five_level_nodes = disc_nodes[(n_disc/2+1):n_disc]
+  
+  ## Discretizing continuous nodes 5 levels
   disc_nodes = which(types_by_node == "c")
   n_disc = length(disc_nodes)
-  three_level_nodes = disc_nodes[1:(n_disc/2)]
-  five_level_nodes = disc_nodes[(n_disc/2+1):n_disc]
+  five_level_nodes = disc_nodes[1:n_disc]
   
 } else if (size == "large") { # .. Some of them are discretized
   
@@ -40,19 +45,19 @@ if (size == "small"){   # .. All the continuous nodes are discretized
   
 }
 
-# Discretizing into 3 levels
-temp = data_input[three_level_nodes]
-temp1 = lapply(temp, function(x) 
-  cut(x, c(min(x)-1, quantile(as.matrix(x), probs = c(0.34, 0.67, 1))), 
-      labels = 1:3))
+## Discretizing into 3 levels
+# temp = data_input[three_level_nodes]
+# temp1 = lapply(temp, function(x) 
+#   cut(x, c(min(x)-1, quantile(as.matrix(x), probs = c(0.34, 0.67, 1))), 
+#       labels = 1:3))
 
-# Discretizing into 5 levels
+## Discretizing into 5 levels
 temp = data_input[five_level_nodes]
 temp2 = lapply(temp, function(x) 
   cut(x, c(min(x)-1, quantile(as.matrix(x), probs = c(0.2, 0.4, 0.6, 0.8, 1))), 
       labels = 1:5))
 
-discretized_data = data.frame(temp1, temp2)
+discretized_data = data.frame(temp2)
 
 ## Generate a different type of dataset according to the method
 data_input = 
