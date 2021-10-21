@@ -13,9 +13,10 @@ mix.W_update = function(W, Beta, Mu, rho, data_info, white_coefs, verbose,
   list2env(data_info, environment())
   
   # n_expls = data_info$n_expls
-  # idx_intcpt = data_info$n_expls + 1
   # n_resps = data_info$n_resps
   # X1 = data_info$X1
+  
+  idx_intcpt = n_expls + 1
   
   # Y = data_info$Y
   # Y_tilde = data_info$Y_tilde  # ordinal data only
@@ -300,5 +301,3 @@ mix.W_update = function(W, Beta, Mu, rho, data_info, white_coefs, verbose,
   return(W_new)
   
 }
-
-
