@@ -9,37 +9,41 @@ mix.W_update = function(W, Beta, Mu, rho, data_info, white_coefs, verbose,
   }
   
   ## Read data ####
-  n_expls = data_info$n_expls
-  idx_intcpt = data_info$n_expls + 1
-  n_resps = data_info$n_resps
-  X1 = data_info$X1
   
-  Y = data_info$Y
-  Y_tilde = data_info$Y_tilde  # ordinal data only
-  rev_interv_info = data_info$rev_interv_info
-  rev_interv_info_design = (data_info$rev_interv_info_design) * 1
+  list2env(data_info, environment())
+  
+  # n_expls = data_info$n_expls
+  # idx_intcpt = data_info$n_expls + 1
+  # n_resps = data_info$n_resps
+  # X1 = data_info$X1
+  
+  # Y = data_info$Y
+  # Y_tilde = data_info$Y_tilde  # ordinal data only
+  # rev_interv_info = data_info$rev_interv_info
+  # rev_interv_info_design = data_info$rev_interv_info_design
+  rev_interv_info_design = (rev_interv_info_design) * 1
   n_obs_by_node = apply(rev_interv_info,2,sum)
  
-  Sr = data_info$Sr
-  Se = data_info$Se
-  SSr = data_info$SSr
-  rj_lev = data_info$rj_lev
-  rj_lev_sub = data_info$rj_lev_sub
-  T_H = data_info$T_H
-  T_Mu = data_info$T_Mu
+  # Sr = data_info$Sr
+  # Se = data_info$Se
+  # SSr = data_info$SSr
+  # rj_lev = data_info$rj_lev
+  # rj_lev_sub = data_info$rj_lev_sub
+  # T_H = data_info$T_H
+  # T_Mu = data_info$T_Mu
   
-  n_obs = data_info$n_obs
-  n_coefs = data_info$n_coefs
-  n_nodes = data_info$n_nodes
+  # n_obs = data_info$n_obs
+  # n_coefs = data_info$n_coefs
+  # n_nodes = data_info$n_nodes
   
   X = cbind(X1, rep(1,n_obs))
   colnames(X)[idx_intcpt] <- "(Intcpt)"
   
   ## Only for mix.noteargis =====================================
-  n_resps_by_node = data_info$n_resps_by_node
-  types_by_node = data_info$types_by_node
+  # n_resps_by_node = data_info$n_resps_by_node
+  # types_by_node = data_info$types_by_node
   
-  idx_resps_by_node = data_info$idx_resps_by_node 
+  # idx_resps_by_node = data_info$idx_resps_by_node 
   
   idx_conti_nodes = which(types_by_node == "c")
   n_obs_by_node_conti = n_obs_by_node[idx_conti_nodes]
@@ -228,16 +232,14 @@ mix.W_update = function(W, Beta, Mu, rho, data_info, white_coefs, verbose,
                  Sr, Se, SSr, as.numeric(rj_lev), as.numeric(rj_lev_sub), 
                  T_H, T_Mu, Y_tilde)}
   
-  if (F){
+  if (F){ ## print out the result for debugging/comparing ####
     grad1_cpp = grad1(w, alpha, rho1)
     cbind(grad1_r, grad1_cpp)
   }
   
-  
   while (rho1 < rho1_max) {
     
     if (verbose == 1){ cat("rho 1 =", rho1, " and alpha = ", alpha, "\n") }
-    
     
     if (ver == "1"){    
       obj2 = function(w){obj1(w, alpha, rho1)}
@@ -253,7 +255,9 @@ mix.W_update = function(W, Beta, Mu, rho, data_info, white_coefs, verbose,
     
     if (opt_method == "lbfgs"){
       
-      w_new_temp = lbfgs::lbfgs(obj2, grad2, w, invisible = 1)$par
+      w_new_temp = tryCatch( error = function(e) w, 
+                             lbfgs::lbfgs(obj2, grad2, w, invisible = 1)$par) 
+        
       
     } else if (opt_method =="lbfgs-armijo") {
       

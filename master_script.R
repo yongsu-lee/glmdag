@@ -45,10 +45,10 @@ if (sysname == "Linux"){ # for CHTC server
   graph_type = "sf"
   method = "mc"
   iter = 70
-  # ell = 1
+  ell = 15
   if (path_par == F) ell = NULL
   name_temp = paste(simu_case, size,"n", n_obs, 
-                    graph_type, method, iter, sep = "_")
+                    graph_type, method, iter, ell, sep = "_")
   #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
 }

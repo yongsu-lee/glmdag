@@ -27,7 +27,7 @@ simu_info = list(
   n_conti = 3,
   n_ordin = 3,
   n_lams = 30,
-  eps_lam = 0.1,
+  # eps_lam = 0.1,
   path_par = FALSE
 )
 list2env(simu_info, globalenv())
