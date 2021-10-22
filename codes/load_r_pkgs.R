@@ -15,30 +15,30 @@
 
 if(!require(VGAM)){
   install.packages("VGAM", quiet = T)
-  library("VGAM", quietly = T)
+  library(VGAM, quietly = T)
 }
 
 
 if(!require(Matrix)){
   install.packages("Matrix", quiet = T)
-  library("Matrix", quietly = T)
+  library(Matrix, quietly = T)
 }
 
 if(!require(igraph)){
   install.packages("igraph", quiet = T)
-  library("igraph", quietly = T)
+  library(igraph, quietly = T)
 }
 
 Sys.sleep(1)
 if(!require(Rcpp)){
   install.packages("Rcpp", quiet = T)
-  library("Rcpp", quietly = T)
+  library(Rcpp, quietly = T)
 }
 
 Sys.sleep(1)
 if(!require(RcppArmadillo)){
   install.packages("RcppArmadillo", quiet = T)
-  library("RcppArmadillo", quietly = T)
+  library(RcppArmadillo, quietly = T)
 }
 
 # if(!require(RcppEigen)){
@@ -49,7 +49,7 @@ if(!require(RcppArmadillo)){
 
 if(!require(lbfgs)){
   install.packages("lbfgs", quiet = T)
-  library("lbfgs", quietly = T)
+  library(lbfgs, quietly = T)
 }
 
 # if(!require(nloptr)){
@@ -59,19 +59,19 @@ if(!require(lbfgs)){
 
 if(!require(expm)){
   install.packages("expm", quiet = T)
-  library("expm", quietly = T)
+  library(expm, quietly = T)
 }
 
 
 ## For comparison purposes
 if(!require(deal)){
   install.packages("deal", quiet = T)
-  library("deal", quietly = T)
+  library(deal, quietly = T)
 }
 
 if(!require(nnet)){
   install.packages("nnet", quiet = T)
-  library("nnet", quietly = T)
+  library(nnet, quietly = T)
 }
 
 
@@ -79,24 +79,23 @@ if(!require(nnet)){
 
 if(!require(discretecdAlgorithm)){
   install.packages("discretecdAlgorithm", quiet = T)
-  library("discretecdAlgorithm", quietly = T)
+  library(discretecdAlgorithm, quietly = T)
 }
 
 if(!require(sparsebn)){
   install.packages("sparsebn", quiet = T)
-  library("sparsebn", quietly = T)
+  library(sparsebn, quietly = T)
 }
 
 ## Imputing missing values
 
 if(!require(bnstruct)){
   install.packages("bnstruct", quiet = T)
-  library("bnstruct", quietly = T)
+  library(bnstruct, quietly = T)
 }
 
 if(!require(bnlearn)){
   install.packages("bnlearn", quiet = T)
-  library("bnlearn", quietly = T)
+  library(bnlearn, quietly = T)
 }
-
 
