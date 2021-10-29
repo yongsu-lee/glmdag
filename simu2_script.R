@@ -40,8 +40,7 @@ if (size == "small"){   # .. All the continuous nodes are discretized
   ## Discretizing continuous nodes either 3 or 5 levels
   disc_nodes = sample(which(types_by_node == "c"), n_ordin, replace = F)
   n_disc = length(disc_nodes)
-  three_level_nodes = disc_nodes[1:(n_disc/2)]
-  five_level_nodes = disc_nodes[(n_disc/2+1):n_disc]
+  five_level_nodes = disc_nodes[1:n_disc]
   
 }
 

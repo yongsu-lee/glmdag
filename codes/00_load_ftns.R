@@ -1,6 +1,6 @@
 ## Set subdirectory name according to the system
 subdir = ifelse(Sys.info()["sysname"] == "Linux", "./glmdag-master/codes/", 
-                "~/iCloud/glmdag/codes/")
+                "~/Dropbox/glmdag/codes/")
 names(subdir) <- NULL
 
 ## Load necessary packages

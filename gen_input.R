@@ -31,7 +31,7 @@ simu_info = list(
   path_par = FALSE
 )
 list2env(simu_info, globalenv())
-saveRDS(simu_info, "~/iCloud/glmdag/simu_info_queue/simu_info.rds")
+saveRDS(simu_info, "~/Dropbox/glmdag/simu_info_queue/simu_info.rds")
 
 ## Generate queue list ####
 queue_list = function(args_list, file_name){

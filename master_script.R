@@ -6,8 +6,12 @@ RNGkind("Mersenne-Twister", "Inversion", "Rejection")
 sysname = Sys.info()['sysname']
 if (sysname == "Linux"){ # for CHTC server
   
-  simu_info = readRDS("./simu_info.rds")
-  list2env(simu_info, globalenv())
+  simu_info = readRDS("./simu_info.txt")
+  list2env(as.list(simu_info), environment())
+  
+  simu_info_common = readRDS("./simu_info_common.txt")
+  list2env(as.list(simu_info_common), environment())
+  
   if (path_par == F) ell = NULL
   
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -34,10 +38,10 @@ if (sysname == "Linux"){ # for CHTC server
   
 } else { # for local macOS
   
-  setwd("~/iCloud/glmdag/")
+  setwd("~/Dropbox/glmdag/")
   init_dir = "./"
 
-  file.edit("~/iCloud/glmdag/gen_input.R")
+  file.edit("~/Dropbox/glmdag/gen_input.R")
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   # Check this block carefully! ++++++++++++++++++++++++++++++++++++++++++++++++
   # queue = read.table("queue_list", sep =",", strip.white = T)

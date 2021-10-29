@@ -12,11 +12,6 @@ admm_loop = function(W_update, Beta_update, W_init, Beta_init, white_coefs,
   
   ## Set ADMM parameters ####
   list2env(admm_args, environment())
-  # max_iter = admm_args$max_iter; rho = admm_args$rho
-  # kappa = admm_args$kappa; abs_tol = admm_args$abs_tol
-  # rel_tol = admm_args$rel_tol; eps = admm_args$eps
-  # inner_verbose = admm_args$inner_verbose
-  # warm_start = admm_args$warm_start
   
   ## Read necessary arguments ####
   n_lams = length(lambdas)
