@@ -28,7 +28,8 @@ data_input_cd = conv_to_cd_data(data_input)
 ## Generate result containers
 
 ## Run main functions - GLMDAG
-result_glmdag = glmdag(data_input, n_lams = n_lams, verbose = T)
+result_glmdag = glmdag(data_input, n_lams = n_lams, eps_lam = eps_lam, 
+                       verbose = T)
 
 ## Run main functions - CD
 result_cd = cd.run(indata = data_input_cd)
