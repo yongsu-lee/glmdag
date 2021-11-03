@@ -8,10 +8,11 @@ if (sysname == "Linux"){ # for CHTC server
   
   simu_info = read.table("./simu_info.txt", header = T)
   list2env(as.list(simu_info), environment())
-  eps_lam = as.double(eps_lam)
   
   simu_info_common = read.table("./simu_info_common.txt", header = T)
   list2env(as.list(simu_info_common), environment())
+  
+  eps_lam = as.double(eps_lam)
   simu_script = ifelse(simu_case == "simu2_mmhc_only", "simu2", simu_case)
   
   if (path_par == F) ell = NULL
@@ -27,7 +28,7 @@ if (sysname == "Linux"){ # for CHTC server
   # ell = as.integer(queue_args[2])
   
   name_temp = paste(simu_case, size,  
-                    graph_type, method, iter, sep = "_")
+                    graph_type, iter, method, sep = "_")
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
   # Pull glmdag codes from github
@@ -59,7 +60,7 @@ if (sysname == "Linux"){ # for CHTC server
 }
 
 ## Sourcing files ####
-Sys.sleep(10)
+Sys.sleep(10)l
 source(paste0(init_dir,"codes/00_load_ftns.R"))
 
 ## Generate the true graph and obtain corresponding adjacency matrix
