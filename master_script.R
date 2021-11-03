@@ -41,6 +41,15 @@ if (sysname == "Linux"){ # for CHTC server
   
 } else { # for local macOS ####
   
+  simu_info = read.table("./simu_info.txt", header = T)
+  list2env(as.list(simu_info), environment())
+  
+  simu_info_common = read.table("./simu_info_common.txt", header = T)
+  list2env(as.list(simu_info_common), environment())
+  
+  eps_lam = as.double(eps_lam)
+  simu_script = ifelse(simu_case == "simu2_mmhc_only", "simu2", simu_case)
+  
   setwd("~/Dropbox/glmdag/")
   init_dir = "./"
   
@@ -48,13 +57,13 @@ if (sysname == "Linux"){ # for CHTC server
   # Check this block carefully! ++++++++++++++++++++++++++++++++++++++++++++++++
   # queue = read.table("queue_list", sep =",", strip.white = T)
   # queue_args = queue[1, ]
-  graph_type = "sf"
-  method = "mo"
-  iter = 70
+  graph_type = "rand"
+  method ="mm"
+  iter = 1
   # ell = 15
   if (path_par == F) ell = NULL
-  name_temp = paste(simu_case, size,"n", n_obs, 
-                    graph_type, method, iter, ell, sep = "_")
+  name_temp = paste(simu_case, size,  
+                    graph_type, iter, method, sep = "_")
   #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
 }

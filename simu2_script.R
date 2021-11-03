@@ -33,7 +33,7 @@ if (size == "small"){   # .. All the continuous nodes are discretized
   ## Discretizing continuous nodes 5 levels
   disc_nodes = which(types_by_node == "c")
   n_disc = length(disc_nodes)
-  five_level_nodes = disc_nodes[1:n_disc]
+  five_level_nodes = disc_nodes[1:n_disc] # not necessary for five-level only
   
 } else if (size == "large") { # .. Some of them are discretized
   
