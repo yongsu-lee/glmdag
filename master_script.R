@@ -60,7 +60,7 @@ if (sysname == "Linux"){ # for CHTC server
 }
 
 ## Sourcing files ####
-Sys.sleep(10)l
+Sys.sleep(10)
 source(paste0(init_dir,"codes/00_load_ftns.R"))
 
 ## Generate the true graph and obtain corresponding adjacency matrix
