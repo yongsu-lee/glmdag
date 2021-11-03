@@ -36,3 +36,6 @@ result_cd = cd.run(indata = data_input_cd)
 
 # Combine two results
 result <- list(glmdag = result_glmdag, cd = result_cd)
+
+## Save the result
+saveRDS(result, file = paste0(name_temp,".rds"))

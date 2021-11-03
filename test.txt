@@ -1,0 +1,2 @@
+simu_case size n_iter eps_lam path_par
+simu1 small 100 0.1 F

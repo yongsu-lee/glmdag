@@ -6,11 +6,13 @@ RNGkind("Mersenne-Twister", "Inversion", "Rejection")
 sysname = Sys.info()['sysname']
 if (sysname == "Linux"){ # for CHTC server
   
-  simu_info = readRDS("./simu_info.txt")
+  simu_info = read.table("./simu_info.txt", header = T)
   list2env(as.list(simu_info), environment())
+  eps_lam = as.double(eps_lam)
   
-  simu_info_common = readRDS("./simu_info_common.txt")
+  simu_info_common = read.table("./simu_info_common.txt", header = T)
   list2env(as.list(simu_info_common), environment())
+  simu_script = ifelse(simu_case == "simu2_mmhc_only", "simu2", simu_case)
   
   if (path_par == F) ell = NULL
   
@@ -22,10 +24,10 @@ if (sysname == "Linux"){ # for CHTC server
   graph_type = as.character(queue_args[1])
   method = as.character(queue_args[2])
   iter = as.integer(queue_args[3])
-  ell = as.integer(queue_args[4])
+  # ell = as.integer(queue_args[2])
   
-  name_temp = paste(simu_case, size,"n", n_obs, 
-                    graph_type, method, iter, ell, sep = "_")
+  name_temp = paste(simu_case, size,  
+                    graph_type, method, iter, sep = "_")
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
   # Pull glmdag codes from github
@@ -36,12 +38,11 @@ if (sysname == "Linux"){ # for CHTC server
   Sys.sleep(10)
   init_dir = "./glmdag-master/"
   
-} else { # for local macOS
+} else { # for local macOS ####
   
   setwd("~/Dropbox/glmdag/")
   init_dir = "./"
-
-  file.edit("~/Dropbox/glmdag/gen_input.R")
+  
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   # Check this block carefully! ++++++++++++++++++++++++++++++++++++++++++++++++
   # queue = read.table("queue_list", sep =",", strip.white = T)
@@ -57,7 +58,7 @@ if (sysname == "Linux"){ # for CHTC server
   
 }
 
-## Sourcing files
+## Sourcing files ####
 Sys.sleep(10)
 source(paste0(init_dir,"codes/00_load_ftns.R"))
 
@@ -69,7 +70,6 @@ A_true = graph_set$A_true
 n_edge = sum(A_true) 
 
 ## Run simulation
-source(paste0(init_dir,simu_case,"_script.R"))
+source(paste0(init_dir, simu_script, "_script.R"))
 
-## Save the result
-saveRDS(result, file = paste0(name_temp,".rds"))
+file.remove("glmdag.zip")

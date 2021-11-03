@@ -18,8 +18,7 @@ rm(list=ls())
 
 ## Generate Simulation Information (Small) #####
 simu_info = list(
-  simu_case = "mmhc",
-  size = "small",
+  simu_case = "simu1",
   n_iter = 100,
   seed_para = 100,
   n_obs = 50,
@@ -42,6 +41,10 @@ queue_list = function(args_list, file_name){
               quote = F, row.names = F, col.names = F)
 }
 
-args_list = list(c("bi", "rand", "sf", "sw", "tree"), "mm", 1:n_iter)
+args_list = list(
+  1:100,
+  c("bi", "rand", "sf", "sw", "tree"),
+  c(50, 200),
+  paste0("simu1_eps_", c(0.05, 0.1, 0.2, 0.3, 0.4, 0.5)))
 
-queue_list(args_list, "~/iCloud/glmdag/simu_info_queue/queue_list")
+queue_list(args_list, "~/Dropbox/glmdag/simu_info_queue/queue_list")

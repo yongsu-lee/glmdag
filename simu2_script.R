@@ -23,7 +23,7 @@ data_input = gen_data(n_obs, A_true, graph_true, W_true, seed = iter)
 #.. Note that the seed set with the 'iter' number
 
 if (size == "small"){   # .. All the continuous nodes are discretized
-
+  
   ## Discretizing continuous nodes either 3 or 5 levels
   # disc_nodes = which(types_by_node == "c")
   # n_disc = length(disc_nodes)
@@ -40,7 +40,7 @@ if (size == "small"){   # .. All the continuous nodes are discretized
   ## Discretizing continuous nodes either 3 or 5 levels
   disc_nodes = sample(which(types_by_node == "c"), n_ordin, replace = F)
   n_disc = length(disc_nodes)
-  five_level_nodes = disc_nodes[1:n_disc]
+  five_level_nodes = disc_nodes[1:n_disc] # not necessary for five-level only
   
 }
 
@@ -73,5 +73,20 @@ data_input =
 
 ## Run main functions
 
-result = glmdag(data_input, n_lams = n_lams, eps_lam = eps_lam,  
-                path_par = path_par, path_par_num = ell, verbose = T)
+# glmdag
+if (simu_case == "simu2") {
+  result = glmdag(data_input, n_lams = n_lams, eps_lam = eps_lam,  
+                  path_par = path_par, path_par_num = ell, verbose = T)
+  saveRDS(result, file = paste0(name_temp,".rds"))
+}
+
+# mmhc for "mm" type data
+if (simu_case %in% c("simu2", "simu2_mmhc_only")) 
+{
+  if (method == "mm") {
+    A_est_hc = hc(data_input)
+    A_est_mmhc = mmhc(data_input)
+    result.mmhc = list(hc = A_est_hc, mmhc = A_est_mmhc)
+    saveRDS(result.mmhc, file = paste0(name_temp, "hc.rds") )
+  }
+}
