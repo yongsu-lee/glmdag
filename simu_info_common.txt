@@ -1,2 +1,2 @@
-simu_case       size  n_iter n_obs n_multi n_conti n_ordin n_lams eps_lam path_par
-simu2_mmhc_only small  100    50      4       3       3      30     0.5    FALSE 
+seed_para simu_case size n_obs graph_type n_multi n_conti n_ordin n_lams path_par
+100 simu2 large 150 rand 15 10 25 30 TRUE

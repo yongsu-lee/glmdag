@@ -1,13 +1,3 @@
-# Debugging Block
-if (F){
-  if (Sys.info()['sysname'] == "Darwin") source("./master_script.R")
-  seed_para = 1
-  n_obs = 50 # the number of observations
-  n_nodes = 30 # the number of total (multinomial) node
-  n_lams = 30
-  
-}
-
 # Randomly assign continuous or multinomial nodes
 types_by_node = gen_node_types(n_conti + n_ordin, n_multi, 0, seed = seed_para)
 
@@ -24,12 +14,6 @@ data_input = gen_data(n_obs, A_true, graph_true, W_true, seed = iter)
 
 if (size == "small"){   # .. All the continuous nodes are discretized
   
-  ## Discretizing continuous nodes either 3 or 5 levels
-  # disc_nodes = which(types_by_node == "c")
-  # n_disc = length(disc_nodes)
-  # three_level_nodes = disc_nodes[1:(n_disc/2)]
-  # five_level_nodes = disc_nodes[(n_disc/2+1):n_disc]
-  
   ## Discretizing continuous nodes 5 levels
   disc_nodes = which(types_by_node == "c")
   n_disc = length(disc_nodes)
@@ -37,18 +21,12 @@ if (size == "small"){   # .. All the continuous nodes are discretized
   
 } else if (size == "large") { # .. Some of them are discretized
   
-  ## Discretizing continuous nodes either 3 or 5 levels
+  ## Discretizing continuous nodes either 5 levels
   disc_nodes = sample(which(types_by_node == "c"), n_ordin, replace = F)
   n_disc = length(disc_nodes)
   five_level_nodes = disc_nodes[1:n_disc] # not necessary for five-level only
   
 }
-
-## Discretizing into 3 levels
-# temp = data_input[three_level_nodes]
-# temp1 = lapply(temp, function(x) 
-#   cut(x, c(min(x)-1, quantile(as.matrix(x), probs = c(0.34, 0.67, 1))), 
-#       labels = 1:3))
 
 ## Discretizing into 5 levels
 temp = data_input[five_level_nodes]

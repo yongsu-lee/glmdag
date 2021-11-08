@@ -551,7 +551,7 @@ eval_table = function(A_est_list, A_true, type, K_list, single = FALSE){
     FP[u] = P[u] - R[u] - E[u]
     
     TPR = E/n_edges
-    FDP = (R + FP)/P
+    FDP = ifelse(P==0, 1, (R + FP)/P)
     SHD[u] = R[u] + M[u] + FP[u]
     JI[u] = E[u] / (P[u] + n_edges - E[u])
     

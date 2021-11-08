@@ -1,2 +1,2 @@
-seed_para
-1
+eps_lam method
+0.4 mo
