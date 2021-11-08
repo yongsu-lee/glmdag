@@ -65,6 +65,6 @@ if (simu_case %in% c("simu2", "simu2_mmhc_only"))
     A_est_hc = hc(data_input)
     A_est_mmhc = mmhc(data_input)
     result.mmhc = list(hc = A_est_hc, mmhc = A_est_mmhc)
-    saveRDS(result.mmhc, file = paste0(name_temp, "hc.rds") )
+    saveRDS(result.mmhc, file = paste0(name_temp, "_mmhc.rds") )
   }
 }
