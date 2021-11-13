@@ -1,2 +1,0 @@
-seed_para simu_case size n_obs graph_type n_multi n_conti n_ordin n_lams path_par
-100 simu2 large 150 rand 15 10 25 30 TRUE
