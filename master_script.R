@@ -37,7 +37,7 @@ if (sysname == "Linux"){ # for CHTC server
   # Sys.sleep(10)
   # unzip("glmdag.zip")
   # Sys.sleep(10)
-  init_dir = "./glmdag-master/"
+  init_dir = "./"
   
 } else { # for local macOS ####
   
