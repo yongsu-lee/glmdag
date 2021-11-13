@@ -32,11 +32,11 @@ if (sysname == "Linux"){ # for CHTC server
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
   # Pull glmdag codes from github
-  url = "https://github.com/yongsu-lee/glmdag/archive/refs/heads/master.zip"
-  download.file(url = url, destfile = "glmdag.zip")
-  Sys.sleep(10)
-  unzip("glmdag.zip")
-  Sys.sleep(10)
+  # url = "https://github.com/yongsu-lee/glmdag/archive/refs/heads/master.zip"
+  # download.file(url = url, destfile = "glmdag.zip")
+  # Sys.sleep(10)
+  # unzip("glmdag.zip")
+  # Sys.sleep(10)
   init_dir = "./glmdag-master/"
   
 } else { # for local macOS ####
@@ -81,5 +81,3 @@ n_edge = sum(A_true)
 
 ## Run simulation
 source(paste0(init_dir, simu_script, "_script.R"))
-
-file.remove("glmdag.zip")
