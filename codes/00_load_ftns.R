@@ -1,7 +1,8 @@
 ## Set subdirectory name according to the system
-subdir = ifelse(Sys.info()["sysname"] == "Linux", "./codes/", 
-                "~/Dropbox/glmdag/codes/")
-names(subdir) <- NULL
+
+# subdir = ifelse(Sys.info()["sysname"] == "Linux", "./codes/", 
+#                 "~/Dropbox/glmdag/codes/")
+# names(subdir) <- NULL
 
 ## Load necessary packages
 source(paste0(subdir, "load_r_pkgs.R"))

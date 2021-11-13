@@ -38,6 +38,8 @@ if (sysname == "Linux"){ # for CHTC server
   # unzip("glmdag.zip")
   # Sys.sleep(10)
   init_dir = "./"
+  subdir = "./codes/"
+  names(subdir) <- NULL
   
 } else { # for local macOS ####
   
@@ -52,6 +54,8 @@ if (sysname == "Linux"){ # for CHTC server
   
   setwd("~/Dropbox/glmdag/")
   init_dir = "./"
+  subdir = "~/Dropbox/glmdag/codes/"
+  names(subdir) <- NULL
   
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   # Check this block carefully! ++++++++++++++++++++++++++++++++++++++++++++++++

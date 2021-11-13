@@ -62,7 +62,7 @@ if (simu_case == "simu2") {
 if (simu_case %in% c("simu2", "simu2_mmhc_only")) 
 {
   if (method == "mm") {
-    if (path_par == T | (path_par == F & ell == 1)) {
+    if (path_par == F | (path_par == T & ell == 1)) {
       A_est_hc = hc(data_input)
       A_est_mmhc = mmhc(data_input)
       result.mmhc = list(hc = A_est_hc, mmhc = A_est_mmhc)
