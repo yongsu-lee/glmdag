@@ -1,0 +1,2 @@
+simu_case n_lams path_par
+hcc 30 TRUE
