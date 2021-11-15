@@ -20,8 +20,8 @@ if (sysname == "Linux"){ # for CHTC server
   
   #!/usr/bin/env Rscript
   queue_args = commandArgs(trailingOnly=TRUE)
-  ell = as.integer(queue_args[1])
-  # iter = as.integer(queue_args[1])
+  iter = as.integer(queue_args[1])
+  ell = as.integer(queue_args[2])
   # graph_type = as.character(queue_args[1])
   # method = as.character(queue_args[2])
   
